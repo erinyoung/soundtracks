@@ -1,92 +1,364 @@
 # I know github is not really for blogging
 but... I don't want to create a blog...
 
-Really, what I want, is for the ultimate work soundtrack full of awesome music, AND for people with similar minds to share their suggestions with me.
+`()` is indicative that I need to be in a certain mood to enjoy the OST.
+
 
 Also, I want a place to save my list because sometimes I forget games when I redo my youtube playlist (youtube only allows 5000 songs per playlist)
 
-To add a playlist to an existing playlist in youtube, click on the playlist on youtube and add `&disable_polymer=true` to see the menu option to add entire playlist to another playlist. 
 
-## Here's my list of video games that have awesome original soundtracks:
-* [Animal Crossing](https://www.youtube.com/watch?v=zriYPJvR45s&list=PLLr-_-CJi8UW2B1G1b6Bi1s-KV_pfKhEG)
-* [Banjo Kazooie](https://www.youtube.com/watch?v=dQNAVqW1shA&list=PLFA7714E316F2CB06)
-* [Bastion](https://www.youtube.com/watch?v=8s1F523S2lw&list=PLC26D4FE16FA60595)
-* [Captain Toad: Treasure Tracker](https://www.youtube.com/watch?v=RKNDfhLaHoI&list=PLQWz7Y_QbVVwWbbp6fwavUIC9M8NhKaho)
-* [Celeste](https://www.youtube.com/watch?v=Ctuo3ws3EKs&list=PL1eFjFaZ9VkyDcVnvJyEC3P8tCFpZpRoU)
-* [Chrono Cross](https://www.youtube.com/watch?v=h-IJvyAayzA&list=PLe49bTB1MEI2UcYl9lzqn5MeUH5aaGhdu)
-* [Chrono Trigger](https://www.youtube.com/watch?v=ycKVKyfCX1k&list=PL21BAA7C6EDEB63A3)
-* [Civilization: Beyond Earth](https://www.youtube.com/watch?v=Ctuo3ws3EKs&list=PL1eFjFaZ9VkyDcVnvJyEC3P8tCFpZpRoU)
-* [Civilization IV](https://www.youtube.com/watch?v=5e0Qelqp-Cc&list=PLFKDUPVhA6nghozYxEyMNdEVF_d08QVsn)
-* [Civilization V](https://www.youtube.com/watch?v=5S1gDr2v-2s&list=PLP1e55F2kokZW83I--lqmzmdWjcE9zUi8)
-* [Civilization VI](https://www.youtube.com/watch?v=vyZMj6v9J4o&list=PLh4Eme5gACZGDVGh-unzj0p70NiADSdY0)
-* [Dark Souls](https://www.youtube.com/watch?v=NEBm3IUYvbU&list=PLA69C1EEA3355844F)
-* [Dark Souls II](https://www.youtube.com/watch?v=exjvlf4y1E4&list=PLq01WMOye1_aEPToISotfVap8NB7ZfH1l)
-* [Dark Souls III](https://www.youtube.com/watch?v=PrYPqtWWB3s&list=PLCLeSTzz6trYB89ZYFswkVKoQWPZ6e7_1)
-* [Diablo II](https://www.youtube.com/watch?v=OO-vG8oPhhM&list=PLD80CC3FEBE323161)
-* [Diablo III](https://www.youtube.com/watch?v=h-so9GjmSps&list=PLAE4AD9A2DD9F6CFD)
-* [Dragon Age: Origins](https://www.youtube.com/watch?v=CP3TV5avnBI&list=PL7E568787B13D27D7)
-* [Dragon Age: Inquisition](https://www.youtube.com/watch?v=JHVe2dHsCT8&list=PL1FohRYdWClBTT8U3uFDXTdc_nz4Sdleu)
-* [Final Fantasy III: DS](https://www.youtube.com/watch?v=g0WYCIxsaJE&list=PL144B5ADEE40FDFA5)
-* [Final Fantasy IV](https://www.youtube.com/watch?v=EBJeAxjmWac&list=PL1E168E0B66861FC0)
-* [Final Fantasy V](https://www.youtube.com/watch?v=IKwTSApHghM&list=PL04BC1AAE273DC8F3)
-* [Final Fantasy VI](https://www.youtube.com/watch?v=rKvqLZg3IQQ&list=PL834FCA340E5D20DB)
-* [Final Fantasy VII](https://www.youtube.com/watch?v=WPx3h5bwXVQ&list=PL77D98F68F6DBB35D)
-* [Final Fantasy VIII](https://www.youtube.com/watch?v=Zfd9krEsr-k&list=PLAC6CCD5897973D5D)
-* [Final Fantasy IX](https://www.youtube.com/watch?v=BIyeMkCsG6E&list=PL8q2b-XwaZZMfciAUY29i-wlwIXLQBdnA)
-* [Final Fantasy X](https://www.youtube.com/watch?v=5lP_anjF6rA&list=PLEE9B8E4750CB344A)
-* [Final Fantasy X-2](https://www.youtube.com/watch?v=F9ee_Ez6tFk&list=PL0F07A6AAE78073A5)
-* [Final Fantasy XI:Online](https://www.youtube.com/watch?v=Nlks4Bz2OgI&list=PLGOFyuQAQmyVfC1kjI0s3e36Ugx_0iLBf)
-* [Final Fantasy XII](https://www.youtube.com/watch?v=DKNZvy2YfUc&list=PL4253C5C473A12A64)
-* [Final Fantasy XII: Revenant Wings](https://www.youtube.com/watch?v=N-L-282EB6Q&list=PLJg-ZGM36rlx0jt8Qjrk5CT7-nq0j7F4K)
-* [Final Fantasy XIII](https://www.youtube.com/watch?v=Xi8kiTqARFg&list=PL7C498688F14F6A0D)
-* [Final Fantasy XIV:Online](https://www.youtube.com/watch?v=YurCzvTmxFQ&list=PLL5mKr-nFprKMsrDqpwsI1L0FKj4KgouH)
-* [Final Fantasy XV](https://www.youtube.com/watch?v=THht1RqCh8U&list=PLc_RJ2laVnkAdkzdK2w-BdiuPDIw5eyIZ)
-* [Final Fantasy Crystal Chronicles](https://www.youtube.com/watch?v=zWzWibsL-LY&list=PL5F286D0D14A5E1B0)
-* [Final Fantasy Tactics](https://www.youtube.com/watch?v=jgHjpRPxyhA&list=PL5C894E719DEECEB2)
-* [Final Fantasy Tactics Advance](https://www.youtube.com/watch?v=QI8i6Izavn0&list=PL6F0DCBD44E085871)
-* Fire Emblem: Three Houses
-* [Hearthstone](https://www.youtube.com/watch?v=sS7CwUVrFLI&list=PLohKTrdbMC6faD8jkn9kDBoLubTnvQ0cu)
-* [Hollow Knight](https://www.youtube.com/watch?v=eqispO2Bi2k&list=PLSaAi5XOwA7O1eDCn1lMZ4L1YGNZwXvvu)
-* [ICO](https://www.youtube.com/watch?v=FjTq2ao2AR0&list=PLB766B6B451C9F768)
-* [Journey](https://www.youtube.com/watch?v=sXD2eWLqzU0&list=PLBDBA870DF26340C0)
-* [Kingdom Hearts](https://www.youtube.com/watch?v=ExsP_nCOiJY&list=PL2FFE386842EA290F)
-* [Kingdom Hearts 2](https://www.youtube.com/watch?v=7IS9zfIv54Y&list=PL19D566F984B8FEEB)
-* [Kingdom Hearts 3](https://www.youtube.com/watch?v=SQUS_wkA0NY&list=PLTQuApv7TYdZmYse-yTg7xqSIlpEW_QU_)
-* [Mario Kart 8](https://www.youtube.com/watch?v=E2U5GoX4dew&list=PLTY-fHX-ZIGwdsXnDUPhGYLkhvH9TmtXD)
-* [Offworld Trading Company](https://www.youtube.com/watch?v=ZepB_8wcu8Q&list=PLacZIsYWZBBnGKFaQhl-dU9Ax9nTuEnzn)
-* [Pikmin](https://www.youtube.com/watch?v=IyWj9lC7-5s&list=PL13D58C62AD5DE7A2)
-* [Pikmin 2](https://www.youtube.com/watch?v=Z00ICDJiYEA&list=PL8647D1D8ED351AC8)
-* [Pikmin 3](https://www.youtube.com/watch?v=CXdNLpOrwFQ&list=PLz5gUls4mkX8JUFzdNYPyF5Rudaz3rVQk)
-* [Pokemon Black/White](https://www.youtube.com/watch?v=_s-pdfAbt1o&list=PL9mCMKp0o7xtyh_K9ul8b9lLL5OhC1YY-)
-* [Pokemon Diamond/Pearl/Platinum](https://www.youtube.com/watch?v=vohBw-w7-nY&list=PL179D9EEB47465C35)
-* [Pokemon Red/Blue/Yellow](https://www.youtube.com/watch?v=e8pE9euOYbs&list=PLA26855F88564F001)
-* [Pokemon Ruby/Sapphire/Emerald](https://www.youtube.com/watch?v=36is0Mf8Tcs&list=PL46A49E65817F8577)
-* [Pokemon Sun/Moon](https://www.youtube.com/watch?v=7r-KYMUypX4&list=PLcEun0ol29M0LBzbM8G1FkI8IcViwIU0H)
-* [Pokemon X/Y](https://www.youtube.com/watch?v=FzOKo3OL6R8&list=PLvNp0Boas7228Oo32FVb_Hl1NhvfKVmG2)
-* [Red Dead Redemption](https://www.youtube.com/watch?v=0cXsoRRYf5A&list=PL880D572DF1EA418B)
-* [Shadow of Mordor](https://www.youtube.com/watch?v=xQ9OpOJOEWs&list=PLUJ2jSuZdH-ndkbuDiMcOfgPPTBUlBrpg)
-* [Shadow of the Colossus](https://www.youtube.com/watch?v=VJnfkb1hKv4&list=PL4619CDF2FD0D8394)
-* [Super Mario Odyssey](https://www.youtube.com/watch?v=CoK-r0rjcb0&list=PLwDEuPBgBi4OX323eK2xiASKb5Cfk4QBE)
-* [Super Mario Bros. U](https://www.youtube.com/watch?v=nboeOelWjis&list=PLz5gUls4mkX9oDmdUAfgpiprWW7e8FsqX)
-* [The Last Guardian](https://www.youtube.com/watch?v=cPreI-uoAfk&list=PL51-dx-CgzyYVbnbOhPjkuCioYNfxKOC9)
-* [The Legend of Zelda: Breath of the Wild](https://www.youtube.com/watch?v=SM4QwUlxY6M&list=PLh4Eme5gACZEAazTK1vSZn3DCYJLQ4YHH)
-* [The Legend of Zelda: Four Swords Adventures](https://www.youtube.com/watch?v=eeOLny9dxlg&list=PLY9Y8xWdC8IJwRHJDisHt7SWWDwPav-KD)
-* [The Legend of Zelda: Majora's Mask](https://www.youtube.com/watch?v=cYX3TLJnTVE&list=PL46DD3C5BD35E44BF)
-* [The Legend of Zelda: Ocarina of Time](https://www.youtube.com/watch?v=63FRPYlbcPg&list=PL8D1E4637261C45EF)
-* [The Legend of Zelda: Skyward Sword](https://www.youtube.com/watch?v=7rEielqyAZ0&list=PLC5AE6E1EEA630D30)
-* [The Legend of Zelda: The Wind Waker](https://www.youtube.com/watch?v=o78T9-I4OGA&list=PL3E7B876342ECE5C0)
-* [The Legend of Zelda: Twilight Princess](https://www.youtube.com/watch?v=7fmmMqjCaxY&list=PLF6FC95426946F1A5)
-* [World of Warcraft](https://www.youtube.com/watch?v=dttGdK0l1G0&list=PL14170D5B9A09118A)
-* [World of Warcraft: Burning Crusade](https://www.youtube.com/watch?v=5AAE-Vorg04&list=PLE2A521E34FEBDF15)
-* [World of Warcraft: Wrath of the Lich King](https://www.youtube.com/watch?v=Mm3XnIcUvlA&list=PLD6FA077628846E8F)
-* [World of Warcraft: Cataclysm](https://www.youtube.com/watch?v=44oKxA-zN40&list=PL4D33EA76FC37FAC5)
-* [World of Warcraft: Mists of Pandaria](https://www.youtube.com/watch?v=fowGAMZWEu4&list=PLJ8iSLqfEQcJ13w4jIG_iqfl2YmkEaUS5)
-* [World of Warcraft: Warlords of Draenor](https://www.youtube.com/watch?v=5PTIZLQBlEI&list=PLOilZzs2vM050yHW2gMsfr4gte4SUzAlC)
-* [World of Warcraft: Legion](https://www.youtube.com/watch?v=Xi0i-X4rkVE&list=PLW868HfwGgCOsu6P86o1lazACABWSfO7J)
-* [World of Warcraft: Battle for Azeroth](https://www.youtube.com/watch?v=K7Hw8QEGnno&list=PLW868HfwGgCMhScTxVd1I4hOEwJYwDr3u)
-* [Yooka-Laylee](https://www.youtube.com/watch?v=twyRqE25fgw&list=PL6r3f4ADJaaqTrSMNLHpvmQWNftL5Ds8M)
-* [Yoshi's Woolly World](https://www.youtube.com/watch?v=e_zVCF3qicQ&list=PLkRSD11r9mB_HbAxcCdYs7kMQOTzrDokj)
-* [Yoshi's Crafted World](https://www.youtube.com/watch?v=qgDmsULIp1w&list=PLwDEuPBgBi4M-Fjo6cF9rckB-YWVphWUk)
-* [Xenoblade Chronicles X](https://www.youtube.com/watch?v=UwTebN-QCq8&list=PLvXMARe51eeakpkIZczyy3RsWlOQx3M4R)
+TBA: WoW, Square games, sonic, fire emblem, kibry, mario, zelda, kingdom hearts, Donkey Kong (and the rest of the nintendo games), pokemon, xenoblade, assassins's creed, and more
 
-If there a game missing to this list, don't hesitate to create a pull request!
+## 1992
+Streets of Rage 2
+
+## 1994
+Final Fantasy VI
+EarthBound
+Sonic the Hedgehog 3
+Super Metroid
+
+## 1995
+Chrono Trigger
+Don Kong Country 2: Diddy's Kong Quest
+
+## 1996
+PaRapp that Rapper
+Super Mario 64
+
+
+## 1997 
+Castlevania: Symphony of the Night
+Final Fantasy VII
+
+## 1998
+Grim Fandango
+The Legend of Zelda: Orcarina of Time
+Baldur's Gate
+Sentinel Returns
+Every Quest
+
+## 1999
+Black & White
+Oni
+Vampire: the Masquerade - Redemption
+Um Jammer Lammy
+
+## 2000
+Diable II
+Final Fantasy IX
+The Sims
+Jet Set Radio
+Escape from Monkey Island
+Samba de Amigo
+
+## 2001
+Halo: Combat Evolved
+Tropico
+Myst III: Exile
+Grand Theft Auto III
+Phoenix Write: Ace Attorney
+Silent Hill 2
+Age of Mythology
+Pikmin
+
+## 2002
+Metroid Prime
+The Elder Scrolls III: Morrowind
+Warcraft III: Reign of Chaos
+Medal of Honor: Allied Assault
+Grand Theft Auto: Vice City
+Nverwinter Nights
+Super Monkey Ball 2
+
+## 2003
+Star Wars: Knights of the Old Republic
+Call of Duty
+Legend of Zelda: The Wind Waker
+Star Wars Galaxies
+Age of Mythology: The Titals
+Jedi Knight: Jedi Academy
+Final Fantasy XI
+Prince of Persia: The Sands of Time
+Fable
+
+## 2004
+Half-Life 2
+Halo 2
+Ninja Gaiden
+Katamari Damacy
+Doom 3
+The Sims 2
+EverQuest II
+Final Fantasy XI
+City of Heroes
+Fable
+The Bard's Tale
+Sin Megami Tensei: Noturne
+X-Men Legends
+Jade Empire
+
+## 2005
+God of War
+Shadow of the Colussus
+World of Warcraft
+Call of Duty 2
+We Love Katamari
+Indigo Prophecy
+Perfect Dark Zero
+Lumines
+Nintendogs
+Jade Empire
+X-Men Legends II: Rise of Apocalpyse
+Dungeon Siege II
+Star Wars Knights of the Old Republic II: The Sith Lords
+Civilization IV
+Spore
+
+## 2006
+Gears of War
+Tomb Raider: Legend
+The Elder Scrolls IV: Oblivion
+Okami
+Bully
+Electroplankton
+Final Fantaxy XII
+Kingdome Hearts II
+Valkyried Profile 2: Silmeria
+Star Wars: Empire at War
+
+## 2007
+Portal
+BioShock
+flOw
+Okami
+The Orange Box
+Halo 3
+Eternal Sonata
+Final Fantasy Tactics: The War of the Lions
+Persona 3
+Crysis
+Super Mario Galaxy
+Assassin's Creed
+God of War II
+Ratchet & Clank Future: Tools of Destruction
+The Legend of Zelda: Twilight Princess
+Metroid Prime 3: Corruption
+Super Paper Mario
+Heavenly Sword
+Uncharted: Drake's Fortune
+Warhawk
+
+## 2008
+Fallout 3
+Dead Space
+World of Goo
+LittleBigPlanet
+Fable II
+Warhammer: Age of Reckoning
+The World Ends iwth You
+Metal Gear Solid 4: Guns of the Patriots
+Sonic Unleashed
+Spore
+
+## 2009
+Uncharted 2: Among Thieves
+Flower
+Batman: Arkham Asylum
+Brual Legend
+Dragon Age: Origins
+Borderlands
+Halo 3
+
+## 2010
+Red Dead Redemption
+Heavy Rain
+Alan Wake
+Fable III
+Halo: Reach
+God of War III
+StarCraft II
+Donkey Kong Country Returns
+Kirby's Epic Yarn
+Civilization V
+Fallout: New Vegas
+Mass Effect 2
+Assassin's Creed: Brotherhood
+Super Mario Galaxy 2
+Final Fantasy XIII
+James Bond 007: Blood Stone
+
+## 2011
+The Elder Scrolls V: Skyrim
+Portal 2
+Minecraft
+Batman: Arkham City
+Rayman Origins
+L.A. Noire
+Gears of Ware 3
+LittleBigPlanet 2
+Kirby's Return to Dream Land
+Lost in Shadow
+Epic Mickey
+The Witcher 2
+Battlefield 3
+Assassin's Creed: Revelations
+The Legend of Zelda: Skyward Sword
+Uncharted 3: Drakes Deception
+Dark Souls
+Deus Ex: Human Revolution
+Dragon Age II
+Bastion
+From Dust
+Sound Shapes
+
+## 2012
+Hotline Miami
+Journey
+Bastion
+Dishonored
+Halo 4
+Assassin's Creed III
+Boderlands 2
+Dishonored
+Xenoblade Chronicles
+Diablo III
+Guild Wars 2
+Darksiders II
+Epic Mickey 2
+Call of Duty: Black Ops II
+Max Payne 3
+XCOM: Enemy Unknown
+
+## 2013
+The Last of Us
+BioShock: Infinite
+Journey
+Assassin's Creed IV: Black Flag
+Ni no Kuni: Wrath of the White Witch
+Super Mario 3d World
+The Legend of Zelda: A Link Between Worlds
+Animal Crossing: New Leaf
+Titanfall
+The Elder Scrolls Online
+Fantasia: Music Evolved
+Guacamelee
+
+## 2014
+Middle-earth: Shadow of Mordor
+Alien: Isolation
+Papers, Please
+Destiny
+Hearthstone
+Far Cry 4
+The Last of Us
+Dragon Age: Inquisition
+Transistor
+Evolve
+No Man's Sky
+
+## 2015
+The Witcher 3: Wild Hunt
+Crypt of the NecroDancer
+Ori and the Blind Forest
+Fallout 4
+Batman: Arkham Knight
+Bloodborne
+Everybody's Gone to the Rapture
+Dragon Age: Inquisition
+Transistor
+Wolfenstein: The New Order
+Mario Kart 8
+Shovel Knight
+Undertale
+
+## 2016
+Overwatch
+Inside
+The Last Guardian
+Uncharted 4: A Thief's End
+The Witcher 3
+Ori and the Blind Forest
+Persona 5
+Final Fantasy XV
+Skylanders: Imaginators
+Stardew Valley
+
+## 2017
+The Legend of Zelda: Breath of the Wild
+Hellblade: Senua's Sacrifice
+Super Mario Odyssey
+Cuphead
+Uncharted 4: A Theif's End
+Doom
+Hitman
+Hollow Knight
+Ni no Kuni II: Revenant Kingdom
+The Artful Escape
+
+## 2018
+God of War
+Celeste
+Nier: Automata
+Persona 5
+Super Mario Odyssey
+Kingdom Hearts III
+Ori and the Will of Wisps
+
+## 2019
+Control
+Red Dead Redemtion 2
+Untitled Goose Game
+Luigi's Mansion 3
+Ape Out
+Outer Wilds
+Disco Elysium
+God of War
+Tetris Effect
+Sekir: Shadow's Die Twice
+Sayonara Wild Hearts
+
+## 2020
+Hades
+Ghost of Tsushima
+The Last of Us Part II
+Spider-Man: Miles Morales
+Sekiro: Shadows Die Twice
+Death Stranding
+
+## 2021
+Unpacking
+Inscryption
+Ratchet & Clank: Rift Apart
+Returnal
+No Man's Sky
+Chicory: A Colorful Tale
+It Takes Two
+Hades
+Ori and the Will of Wisps
+Deep Rock Galactic
+Animal Crossing: New Horizons
+Fhost of Tsushima
+
+## 2022
+God of War Ragnarok
+Elden Ring
+Tunic
+(Vampire Survivors)
+Kirby and the Forgotten Land
+Horizon Forbidden West
+Final Fantasy XIV: Endwalker
+Sable
+Psychonauts 2
+
+## 2023
+Hi-Fi Rush
+Baldur's Gate 3
+Alan Wake 2
+Super Mario Bros. Wonder
+The Legend of Zelda: Tears of the Kingdom
+
+## 2024
+## 2025
+## 2026
+## 2027
