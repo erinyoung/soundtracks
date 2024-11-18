@@ -61,9 +61,9 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 - The Legend of Zelda: Orcarina of Time
 - Baldur's Gate
 - Sentinel Returns
-- Ever Quest
 
 ## 1999
+- [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
 - Black & White
 - Oni
 - Final Fantasy VIII
@@ -126,7 +126,7 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 - Doom 3
 - Dragon Quest VIII
 - The Sims 2
-- EverQuest II
+- [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
 - City of Heroes
 - Fable
 - The Bard's Tale
