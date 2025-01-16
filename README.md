@@ -219,7 +219,7 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 
 ## 2009
 - Uncharted 2: Among Thieves
-- Flower
+- [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - Dragon Quest IX
 - Final Fantasy XIII
 - Kingdom Hearts 358/2 Days
