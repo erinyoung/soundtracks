@@ -124,8 +124,8 @@ Donkey Kong 64 by Grant Kirkhope
 
 Chrono Cross by Yasunori Mitsuda (late '99 in JP)
 
-
-
+https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
+https://composercode.com/video-game-composers/
 
 
 - [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
@@ -1001,6 +1001,7 @@ League of Legends (early builds) by Riot Games composers
 - Sayonara Wild Hearts
 
 ## 2020
+https://daily.bandcamp.com/best-of-2020/the-best-video-game-music-of-2020
 Hades by Darren Korb
 
 Ori and the Will of the Wisps by Gareth Coker
@@ -1029,6 +1030,7 @@ Assassin's Creed Valhalla by Jesper Kyd, Sarah Schachner, Einar Selvik
 - Death Stranding
 
 ## 2021
+https://daily.bandcamp.com/best-of-2021/the-best-video-game-music-of-2021
 The Artful Escape by Johnny Galvatron
 
 Metroid Dread by Kenji Yamamoto, Ryo Nagamatsu
@@ -1063,6 +1065,7 @@ Hitman 3 by Niels Bye Nielsen
 - Ghost of Tsushima
 
 ## 2022
+https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks-of-2022-according-to-composers/
 God of War Ragnarök by Bear McCreary
 
 Elden Ring by Tsukasa Saitoh
@@ -1098,6 +1101,7 @@ Starfield by Inon Zur
 - Psychonauts 2
 
 ## 2023
+https://www.videogameschronicle.com/features/the-best-game-music-of-2023-as-chosen-by-composers/
 
 Hi-Fi Rush by Brian Gibson
 
@@ -1128,28 +1132,47 @@ Cyberpunk 2077: Phantom Liberty by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leo
 - Final Fantasy XVI
 
 ## 2024
-Final Fantasy VII Rebirth by Mitsuto Suzuki, Masashi Hamauzu
-
-Astro Bot by Various Artists
-
-Nine Sols by FFXX, Im Baek Hun, Troy Lin, Vincent Yang, Collage
-
-Star Wars: Outlaws by Jon Everist, Kazuma Jinnouchi
-
-Helldivers 2 by Wilbert Roget II
-
-Quidditch Champions by Various Artists
-
-Nordic Ashes: Survivors of Ragnarok by Various Artists
-
-Persona 3 Reload by Shoji Meguro
-
-Tekken 8 by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
-
-Prince of Persia: The Lost Crown by Mentrix, Gareth Coker
-
-- Visions of Mana
-
+- [Final Fantasy VII Rebirth](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth) by Mitsuto Suzuki, [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [Astro Bot](https://en.wikipedia.org/wiki/Astro_Bot) by [Kenneth C. M. Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer))
+- [Metaphor:_ReFantazio](https://en.wikipedia.org/wiki/Metaphor:_ReFantazio) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
+- [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game)) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
+- [Stellar Blade](https://en.wikipedia.org/wiki/Stellar_Blade) by Hwang Joo-eun, Oliver Good, and Keita Inoue
+- [Nine Sols](https://en.wikipedia.org/wiki/Nine_Sols) by FFXX, Im Baek Hun, Troy Lin, Vincent Yang, Collage
+- [Star Wars: Outlaws](https://en.wikipedia.org/wiki/Star_Wars_Outlaws) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II), [Jon Everist](https://en.wikipedia.org/wiki/Jon_Everist), and Kazuma Jinnouchi
+- [Helldivers 2](https://en.wikipedia.org/wiki/Helldivers_2) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II)
+- [Quidditch Champions](https://en.wikipedia.org/wiki/Harry_Potter:_Quidditch_Champions)
+- Nordic Ashes: Survivors of Ragnarok by Rubén Melià
+- [Persona 3 Reload]() by Shoji Meguro
+- [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
+- [Prince of Persia: The Lost Crown]() by Mentrix, Gareth Coker
+- [Visions of Mana]() by 
+- [Balatro]()
+- [The Legend of Zelda: Echoes of Wisdom]()
+- [8-bit Adventures 2]()
+- [Animal Well]()
+- [1000xResist]()
+- [Elden Ring]()
+- [Pacific Drive]()
+- [Beastieball]()
+- [Kirby and the Forgotten Land]()
+- [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]
+- [Eastward Octopia]
+- Fantasian: Neo Dimension
+- [Penny’s Big Breakaway]
+- [Voidwrought]()
+- [Hauntii]()
+- [Splatoon 3]
+- [Marvel Rivals]()
+- [Arctic Eggs]()
+- [Surmount]()
+- [Still Wakes The Deep]()
+- [Flock]()
+- [Tekken 8]()
+- [Indiana Jones and the Great Circle]()
+- [Arco]()
+- [Crow Country]()
+- [Egg Squeeze]()
+- [Wilmot Works It Out]()
   
 ## 2025
 ## 2026
