@@ -11,21 +11,24 @@ Also, I want a place to save my list because sometimes I forget games when I red
 TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of the nintendo games), pokemon, xenoblade, assassins's creed, by year, and more
 
 ## 1986
-- (Dragon Quest)
+- ([Dragon Quest](https://en.wikipedia.org/wiki/Dragon_Quest)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1987
-- (Final Fantasy I)
-- (Dragon Quest II)
+- ([Final Fantasy I](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- ([Dragon Quest II](https://en.wikipedia.org/wiki/Dragon_Quest_II)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1988
-- (Dragon Quest III)
+- ([Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1989
-- (Final Fantasy II)
+- ([Final Fantasy II](https://en.wikipedia.org/wiki/Final_Fantasy_II)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 ## 1990
-- (Final Fantasy III)
-- (Dragon Quest IV)
+- ([Mega Man 3](https://en.wikipedia.org/wiki/Mega_Man_3)) by [Yasuaki Fujita](https://en.wikipedia.org/wiki/Yasuaki_Fujita) and [Harumi Fujita](https://en.wikipedia.org/wiki/Harumi_Fujita)
+- ([Final Fantasy III](https://en.wikipedia.org/wiki/Final_Fantasy_III)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- ([Castlevania III: Dracula's Curse](https://en.wikipedia.org/wiki/Castlevania_III:_Dracula%27s_Curse)) by Hidenori Maezawa, Jun Funahashi, Yukie Morimoto, and Yoshinori Sasaki
+- ([ActRaiser](https://en.wikipedia.org/wiki/ActRaiser)) by [Yuzo Koshiro](https://en.wikipedia.org/wiki/Yuzo_Koshiro)
+- ([Dragon Quest IV](https://en.wikipedia.org/wiki/Dragon_Quest_IV)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1991
 - (Final Fantasy IV)
