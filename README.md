@@ -38,57 +38,38 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 - [Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 ## 1992
-- Sonic the Hedgehog 2 by Masato Nakamura
-- Final Fantasy V by Nobuo Uematsu
-- Axelay by Taro Kudo, others
-- Contra III: The Alien Wars by Miki Higashino, Masanori Adachi
-- Streets of Rage 2
-- (Final Fantasy V)
-- Secret of Mana
-- Dragon Quest V
+- [Sonic the Hedgehog 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2) by [Masato Nakamura](https://en.wikipedia.org/wiki/Masato_Nakamura)
+- [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Axelay](https://en.wikipedia.org/wiki/Axelay) by [Taro Kudo](https://en.wikipedia.org/wiki/Taro_Kudo)
+- [Contra III: The Alien Wars](https://en.wikipedia.org/wiki/Contra_III:_The_Alien_Wars) by [Miki Higashino](https://en.wikipedia.org/wiki/Miki_Higashino), Masanori Adachi, and [Tappi Iwase](https://en.wikipedia.org/wiki/Tappi_Iwase)
+- [Streets of Rage 2](https://en.wikipedia.org/wiki/Streets_of_Rage_2) by [Yuzo Koshiro](https://en.wikipedia.org/wiki/Yuzo_Koshiro) and [Motohiro Kawashima](https://en.wikipedia.org/wiki/Motohiro_Kawashima)
+- [Dragon Quest V](https://en.wikipedia.org/wiki/Dragon_Quest_V) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1993
-Secret of Mana by Hiroki Kikuta
-
-Doom by Bobby Prince
-
-Mega Man X by Setsuo Yamamoto et al.
-
-Final Fantasy Mystic Quest by Ryuji Sasai, Yasuhiro Kawakami
+- [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana) by [Hiroki Kikuta](https://en.wikipedia.org/wiki/Hiroki_Kikuta)
+- [Doom]() by Bobby Prince
+- [Mega Man X]() by Setsuo Yamamoto et al.
+- [Final Fantasy Mystic Quest]() by Ryuji Sasai, Yasuhiro Kawakami
 
 ## 1994
-
-Donkey Kong Country by David Wise
-
-Final Fantasy VI by Nobuo Uematsu
-
-EarthBound (Mother 2) by Keiichi Suzuki, Hirokazu Tanaka
-
-Sonic 3 & Knuckles by Michael Jackson & Sega Sound Team (allegedly)
-- Final Fantasy VI
-- EarthBound
-- Sonic the Hedgehog 3
-- Super Metroid
+- [Donkey Kong Country]() by David Wise
+- [Final Fantasy VI]() by Nobuo Uematsu
+- [EarthBound (Mother 2)]() by Keiichi Suzuki, Hirokazu Tanaka
+- [Sonic 3 & Knuckles]() by Michael Jackson & Sega Sound Team (allegedly)
+- [Sonic the Hedgehog 3]()
+- [Super Metroid]()
 
 ## 1995
-
-Chrono Trigger by Yasunori Mitsuda, Nobuo Uematsu
-
-Yoshi’s Island by Koji Kondo
-
-Rayman by Rémi Gazel
-
-Terranigma (JP SNES) by Miyoko Kobayashi, Masanori Hikichi
-
-
-- Chrono Trigger
+- Chrono Trigger by Yasunori Mitsuda, Nobuo Uematsu
+- Yoshi’s Island by Koji Kondo
+- Rayman by Rémi Gazel
+- Terranigma (JP SNES) by Miyoko Kobayashi, Masanori Hikichi
 - Trials of Mana
 - Dragon Quest VI
 - Donkey Kong Country 2: Diddy's Kong Quest
 
 ## 1996
-
-Super Mario 64 by Koji Kondo
+- Super Mario 64 by Koji Kondo
 
 Quake by Trent Reznor / Nine Inch Nails
 
