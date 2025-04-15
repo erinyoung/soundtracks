@@ -47,9 +47,9 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 
 ## 1993
 - [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana) by [Hiroki Kikuta](https://en.wikipedia.org/wiki/Hiroki_Kikuta)
-- [Doom]() by Bobby Prince
-- [Mega Man X]() by Setsuo Yamamoto et al.
-- [Final Fantasy Mystic Quest]() by Ryuji Sasai, Yasuhiro Kawakami
+- [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) by [Bobby Prince](https://en.wikipedia.org/wiki/Bobby_Prince)
+- [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X) by Setsuo Yamamoto, Makoto Tomozawa, Yuki Iwai, Yuko Takehara, and Toshihiko Horiyama
+- [Final Fantasy Mystic Quest](https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest) by [Ryuji Sasai](https://en.wikipedia.org/wiki/Ryuji_Sasai) and Yasuhiro Kawakami
 
 ## 1994
 - [Donkey Kong Country]() by David Wise
@@ -1146,10 +1146,9 @@ Cyberpunk 2077: Phantom Liberty by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leo
 - [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
 - [Prince of Persia: The Lost Crown]() by Mentrix, Gareth Coker
 - [Visions of Mana]() by 
-- [Balatro]()
 - [The Legend of Zelda: Echoes of Wisdom]()
 - [8-bit Adventures 2]()
-- [Animal Well]()
+- [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
 - [Elden Ring]()
 - [Pacific Drive]()
