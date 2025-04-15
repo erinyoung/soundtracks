@@ -602,55 +602,26 @@ Crysis by Inon Zur
 - Uncharted: Drake's Fortune
 - Warhawk
 - Heroes of Mana
+- [No More Heroes](https://en.wikipedia.org/wiki/No_More_Heroes_(video_game)) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada) and Jun Fukuda
+- [The World Ends with You](https://en.wikipedia.org/wiki/The_World_Ends_with_You) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 
 ## 2008
-
-
-Persona 4 by Shoji Meguro
-➤ Catchy and genre-blending—pop, rock, and groove.
-
-Dead Space by Jason Graves
-➤ Dissonant terror, expertly composed.
-
-Mirror’s Edge by Solar Fields
-➤ Minimalist ambient electronic excellence.
-
-LittleBigPlanet by Daniel Pemberton, Kenneth Young + licensed tracks
-➤ Quirky and lovable themes.
-
-Metal Gear Solid 4: Guns of the Patriots by Harry Gregson-Williams
-➤ Melancholy, sweeping, and cinematic.
-
-No More Heroes by Masafumi Takada
-➤ Funky, stylish, and absurd in a good way.
-
-GTA IV by Multiple Artists
-➤ Immense licensed soundtrack, with killer radio stations.
-
-World of Goo by Kyle Gabler
-➤ Emotional, offbeat, and brilliant.
-
-Braid by Various indie artists (Jonathan Blow licensed)
-➤ Soft, thoughtful, puzzle-friendly themes.
-
-Left 4 Dead by Mike Morasky
-➤ Dynamic horror tension with reactive musical design.
-
-
-
-- Fallout 3
-- Dead Space
-- World of Goo
-- LittleBigPlanet
-- Fable II
-- Kingdom Hearts: Coded
-- Warhammer: Age of Reckoning
-- The World Ends with You
-- Metal Gear Solid 4: Guns of the Patriots
-- Sonic Unleashed
-- Spore
-- LostWinds
-- The Last Remnant
+- [Persona 4](https://en.wikipedia.org/wiki/Persona_4) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
+- [Dead Space](https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
+- [Mirror’s Edge](https://en.wikipedia.org/wiki/Mirror%27s_Edge) by [Solar Fields](https://en.wikipedia.org/wiki/Solar_Fields)
+- [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)) by [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton), [Kenneth Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), and Mat Clark
+- [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams), Nobuko Toda, Shuichi Kobori, and Kazuma Jinnouchi
+- [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) by [Michael Hunter](https://en.wikipedia.org/wiki/Michael_Hunter_(composer))
+- [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo) by  by Kyle Gabler
+- [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)) by [Jami Sieber](https://en.wikipedia.org/wiki/Jami_Sieber), [Shira Kammen](https://en.wikipedia.org/wiki/Shira_Kammen), and [Cheryl Ann Fulton](https://en.wikipedia.org/wiki/Cheryl_Ann_Fulton)
+- [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
+- [Fallout 3](https://en.wikipedia.org/wiki/Fallout_3) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Dead Space](https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
+- [Fable II](https://en.wikipedia.org/wiki/Fable_II) by [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman) and Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
+- [Kingdom Hearts: Coded](https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed) by Tomoya Ohtani(https://en.wikipedia.org/wiki/Tomoya_Ohtani), Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), and Mariko Nanba
+- [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
+- [The Last Remnant](https://en.wikipedia.org/wiki/The_Last_Remnant) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Yasuhiro Yamanaka
 
 ## 2009
 
