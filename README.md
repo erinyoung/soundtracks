@@ -52,12 +52,12 @@ TBA: WoW, sonic, fire emblem, kibry, mario, zelda, Donkey Kong (and the rest of 
 - [Final Fantasy Mystic Quest](https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest) by [Ryuji Sasai](https://en.wikipedia.org/wiki/Ryuji_Sasai) and Yasuhiro Kawakami
 
 ## 1994
-- [Donkey Kong Country]() by David Wise
-- [Final Fantasy VI]() by Nobuo Uematsu
-- [EarthBound (Mother 2)]() by Keiichi Suzuki, Hirokazu Tanaka
-- [Sonic 3 & Knuckles]() by Michael Jackson & Sega Sound Team (allegedly)
-- [Sonic the Hedgehog 3]()
-- [Super Metroid]()
+- [Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country) by [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer)), [Eveline Novakovic](https://en.wikipedia.org/wiki/Eveline_Fischer), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
+- [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [EarthBound (Mother 2)](https://en.wikipedia.org/wiki/EarthBound) by [Keiichi Suzuki](https://en.wikipedia.org/wiki/Keiichi_Suzuki) and [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
+- [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles) by [Howard Drossin](https://en.wikipedia.org/wiki/Howard_Drossin), Sachio Ogawa, Tatsuyuki Maeda, and [Jun Senoue](https://en.wikipedia.org/wiki/Jun_Senoue)
+- [Sonic the Hedgehog 3](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3) by [Brad Buxer](https://en.wikipedia.org/wiki/Brad_Buxer) and Sega Sound Team
+- [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Minako Hamano
 
 ## 1995
 - Chrono Trigger by Yasunori Mitsuda, Nobuo Uematsu
@@ -617,9 +617,9 @@ Crysis by Inon Zur
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
 - [Fallout 3](https://en.wikipedia.org/wiki/Fallout_3) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Dead Space](https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
-- [Fable II](https://en.wikipedia.org/wiki/Fable_II) by [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman) and Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
+- [Fable II](https://en.wikipedia.org/wiki/Fable_II) by [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman) and [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Kingdom Hearts: Coded](https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
-- [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed) by Tomoya Ohtani(https://en.wikipedia.org/wiki/Tomoya_Ohtani), Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), and Mariko Nanba
+- [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), and Mariko Nanba
 - [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [The Last Remnant](https://en.wikipedia.org/wiki/The_Last_Remnant) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Yasuhiro Yamanaka
 
@@ -1128,7 +1128,7 @@ Cyberpunk 2077: Phantom Liberty by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leo
 - [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]
 - [Eastward Octopia]
 - Fantasian: Neo Dimension
-- [Penny’s Big Breakaway]
+- [Penny’s Big Breakaway](https://en.wikipedia.org/wiki/Penny%27s_Big_Breakaway) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes) and Sean Bialo
 - [Voidwrought]()
 - [Hauntii]()
 - [Splatoon 3]
