@@ -948,12 +948,12 @@ League of Legends (early builds) by Riot Games composers
 2. Sekiro: Shadows Die Twice ‚Äì Yuka Kitamura et al.
 3. Sayonara Wild Hearts ‚Äì Daniel Ols√©n, Jonathan Eng
 4. Outer Wilds ‚Äì Andrew Prahlow
-5. Control ‚Äì Petri Alanko
+5. [Control](https://en.wikipedia.org/wiki/Control_(video_game)) by Petri Alanko and [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen)
 6. Fire Emblem: Three Houses ‚Äì Rei Kondoh et al.
 7. A Plague Tale: Innocence ‚Äì Olivier Derivi√®re
 8. Bloodstained: Ritual of the Night ‚Äì Michiru Yamane
 9. Katana ZERO ‚Äì Bill Kiley, LudoWic
-10. Baba Is You ‚Äì Arvi Teikari![image](https://github.com/user-attachments/assets/81aa880b-2952-45d1-91d6-bc8b44fab034)
+10. Baba Is You ‚Äì Arvi Teikari
 
 
 
@@ -1072,8 +1072,36 @@ Starfield by Inon Zur
 - Psychonauts 2
 
 ## 2023
-https://www.videogameschronicle.com/features/the-best-game-music-of-2023-as-chosen-by-composers/
-
+- [Jusant](https://en.wikipedia.org/wiki/Jusant) by Guillaume Ferran
+- [Master Detective Archives: Rain Code](https://en.wikipedia.org/wiki/Master_Detective_Archives:_Rain_Code) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada)
+- [Decarnation](https://en.wikipedia.org/wiki/Decarnation) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
+[Octopath Traveler II]()
+[Astral Ascent]()
+[The Ranch of Rivershine]()
+[Baldur’s Gate 3]()
+- [The Legend of Zelda: Tears of the Kingdom]()
+- [Bomb Rush Cyberfunk]()
+- [Void Stranger]()
+- [Sonic Superstars][()
+- [Under The Waves]()
+- [Starfield]()
+- [Tchia]()
+- [Planet of Lana]()
+- [Star Wars Jedi: Survivor]()
+- [Disney Illusion Island]()
+- [Assassins Creed Mirage]()
+- [Humanity]()
+- [Hogwarts Legacy]()
+- [Final Fantasy XVI]()
+- [Shapez 2]()
+- [Diablo IV]()
+- [Marvel's Spider Man 2]()
+- [The Lampligher's League]()
+- [Alan Wake 2]()
+- [Splatoon 3]()
+- [13 Sentinels: Aegis Rim]()
+- [El Paso, Elsewhere]()
+- [Hi-Fi Rush]()
 Hi-Fi Rush by Brian Gibson
 
 Baldur's Gate 3 by Borislav Slavov
