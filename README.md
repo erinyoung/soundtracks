@@ -785,7 +785,7 @@ League of Legends (early builds) by Riot Games composers
 8. GTA V ‚Äì Various Artists
 9. MGS: Revengeance ‚Äì Jamie Christopherson
 10. Puppeteer ‚Äì Patrick Doyle![image](https://github.com/user-attachments/assets/443cf535-93a8-49ca-8403-e5de8eb3999b)
-
+- [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 
 
 - The Last of Us
@@ -930,7 +930,7 @@ League of Legends (early builds) by Riot Games composers
 8. Monster Hunter: World ‚Äì Tadayoshi Makino et al.
 9. Spider-Man ‚Äì John Paesano
 10. Deltarune Chapter 1 ‚Äì Toby Fox![image](https://github.com/user-attachments/assets/2bbbe7c1-d4cf-4ce1-850e-ecacb570b79f)
-
+- [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 
 
 - God of War
@@ -954,7 +954,7 @@ League of Legends (early builds) by Riot Games composers
 8. Bloodstained: Ritual of the Night ‚Äì Michiru Yamane
 9. Katana ZERO ‚Äì Bill Kiley, LudoWic
 10. Baba Is You ‚Äì Arvi Teikari
-
+- [13 Sentinels: Aegis Rim](https://en.wikipedia.org/wiki/13_Sentinels:_Aegis_Rim) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
 
 
 - Control
@@ -1075,60 +1075,36 @@ Starfield by Inon Zur
 - [Jusant](https://en.wikipedia.org/wiki/Jusant) by Guillaume Ferran
 - [Master Detective Archives: Rain Code](https://en.wikipedia.org/wiki/Master_Detective_Archives:_Rain_Code) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada)
 - [Decarnation](https://en.wikipedia.org/wiki/Decarnation) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
-[Octopath Traveler II]()
-[Astral Ascent]()
-[The Ranch of Rivershine]()
-[Baldur’s Gate 3]()
-- [The Legend of Zelda: Tears of the Kingdom]()
-- [Bomb Rush Cyberfunk]()
-- [Void Stranger]()
-- [Sonic Superstars][()
-- [Under The Waves]()
-- [Starfield]()
-- [Tchia]()
-- [Planet of Lana]()
-- [Star Wars Jedi: Survivor]()
-- [Disney Illusion Island]()
-- [Assassins Creed Mirage]()
-- [Humanity]()
-- [Hogwarts Legacy]()
-- [Final Fantasy XVI]()
-- [Shapez 2]()
-- [Diablo IV]()
-- [Marvel's Spider Man 2]()
-- [The Lampligher's League]()
-- [Alan Wake 2]()
-- [Splatoon 3]()
-- [13 Sentinels: Aegis Rim]()
-- [El Paso, Elsewhere]()
-- [Hi-Fi Rush]()
-Hi-Fi Rush by Brian Gibson
+- [Octopath Traveler II](https://en.wikipedia.org/wiki/Octopath_Traveler_II) by [Yasunori Nishiki](https://en.wikipedia.org/wiki/Yasunori_Nishiki)
+- Astral Ascent by Dale North
+- The Ranch of Rivershine by Matthew Harnage
+- [The Legend of Zelda: Tears of the Kingdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) by Manaka Kataoka, Maasa Miyoshi, Masato Ohashi, Tsukasa Usui, and Hajime Wakaiy
+- [Bomb Rush Cyberfunk](https://en.wikipedia.org/wiki/Bomb_Rush_Cyberfunk) by [Hideki Naganuma](https://en.wikipedia.org/wiki/Hideki_Naganuma) and others
+- [Void Stranger](https://en.wikipedia.org/wiki/Void_Stranger) by Eero Lahtinen
+- [Sonic Superstars](https://en.wikipedia.org/wiki/Sonic_Superstars) by [Jun Senoue](https://en.wikipedia.org/wiki/Jun_Senoue)
+- [Under The Waves](https://en.wikipedia.org/wiki/Under_the_Waves) by Nicolas Bredin
+- [Starfield](https://en.wikipedia.org/wiki/Starfield_(video_game)) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Tchia](https://en.wikipedia.org/wiki/Tchia) by John Robert Matz
+- [Planet of Lana](https://en.wikipedia.org/wiki/Planet_of_Lana) by [Takeshi Furukawa](https://en.wikipedia.org/wiki/Takeshi_Furukawa)
+- [Star Wars Jedi: Survivor](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
+- [Disney Illusion Island](https://en.wikipedia.org/wiki/Disney_Illusion_Island) by David Housden
+- [Assassins Creed Mirage](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage) by [Brendan Angelides](https://en.wikipedia.org/wiki/Brendan_Angelides)
+- [Humanity](https://en.wikipedia.org/wiki/Humanity_(video_game)) by Jemapur
+- [Hogwarts Legacy](https://en.wikipedia.org/wiki/Hogwarts_Legacy) by Chuck E. Myers, J. Scott Rakozy, and Peter Murray
+- [Final Fantasy XVI](https://en.wikipedia.org/wiki/Final_Fantasy_XVI) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken)
+- [Diablo IV](https://en.wikipedia.org/wiki/Diablo_IV) by Ted Reedy and Leo Kaliski
+- [Marvel's Spider Man 2](https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
+- [The Lamplighters League](https://en.wikipedia.org/wiki/The_Lamplighters_League) by [Jon Everist](https://en.wikipedia.org/wiki/Jon_Everist)
+- [Alan Wake 2](https://en.wikipedia.org/wiki/Alan_Wake_2) by Petri Alanko
+- [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Shiho Fujii, Ryo Nagamatsu, Toshiyuki Sudo, Yumi Takahashi, and Sayako Doi
+- [El Paso, Elsewhere](https://en.wikipedia.org/wiki/El_Paso,_Elsewhere) by Lake Savage
+- [Hi-Fi Rush](https://en.wikipedia.org/wiki/Hi-Fi_Rush) by Shuichi Kobori, Reo Uratani, and Masatoshi Yanagi
+- [Baldur's Gate 3](https://en.wikipedia.org/wiki/Baldur%27s_Gate_3) by [Borislav Slavov](https://en.wikipedia.org/wiki/Borislav_Slavov)
+- [Metaphor: ReFantazio](https://en.wikipedia.org/wiki/Metaphor:_ReFantazio) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
+- [Armored Core VI: Fires of Rubicon](https://en.wikipedia.org/wiki/Armored_Core_VI:_Fires_of_Rubicon) by [Kota Hoshino](https://en.wikipedia.org/wiki/Kota_Hoshino) and Shoi Miyazawa
+- [Cyberpunk 2077: Phantom Liberty](https://en.wikipedia.org/wiki/Cyberpunk_2077:_Phantom_Liberty) by P.T. Adamczyk and Jacek Paciorkowski
+- [Super Mario Bros. Wonder](https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo), Shiho Fujii, Sayako Doi, and Chisaki Shimazu
 
-Baldur's Gate 3 by Borislav Slavov
-
-The Legend of Zelda: Tears of the Kingdom by Manaka Kataoka, Asuka Ohta, and Haruki Miyashita
-
-Star Wars Jedi: Survivor by Stephen Barton, Gordy Haab
-
-Assassin's Creed Mirage by Bruno Coulais
-
-Metaphor: ReFantazio by Shoji Meguro
-
-Armored Core VI: Fires of Rubicon by Shinji Hosoe
-
-Final Fantasy XVI by Masayoshi Soken
-
-Hogwarts Legacy by Peter Murray, J. Scott Rakozy, Chuck E. Myers
-
-Cyberpunk 2077: Phantom Liberty by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leonard-Morgan
-
-- Hi-Fi Rush
-- Baldur's Gate 3
-- Alan Wake 2
-- Super Mario Bros. Wonder
-- Octopath Traveler II
-- The Legend of Zelda: Tears of the Kingdom
-- Final Fantasy XVI
 
 ## 2024
 - [Final Fantasy VII Rebirth](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth) by Mitsuto Suzuki, [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
@@ -1155,6 +1131,7 @@ Cyberpunk 2077: Phantom Liberty by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leo
 - [Kirby and the Forgotten Land]()
 - [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]
 - [Eastward Octopia]
+- [Shapez 2](https://en.wikipedia.org/wiki/Shapez_2) by Peppsen
 - Fantasian: Neo Dimension
 - [Penny’s Big Breakaway](https://en.wikipedia.org/wiki/Penny%27s_Big_Breakaway) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes) and Sean Bialo
 - [Voidwrought]()
