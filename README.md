@@ -20,6 +20,9 @@ TBA :
 [ ] Tropico
 [ ] Dragon Quest
 [ ] Square Enix: Final Fantasy
+[ ] Prince of Persia : https://en.wikipedia.org/wiki/Prince_of_Persia
+
+Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
 1–10: Industry Titans
 Call of Duty – A dominant first-person shooter series with over 500 million copies sold.
@@ -314,7 +317,7 @@ NiGHTS into Dreams by Tomoko Sasaki
 ## 1997 
 
 
-Final Fantasy VII by Nobuo Uematsu
+Final Fantasy VII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 Castlevania: Symphony of the Night by Michiru Yamane
 
@@ -345,7 +348,7 @@ Banjo-Kazooie by Grant Kirkhope
 
 ## 1999
 - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) by Dennis Martin and [Takeo Miratsu](https://en.wikipedia.org/wiki/Takeo_Miratsu)
-Final Fantasy VIII by Nobuo Uematsu
+Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 Silent Hill by Akira Yamaoka
 
@@ -400,7 +403,7 @@ A vibrant mix of funk, hip-hop, and electronic beats.
 Deus Ex by Alexander Brandon
 Atmospheric cyberpunk themes enhancing the game's immersive world.
 
-Final Fantasy IX by Nobuo Uematsu
+Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 A return to classic fantasy motifs with rich orchestration.
 
 Tony Hawk’s Pro Skater 2 by Various Artists
@@ -422,7 +425,7 @@ Complex compositions that mirror the game's intricate narrative.
 2. The Legend of Zelda: Majora’s Mask by Koji Kondo
 3. Jet Set Radio by Hideki Naganuma
 4. Deus Ex by Alexander Brandon
-5. Final Fantasy IX by Nobuo Uematsu
+5. Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 6. Tony Hawk’s Pro Skater 2 by Various Artists
 7. The Sims by Jerry Martin
 8. Perfect Dark by Grant Kirkhope
@@ -441,7 +444,7 @@ Complex compositions that mirror the game's intricate narrative.
 ## 2001
 
 
-Final Fantasy X by Nobuo Uematsu, Masashi Hamauzu, Junya Nakano
+Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
 Features the poignant "To Zanarkand" and a mix of orchestral and electronic pieces.
 
 Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
@@ -474,7 +477,7 @@ Minimalist and atmospheric score that underscores the game's emotional depth.
 Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
 ➤ That Gregorian chant? Iconic. Set the tone for an entire franchise.
 
-Final Fantasy X (PS2) by Nobuo Uematsu, Masashi Hamauzu, Junya Nakano
+Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
 ➤ First FF with voice acting. “To Zanarkand” will wreck you emotionally.
 
 Ico (PS2) by Michiru Oshima & Pentagon
@@ -483,7 +486,7 @@ Ico (PS2) by Michiru Oshima & Pentagon
 Silent Hill 2 (PS2) by Akira Yamaoka
 ➤ Industrial ambient with gorgeous melodic breaks. Masterpiece.
 
-1. Final Fantasy X by Nobuo Uematsu, Masashi Hamauzu, Junya Nakano
+1. Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
 2. Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
 3. Silent Hill 2 by Akira Yamaoka
 4. Metal Gear Solid 2 by Harry Gregson-Williams, Norihiko Hibino
@@ -546,7 +549,8 @@ Kingdom Hearts (PS2) by Yoko Shimomura
 Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 ➤ Laid the foundation for all Elder Scrolls soundtracks.
 
-1. The Legend of Zelda: The Wind Waker by Koji Kondo et al.
+- [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+
 2. Metroid Prime by Kenji Yamamoto
 3. Kingdom Hearts by Yoko Shimomura
 4. Grand Theft Auto: Vice City by Various Artists
@@ -557,7 +561,8 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 9. Sly Cooper by Ashif Hakik
 10. Battlefield 1942 by Joel Eriksson
 
-
+- [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
+- [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - Metroid Prime
 - The Elder Scrolls III: Morrowind
 - Warcraft III: Reign of Chaos
@@ -570,47 +575,26 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 
 ## 2003
 - [Drakengard](https://en.wikipedia.org/wiki/Drakengard_(video_game)) by [Nobuyoshi Sano](https://en.wikipedia.org/wiki/Nobuyoshi_Sano) and Takayuki Aihara
-1. Beyond Good & Evil by Christophe Héral
-2. KOTOR by Jeremy Soule
-3. FF Tactics Advance by Hitoshi Sakimoto
-4. Baten Kaitos by Motoi Sakuraba
-5. Prince of Persia by Stuart Chatwood
-6. Call of Duty by Michael Giacchino
-7. Mario & Luigi: Superstar Saga by Yoko Shimomura
-8. F-Zero GX by Daiki Kasho et al.
-9. Viewtiful Joe by Masami Ueda
-10. WarioWare by Masanobu Matsunaga
-
-Call of Duty by Michael Giacchino
-➤ Powerful, cinematic score that matches the WWII action perfectly.
-
-Mario & Luigi: Superstar Saga by Yoko Shimomura
-➤ Zany and catchy melodies that brought RPG-style to the Mario universe.
-
-F-Zero GX by Daiki Kasho, Hidenori Shoji
-➤ Fast-paced techno-rock that mirrors the game's insane speed.
-
-Viewtiful Joe by Masami Ueda, others
-➤ Energetic, campy superhero soundtrack with punch.
-
-WarioWare, Inc.: Mega Microgames! by Masanobu Matsunaga
-➤ Bizarre, short-looped microgame music that’s weirdly addictive.
-
-- Final Fantasy Crystal Chronicles
-- Sword of Mana
-- Star Wars: Knights of the Old Republic
-- Drakengard
-- Final Fantasy X-2
-- Call of Duty
-- Legend of Zelda: The Wind Waker
-- Star Wars Galaxies
-- Age of Mythology: The Titals
-- Jedi Knight: Jedi Academy
-- Final Fantasy XI
-- Prince of Persia: The Sands of Time
-- Fable
+- [Beyond Good & Evil](https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
+- [Star Wars: Knights of the Old Republic (KOTOR)](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
+- [Final Fantasy Tactics Advance](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), Kaori Ohkoshi, Ayako Saso, and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Baten Kaitos](https://en.wikipedia.org/wiki/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
+- [Prince of Persia: The Sands of Time](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time) by [Stuart Chatwood](https://en.wikipedia.org/wiki/Stuart_Chatwood)
+- [Call of Duty](https://en.wikipedia.org/wiki/Call_of_Duty_(video_game)) by [Michael Giacchino](https://en.wikipedia.org/wiki/Michael_Giacchino) and Justin Skomarovsky
+- [Mario & Luigi: Superstar Saga](https://en.wikipedia.org/wiki/Mario_%26_Luigi:_Superstar_Saga) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [F-Zero GX](https://en.wikipedia.org/wiki/F-Zero_GX) by [Hidenori Shoji](https://en.wikipedia.org/wiki/Hidenori_Shoji) and [Daiki Kasho](https://en.wikipedia.org/wiki/Daiki_Kasho)
+- [Viewtiful Joe](https://en.wikipedia.org/wiki/Viewtiful_Joe_(video_game)) by Masakazu Sugimori and Masami Ueda
+- [WarioWare, Inc.: Mega Party Games!](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Party_Games!) by Masanobu Matsunaga and Kenichi Nishimaki
+- [WarioWare, Inc.: Mega Microgames!](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Microgames!) by Ryoji Yoshitomi and Kyoko Miyamoto
+- [Final Fantasy Crystal Chronicles](https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)) by [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka) and Hidenori Iwasaki
+- [Sword of Mana](https://en.wikipedia.org/wiki/Sword_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
+- [Final Fantasy X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X-2) by [Noriko Matsueda](https://en.wikipedia.org/wiki/Noriko_Matsueda) and [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi)
+- [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies) by Anna Karney
+- [Star Wars Jedi Knight: Jedi Academy](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy) by Clint Bajakian
 
 ## 2004
+- [Star Wars Knights of the Old Republic II: The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey)
+- [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
 
 Halo 2 (Xbox) by Martin O’Donnell
 ➤ Expanded the Halo sound with guitars and bigger themes.
@@ -642,7 +626,7 @@ Paper Mario: The Thousand-Year Door by Yuka Tsujiyoko
 Silent Hill 4: The Room by Akira Yamaoka
 ➤ Jazz, industrial, and horror all mashed up masterfully.
 
-Final Fantasy XI: Chains of Promathia by Nobuo Uematsu, Kumi Tanioka
+Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
 ➤ Underrated MMO expansion with strong musical storytelling.
 
 The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
@@ -929,7 +913,7 @@ League of Legends (early builds) by Riot Games composers
 - James Bond 007: Blood Stone
 
 ## 2011
-
+- [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
 1. Bastion ‚Äì Darren Korb
 2. The Elder Scrolls V: Skyrim ‚Äì Jeremy Soule
 3. Portal 2 ‚Äì Mike Morasky
