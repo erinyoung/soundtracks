@@ -301,18 +301,10 @@ Fortnite (Epic Games)
 - [Donkey Kong Country 2: Diddy's Kong Quest](https://en.wikipedia.org/wiki/Donkey_Kong_Country_2) by [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer))
 
 ## 1996
-- Super Mario 64 by Koji Kondo
-
-Quake by Trent Reznor / Nine Inch Nails
-
-Pokémon Red & Blue by Junichi Masuda
-
-NiGHTS into Dreams by Tomoko Sasaki
-
-
-
-- PaRapp that Rapper
-- Super Mario 64
+- [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) by [Trent Reznor](https://en.wikipedia.org/wiki/Trent_Reznor) and [Nine Inch Nails](https://en.wikipedia.org/wiki/Nine_Inch_Nails)
+- [Pokémon Red, Blue, and Yellow](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow) by Junichi Masuda
+- [Nights into Dreams](https://en.wikipedia.org/wiki/Nights_into_Dreams) by Naofumi Hataya, Tomoko Sasaki, and Fumie Kumatani
 
 ## 1997 
 
@@ -1348,7 +1340,7 @@ Starfield by Inon Zur
 - [Shapez 2](https://en.wikipedia.org/wiki/Shapez_2) by Peppsen
 - Fantasian: Neo Dimension
 - [Penny’s Big Breakaway](https://en.wikipedia.org/wiki/Penny%27s_Big_Breakaway) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes) and Sean Bialo
-- [Voidwrought]()
+- Voidwrought by Jouni Valjakka
 - [Hauntii]()
 - [Splatoon 3]
 - [Marvel Rivals]()
