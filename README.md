@@ -883,7 +883,7 @@ League of Legends (early builds) by Riot Games composers
 8. Donkey Kong Country Returns ‚Äì Kenji Yamamoto et al.
 9. Vanquish ‚Äì Masafumi Takada
 10. Final Fantasy XIII ‚Äì Masashi Hamauzu![image](https://github.com/user-attachments/assets/ba4a48cb-97c8-4649-af57-70c57bc5d928)
-
+- [Xenoblade Chronicles](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)) by Manami Kiyota, ACE, Kenji Hiramatsu, [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), and [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
 
 - Red Dead Redemption
 - Heavy Rain
@@ -943,40 +943,29 @@ League of Legends (early builds) by Riot Games composers
 - Moon Diver
 - From Dust
 - Sound Shapes
+- [Bastion](https://en.wikipedia.org/wiki/Bastion_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 
 ## 2012
-
-1. Journey ‚Äì Austin Wintory
-2. Hotline Miami ‚Äì Various Artists
-3. Fez ‚Äì Disasterpeace
-4. Max Payne 3 ‚Äì HEALTH
-5. Mass Effect 3 ‚Äì Mansell, Hulick, Velasco, Dikiciyan
-6. Halo 4 ‚Äì Neil Davidge
-7. Assassin‚Äôs Creed III ‚Äì Lorne Balfe
-8. Far Cry 3 ‚Äì Brian Tyler
-9. The Walking Dead ‚Äì Jared Emerson-Johnson
-10. Gravity Rush ‚Äì Kohei Tanaka![image](https://github.com/user-attachments/assets/f78c3321-a475-4a75-b4ab-70284c82d10e)
-
-
-- Hotline Miami
-- Journey
-- Bastion
-- Dishonored
-- Dragon Quest X
-- Bravely Default
-- Halo 4
-- Dragon Quest X
-- Assassin's Creed III
-- Boderlands 2
-- Dishonored
-- Xenoblade Chronicles
-- Diablo III
-- Guild Wars 2
-- Darksiders II
-- Epic Mickey 2
-- Call of Duty: Black Ops II
-- Max Payne 3
-- XCOM: Enemy Unknown
+- [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game)) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
+- [Hotline Miami](https://en.wikipedia.org/wiki/Hotline_Miami) by Various Artists
+- [Fez](https://en.wikipedia.org/wiki/Fez_(video_game)) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace)
+- [Max Payne 3](https://en.wikipedia.org/wiki/Max_Payne_3) by [Health](https://en.wikipedia.org/wiki/Health_(band))
+- [Mass Effect 3](https://en.wikipedia.org/wiki/Mass_Effect_3) by [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), Sam Hulick, [Christopher Lennertz](https://en.wikipedia.org/wiki/Christopher_Lennertz), [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
+- [Halo 4](https://en.wikipedia.org/wiki/Halo_4) by [Neil Davidge](https://en.wikipedia.org/wiki/Neil_Davidge) and Kazuma Jinnouchi
+- [Assassin's Creed III](https://en.wikipedia.org/wiki/Assassin%27s_Creed_III) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
+- [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) by [Brian Tyler](https://en.wikipedia.org/wiki/Brian_Tyler)
+- [The Walking Dead](https://en.wikipedia.org/wiki/The_Walking_Dead_(video_game)) by [Jared Emerson-Johnson](https://en.wikipedia.org/wiki/Jared_Emerson-Johnson)
+- [Gravity Rush](https://en.wikipedia.org/wiki/Gravity_Rush) by [Kohei Tanaka](https://en.wikipedia.org/wiki/Kohei_Tanaka_(composer))
+- [Dishonored](https://en.wikipedia.org/wiki/Dishonored) by [Daniel Licht](https://en.wikipedia.org/wiki/Daniel_Licht)
+- [Dragon Quest X](https://en.wikipedia.org/wiki/Dragon_Quest_X) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- [Bravely Default](https://en.wikipedia.org/wiki/Bravely_Default) by [Revo](https://en.wikipedia.org/wiki/Sound_Horizon)
+- [Boderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
+- [Diablo III](https://en.wikipedia.org/wiki/Diablo_III) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Edo Guidotti, [Laurence Juber](https://en.wikipedia.org/wiki/Laurence_Juber), Joseph Lawrence, and Glenn Stafford
+- [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule), [Maclaine Diemer](https://en.wikipedia.org/wiki/Maclaine_Diemer), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), and Stan LePard
+- [Darksiders II](https://en.wikipedia.org/wiki/Darksiders_II) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [Epic Mickey 2: The Power of Two](https://en.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer)) and Mike Himelstein
+- [Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer))
+- [XCOM: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
 
 ## 2013
 - [Drakengard 3](https://en.wikipedia.org/wiki/Drakengard_3) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, Sho Ishihama, and Kuniyuki Takahashi
