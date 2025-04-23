@@ -1084,43 +1084,32 @@ League of Legends (early builds) by Riot Games composers
 9. Spider-Man ‚Äì John Paesano
 10. Deltarune Chapter 1 ‚Äì Toby Fox![image](https://github.com/user-attachments/assets/2bbbe7c1-d4cf-4ce1-850e-ecacb570b79f)
 - [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
-
-
-- God of War
+- [Red Dead Redemtion 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) by [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson)
+- [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
 - Celeste
 - Nier: Automata
 - Super Mario Odyssey
 - Kingdom Hearts III
 - Octopath Traveler
 - Ori and the Will of Wisps
+- [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect) by Noboru Mutoh
 
 ## 2019
-
-1. Death Stranding ‚Äì Ludvig Forssell
-2. Sekiro: Shadows Die Twice ‚Äì Yuka Kitamura et al.
-3. Sayonara Wild Hearts ‚Äì Daniel Ols√©n, Jonathan Eng
-4. Outer Wilds ‚Äì Andrew Prahlow
-5. [Control](https://en.wikipedia.org/wiki/Control_(video_game)) by Petri Alanko and [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen)
-6. Fire Emblem: Three Houses ‚Äì Rei Kondoh et al.
-7. A Plague Tale: Innocence ‚Äì Olivier Derivi√®re
-8. Bloodstained: Ritual of the Night ‚Äì Michiru Yamane
-9. Katana ZERO ‚Äì Bill Kiley, LudoWic
-10. Baba Is You ‚Äì Arvi Teikari
+- [Sayonara Wild Hearts](https://en.wikipedia.org/wiki/Sayonara_Wild_Hearts) by Daniel Olsén and Jonathan Eng
+- [Outer Wilds](https://en.wikipedia.org/wiki/Outer_Wilds) by [Andrew Prahlow](https://en.wikipedia.org/wiki/Andrew_Prahlow)
+- [Control](https://en.wikipedia.org/wiki/Control_(video_game)) by Petri Alanko and [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen)
+- [Fire Emblem: Three Houses](https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses) by Takeru Kanazaki, Hiroki Morishita, and Rei Kondoh
+- [A Plague Tale: Innocence](https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence) by [Olivier Deriviere](https://en.wikipedia.org/wiki/Olivier_Deriviere)
+- [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane), Keisuke Ito, and Ryusuke Fujioka
+- [Katana ZERO](https://en.wikipedia.org/wiki/Katana_Zero) by Thijs Lodewijk and Bill Kiley
+- [Baba Is You](https://en.wikipedia.org/wiki/Baba_Is_You) by Arvi Teikari
 - [13 Sentinels: Aegis Rim](https://en.wikipedia.org/wiki/13_Sentinels:_Aegis_Rim) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
-
-
-- Red Dead Redemtion 2
-- Untitled Goose Game
-- Luigi's Mansion 3
-- Ape Out
-- Kingdom Hearts III
-- Outer Wilds
-- Oninaki
-- Disco Elysium
-- God of War
-- Tetris Effect
-- Sekir: Shadow's Die Twice
-- Sayonara Wild Hearts
+- [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) by [Dan Golding](https://en.wikipedia.org/wiki/Dan_Golding) 
+- [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) by Chad York and Darren Radtke 
+- [Ape Out](https://en.wikipedia.org/wiki/Ape_Out) by Maxi Boch
+- [Kingdom Hearts III](https://en.wikipedia.org/wiki/Kingdom_Hearts_III) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto), and [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
+- [Oninaki](https://en.wikipedia.org/wiki/Oninaki) by Shunsuke Tsuchiya and Mariam Abounnasr
+- [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) by [British Sea Power](https://en.wikipedia.org/wiki/Sea_Power)
 - [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) by Yuka Kitamura
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) by Ludvig Forssell
 
