@@ -864,7 +864,7 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2017
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
-- Zelda: Breath of the Wild by Kataoka, Iwata, Wakai
+- [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
 - Cuphead by Kristofer Maddigan
 - Hollow Knight by Christopher Larkin
 - Horizon Zero Dawn by Joris de Man et al.
@@ -935,8 +935,8 @@ League of Legends (early builds) by Riot Games composers
 - [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Yasuaki Iwata, Yumi Takahashi, Shinobu Nagata, Sayako Doi, and Masato Ohashi
 - [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima) by [Ilan Eshkeri](https://en.wikipedia.org/wiki/Ilan_Eshkeri) and [Shigeru Umebayashi](https://en.wikipedia.org/wiki/Shigeru_Umebayashi)
 
-
 ## 2021
+
 - [Nier Reincarnation](https://en.wikipedia.org/wiki/Nier_Reincarnation) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Shotaro Seo, and Kuniyuki Takahashi
 - [The Artful Escape](https://en.wikipedia.org/wiki/The_Artful_Escape) by Johnny Galvatron and [Josh Abrahams](https://en.wikipedia.org/wiki/Josh_Abrahams)
 - [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) by Soshi Abe and Sayako Doi
@@ -958,6 +958,7 @@ League of Legends (early builds) by Riot Games composers
 - [Psychonauts 2](https://en.wikipedia.org/wiki/Psychonauts_2) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 
 ## 2022
+
 https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks-of-2022-according-to-composers/
 - [God of War Ragnarök](https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
 - [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) by Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, Yoshimi Kudo, and Soma Tanizaki
@@ -976,6 +977,7 @@ https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks
 
 
 ## 2023
+
 - [Jusant](https://en.wikipedia.org/wiki/Jusant) by Guillaume Ferran
 - [Master Detective Archives: Rain Code](https://en.wikipedia.org/wiki/Master_Detective_Archives:_Rain_Code) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada)
 - [Decarnation](https://en.wikipedia.org/wiki/Decarnation) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
