@@ -307,19 +307,10 @@ Fortnite (Epic Games)
 - [Nights into Dreams](https://en.wikipedia.org/wiki/Nights_into_Dreams) by Naofumi Hataya, Tomoko Sasaki, and Fumie Kumatani
 
 ## 1997 
-
-
-Final Fantasy VII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-
-Castlevania: Symphony of the Night by Michiru Yamane
-
-GoldenEye 007 by Grant Kirkhope, Graeme Norgate
-
-Tomba! by Harumi Fujita
-
-
-- Castlevania: Symphony of the Night
-- Final Fantasy VII
+- [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Castlevania: Symphony of the Night](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane)
+- [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
+- [Tomba!](https://en.wikipedia.org/wiki/Tomba!) by [Harumi Fujita](https://en.wikipedia.org/wiki/Harumi_Fujita)
 
 ## 1998
 
