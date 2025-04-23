@@ -1036,17 +1036,16 @@ League of Legends (early builds) by Riot Games composers
 - The Witcher 3
 - Adventures of Mana
 - Ori and the Blind Forest
-- Persona 5
 - Final Fantasy XV
 - Skylanders: Imaginators
 - Stardew Valley
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) by [65daysofstatic](https://en.wikipedia.org/wiki/65daysofstatic) and Earcom / Paul Weir
+- [Persona 5](https://en.wikipedia.org/wiki/Persona_5) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 
 
 
 ## 2017
 
-1. Persona 5 ‚Äì Shoji Meguro
 2. [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 3. Zelda: Breath of the Wild ‚Äì Kataoka, Iwata, Wakai
 4. Cuphead ‚Äì Kristofer Maddigan
@@ -1090,7 +1089,6 @@ League of Legends (early builds) by Riot Games composers
 - God of War
 - Celeste
 - Nier: Automata
-- Persona 5
 - Super Mario Odyssey
 - Kingdom Hearts III
 - Octopath Traveler
@@ -1111,7 +1109,6 @@ League of Legends (early builds) by Riot Games composers
 - [13 Sentinels: Aegis Rim](https://en.wikipedia.org/wiki/13_Sentinels:_Aegis_Rim) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
 
 
-- Control
 - Red Dead Redemtion 2
 - Untitled Goose Game
 - Luigi's Mansion 3
@@ -1124,34 +1121,16 @@ League of Legends (early builds) by Riot Games composers
 - Tetris Effect
 - Sekir: Shadow's Die Twice
 - Sayonara Wild Hearts
+- [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) by Yuka Kitamura
+- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) by Ludvig Forssell
 
 ## 2020
-Hades by Darren Korb
-
-Ori and the Will of the Wisps by Gareth Coker
-
-Final Fantasy VII Remake by Masashi Hamauzu, Mitsuto Suzuki, and Yoshitaka Suzuki
-
-The Last of Us Part II by Gustavo Santaolalla
-
-Ghost of Tsushima by Shigeru Umebayashi
-
-Animal Crossing: New Horizons by Kazumi Totaka, Yasuaki Iwata, Yumi Takahashi
-
-Cyberpunk 2077 by Marcin Przybyłowicz, P.T. Adamczyk, Paul Leonard-Morgan
-
-DOOM Eternal by Mick Gordon
-
-Persona 5 Royal by Shoji Meguro
-
-Assassin's Creed Valhalla by Jesper Kyd, Sarah Schachner, Einar Selvik
-
-- Hades
-- Ghost of Tsushima
-- The Last of Us Part II
-- Spider-Man: Miles Morales
-- Sekiro: Shadows Die Twice
-- Death Stranding
+- [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu) and Mitsuto Suzuki
+- [The Last of Us Part II](https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II) by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)
+- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) by P. T. Adamczyk, [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz), and [Paul Leonard-Morgan](https://en.wikipedia.org/wiki/Paul_Leonard-Morgan)
+- [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
+- [Assassin's Creed Valhalla](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sarah Schachner](https://en.wikipedia.org/wiki/Sarah_Schachner), and [Einar Selvik](https://en.wikipedia.org/wiki/Einar_Selvik)
+- [Spider-Man: Miles Morales](https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
 - [Calico](https://en.wikipedia.org/wiki/Calico_(video_game)) by Star Victoria Power (Slide20XX)
 - [Haven](https://en.wikipedia.org/wiki/Haven_(video_game)) by [Danger](https://en.wikipedia.org/wiki/Danger_(musician))
 - [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
