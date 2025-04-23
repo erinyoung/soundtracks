@@ -887,13 +887,13 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2018
 
-- Celeste by Lena Raine
-- Octopath Traveler by Yasunori Nishiki
-- Gris by Berlinist
-- Into the Breach by Ben Prunty
-- Monster Hunter: World by Tadayoshi Makino et al.
-- Spider-Man by John Paesano
-- Deltarune Chapter 1 by Toby Fox
+- [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) by [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine)
+- [Octopath Traveler](https://en.wikipedia.org/wiki/Octopath_Traveler) by [Yasunori Nishiki](https://en.wikipedia.org/wiki/Yasunori_Nishiki)
+- [Gris](https://en.wikipedia.org/wiki/Gris) by Berlinist
+- [Into the Breach](https://en.wikipedia.org/wiki/Into_the_Breach) by [Ben Prunty](https://en.wikipedia.org/wiki/Ben_Prunty)
+- [Monster Hunter: World](https://en.wikipedia.org/wiki/Monster_Hunter:_World) by [Akihiko Narita](https://en.wikipedia.org/wiki/Akihiko_Narita) and Zhenlan Kang
+- [Spider-Man](https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
+- [Deltarune](https://en.wikipedia.org/wiki/Deltarune) by Toby Fox
 - [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Red Dead Redemtion 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) by [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson)
 - [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
