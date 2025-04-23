@@ -239,6 +239,17 @@ Elder Scrolls Online (Zenimax Online)
 Star Wars: The Old Republic (BioWare)
 
 Fortnite (Epic Games)
+## OTHER GAMES:
+https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
+https://composercode.com/video-game-composers/
+
+Tetris Attack, Lufia II, Panzer Dragoon Saga, Jet Set Radio (technically 2000 JP)
+
+Kirby’s Super Star by absolute banger of a medley-style soundtrack
+
+Star Fox 64, Wave Race 64, Ridge Racer Type 4
+
+
 
 
 
@@ -314,7 +325,6 @@ Fortnite (Epic Games)
 
 ## 1998
 
-
 The Legend of Zelda: Ocarina of Time by Koji Kondo
 
 Xenogears by Yasunori Mitsuda
@@ -322,8 +332,6 @@ Xenogears by Yasunori Mitsuda
 Metal Gear Solid by TAPPY, G.Kojima team
 
 Banjo-Kazooie by Grant Kirkhope
-
-
 - Grim Fandango
 - The Legend of Zelda: Orcarina of Time
 - Baldur's Gate
@@ -332,90 +340,40 @@ Banjo-Kazooie by Grant Kirkhope
 ## 1999
 - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) by Dennis Martin and [Takeo Miratsu](https://en.wikipedia.org/wiki/Takeo_Miratsu)
 Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-
-Silent Hill by Akira Yamaoka
-
-Donkey Kong 64 by Grant Kirkhope
-
-Chrono Cross by Yasunori Mitsuda (late '99 in JP)
-
-https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
-https://composercode.com/video-game-composers/
-
-
-- [EverQuest](https://en.wikipedia.org/wiki/EverQuest)
-- Black & White
-- Oni
-- Final Fantasy VIII
-- Vampire: the Masquerade by Redemption
-- Um Jammer Lammy
-
-
-
-
-## OTHER GAMES:
-
-Tetris Attack, Lufia II, Panzer Dragoon Saga, Jet Set Radio (technically 2000 JP)
-
-Kirby’s Super Star by absolute banger of a medley-style soundtrack
-
-Star Fox 64, Wave Race 64, Ridge Racer Type 4
-
-
+- [Silent Hill](https://en.wikipedia.org/wiki/Silent_Hill_(video_game)) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
+- [Donkey Kong 64](https://en.wikipedia.org/wiki/Donkey_Kong_64) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
+- [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
+- [EverQuest](https://en.wikipedia.org/wiki/EverQuest) by Jay Barbeau
+- [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
+- [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Vampire: The Masquerade – Redemption](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption) by [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei) and Youth Engine
+- [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy) by Masaya Matsuura, Yoshihisa Suzuki, and Shigeyoshi Kawagoe
 
 ## 2000
+
 Chrono Cross by Yasunori Mitsuda
-➤ Ethereal, emotional, with South American vibes. "Scars of Time" is a classic.
-
 The Legend of Zelda: Majora’s Mask by Koji Kondo
-➤ Dark, ambient, haunting. Totally unique for the Zelda series.
-
 Diablo II by Matt Uelmen
-➤ Gritty guitar and haunting ambiance. Tristram theme lives forever.
-
-
 Chrono Cross by Yasunori Mitsuda
-A lush, emotional score blending Celtic and world music influences.
-
 The Legend of Zelda: Majora’s Mask by Koji Kondo
-Haunting melodies that complement the game's darker themes.
-
 Jet Set Radio by Hideki Naganuma
-A vibrant mix of funk, hip-hop, and electronic beats.
-
 Deus Ex by Alexander Brandon
-Atmospheric cyberpunk themes enhancing the game's immersive world.
-
 Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-A return to classic fantasy motifs with rich orchestration.
-
 Tony Hawk’s Pro Skater 2 by Various Artists
-An iconic compilation of punk, hip-hop, and rock tracks.
-
 The Sims by Jerry Martin
-Relaxing jazz and lounge tunes that became synonymous with the game.
-
 Perfect Dark by Grant Kirkhope
-Futuristic themes that set the tone for this sci-fi shooter.
-
 Phantasy Star Online by Hideaki Kobayashi
-A blend of orchestral and electronic music creating a unique sci-fi ambiance.
-
 Vagrant Story by Hitoshi Sakimoto
-Complex compositions that mirror the game's intricate narrative.
-
-1. Chrono Cross by Yasunori Mitsuda
-2. The Legend of Zelda: Majora’s Mask by Koji Kondo
-3. Jet Set Radio by Hideki Naganuma
-4. Deus Ex by Alexander Brandon
-5. Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-6. Tony Hawk’s Pro Skater 2 by Various Artists
-7. The Sims by Jerry Martin
-8. Perfect Dark by Grant Kirkhope
-9. Phantasy Star Online by Hideaki Kobayashi
-10. Vagrant Story by Hitoshi Sakimoto
-
-
+- Chrono Cross by Yasunori Mitsuda
+- The Legend of Zelda: Majora’s Mask by Koji Kondo
+- Jet Set Radio by Hideki Naganuma
+- Deus Ex by Alexander Brandon
+- Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- Tony Hawk’s Pro Skater 2 by Various Artists
+- The Sims by Jerry Martin
+- Perfect Dark by Grant Kirkhope
+- Phantasy Star Online by Hideaki Kobayashi
+- Vagrant Story by Hitoshi Sakimoto
 - Diable II
 - Final Fantasy IX
 - The Sims
@@ -426,60 +384,30 @@ Complex compositions that mirror the game's intricate narrative.
 
 ## 2001
 
-
 Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-Features the poignant "To Zanarkand" and a mix of orchestral and electronic pieces.
-
 Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
-Epic choral and orchestral themes that became iconic.
-
 Silent Hill 2 by Akira Yamaoka
-A haunting blend of ambient and industrial sounds enhancing the horror experience.
-
 Metal Gear Solid 2: Sons of Liberty by Harry Gregson-Williams, Norihiko Hibino
-Cinematic compositions that elevate the game's narrative.
-
 Super Smash Bros. Melee by Various Composers
-A compilation of remixed themes from various Nintendo franchises.
-
 Animal Crossing by Kazumi Totaka
-Charming and relaxing tunes that change with the in-game time.
-
 Luigi's Mansion by Kazumi Totaka
-Spooky yet whimsical melodies fitting the game's haunted setting.
-
 Grand Theft Auto III by Craig Conner & Stuart Ross
-Diverse radio stations featuring various music genres enhancing the open-world experience.
-
 Advance Wars by Taishi Senda
-Upbeat and strategic tunes complementing the tactical gameplay.
-
 Ico by Michiru Oshima & Pentagon
-Minimalist and atmospheric score that underscores the game's emotional depth.
-
 Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
-➤ That Gregorian chant? Iconic. Set the tone for an entire franchise.
-
 Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-➤ First FF with voice acting. “To Zanarkand” will wreck you emotionally.
-
 Ico (PS2) by Michiru Oshima & Pentagon
-➤ Sparse, minimal, atmospheric—perfect for the tone.
-
 Silent Hill 2 (PS2) by Akira Yamaoka
-➤ Industrial ambient with gorgeous melodic breaks. Masterpiece.
-
-1. Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-2. Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
-3. Silent Hill 2 by Akira Yamaoka
-4. Metal Gear Solid 2 by Harry Gregson-Williams, Norihiko Hibino
-5. Super Smash Bros. Melee by Various Composers
-6. Animal Crossing by Kazumi Totaka
-7. Luigi's Mansion by Kazumi Totaka
-8. Grand Theft Auto III by Craig Conner & Stuart Ross
-9. Advance Wars by Taishi Senda
-10. Ico by Michiru Oshima & Pentagon
-
+- Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
+- Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
+- Silent Hill 2 by Akira Yamaoka
+- Metal Gear Solid 2 by Harry Gregson-Williams, Norihiko Hibino
+- Super Smash Bros. Melee by Various Composers
+- Animal Crossing by Kazumi Totaka
+- Luigi's Mansion by Kazumi Totaka
+- Grand Theft Auto III by Craig Conner & Stuart Ross
+- Advance Wars by Taishi Senda
+- Ico by Michiru Oshima & Pentagon
 - Halo: Combat Evolved
 - Tropico
 - Final Fantasy X
@@ -492,57 +420,30 @@ Silent Hill 2 (PS2) by Akira Yamaoka
 
 ## 2002
 
-
 The Legend of Zelda: The Wind Waker by Koji Kondo, Kenta Nagata, Hajime Wakai, Toru Minegishi
-Nautical themes with Celtic influences matching the game's oceanic setting.
-
 Metroid Prime by Kenji Yamamoto
-Ambient and atmospheric tracks that enhance the sense of exploration.
-
 Kingdom Hearts by Yoko Shimomura
-A blend of original compositions and Disney themes creating a magical experience.
-
 Grand Theft Auto: Vice City by Various Artists
-A nostalgic collection of 1980s music across multiple genres.
-
 Morrowind (The Elder Scrolls III) by Jeremy Soule
-Expansive orchestral pieces that immerse players in the game's vast world.
-
 Super Mario Sunshine by Koji Kondo
-Bright and tropical tunes reflecting the game's island setting.
-
 TimeSplitters 2 by Graeme Norgate
-Eclectic tracks matching the game's diverse time-traveling levels.
-
 Ratchet & Clank by David Bergeaud
-Futuristic and energetic compositions complementing the game's sci-fi theme.
-
 Sly Cooper and the Thievius Raccoonus by Ashif Hakik
-Jazz-inspired tracks enhancing the stealth gameplay.
-
 Battlefield 1942 by Joel Eriksson
-Military-themed orchestral music that adds intensity to the gameplay.
-
 Metroid Prime (GameCube) by Kenji Yamamoto
-➤ Echoing sci-fi mystery. The Phendrana Drifts theme is legendary.
-
 Kingdom Hearts (PS2) by Yoko Shimomura
-➤ “Dearly Beloved” became an all-time classic immediately.
-
 Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
-➤ Laid the foundation for all Elder Scrolls soundtracks.
-
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 
-2. Metroid Prime by Kenji Yamamoto
-3. Kingdom Hearts by Yoko Shimomura
-4. Grand Theft Auto: Vice City by Various Artists
-5. Morrowind by Jeremy Soule
-6. Super Mario Sunshine by Koji Kondo
-7. TimeSplitters 2 by Graeme Norgate
-8. Ratchet & Clank by David Bergeaud
-9. Sly Cooper by Ashif Hakik
-10. Battlefield 1942 by Joel Eriksson
+- Metroid Prime by Kenji Yamamoto
+- Kingdom Hearts by Yoko Shimomura
+- Grand Theft Auto: Vice City by Various Artists
+- Morrowind by Jeremy Soule
+- Super Mario Sunshine by Koji Kondo
+- TimeSplitters 2 by Graeme Norgate
+- Ratchet & Clank by David Bergeaud
+- Sly Cooper by Ashif Hakik
+- Battlefield 1942 by Joel Eriksson
 
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
@@ -578,46 +479,18 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 ## 2004
 - [Star Wars Knights of the Old Republic II: The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey)
 - [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
-
-Halo 2 (Xbox) by Martin O’Donnell
-➤ Expanded the Halo sound with guitars and bigger themes.
-
 Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
-➤ Bond-style theme song? Instant win.
-
 World of Warcraft by Jason Hayes & team
-➤ A genre-defining fantasy soundtrack.
-
 Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
-➤ Eclectic, joyful madness—still unlike anything else.
-
 Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
-➤ James Bond-style theme + deep emotional undercurrents.
-
 Halo 2 by Martin O'Donnell
-➤ Larger-scale arrangements and that iconic choral power.
-
 World of Warcraft by Jason Hayes & team
-➤ Fantasy music perfection that evolved over years.
-
 Half-Life 2 by Kelly Bailey
-➤ Haunting ambient and pulse-pounding segments.
-
 Paper Mario: The Thousand-Year Door by Yuka Tsujiyoko
-➤ Witty, melodic charm with a touch of whimsy.
-
 Silent Hill 4: The Room by Akira Yamaoka
-➤ Jazz, industrial, and horror all mashed up masterfully.
-
 Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
-➤ Underrated MMO expansion with strong musical storytelling.
-
 The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
-➤ Surprisingly fun and funky.
-
 Burnout 3: Takedown by Various Artists
-➤ Adrenaline-fueled punk and alt rock energy.
-
 - Half-Life 2
 - Dragon Quest VIII
 - Halo 2
@@ -637,38 +510,16 @@ Burnout 3: Takedown by Various Artists
 
 ## 2005
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
-
 Shadow of the Colossus by Kow Otani
-➤ Tragic beauty in boss battle form. One of the greats.
-
 God of War by Gerard Marino, Ron Fish
-➤ Mythic orchestral mayhem with real weight.
-
 Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
-➤ Builds constant dread with atmosphere and tension.
-
 Psychonauts by Peter McConnell
-➤ Wonderfully weird and genre-hopping.
-
 Kingdom Hearts II by Yoko Shimomura
-➤ Even more Disney magic and emotional originals.
-
 Call of Duty 2 by Graeme Revell
-➤ Gritty WWII epic.
-
 Phoenix Wright: Ace Attorney by Masakazu Sugimori
-➤ That “Objection!” theme? Legendary.
-
 Guitar Hero by Cover Artists / Harmonix
-➤ Defined rhythm gaming for a generation.
-
 We Love Katamari by Yuu Miyake & friends
-➤ Even wilder than the original.
-
 Devil May Cry 3 by Tetsuya Shibata
-➤ Shredding guitars and operatic boss fights.
-
-
 - God of War
 - Shadow of the Colussus
 - World of Warcraft
@@ -693,37 +544,16 @@ Devil May Cry 3 by Tetsuya Shibata
 
 ## 2006
 
-
 Okami by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh
-➤ A watercolor masterpiece with traditional Japanese instrumentation.
-
 The Elder Scrolls IV: Oblivion by Jeremy Soule
-➤ Soaring and immersive.
-
 Gears of War by Kevin Riepl
-➤ Bombastic and intense, with a dark tone.
-
 Final Fantasy XII by Hitoshi Sakimoto
-➤ More political and orchestral, matching the game’s tone.
-
 Mother 3 by Shogo Sakai
-➤ Deeply emotional, quirky, and rhythmic.
-
 LocoRoco by Nobuyuki Shimizu, Kemmei Adachi
-➤ Pure happiness in audio form.
-
 Viva Piñata by Grant Kirkhope
-➤ Lush and surprisingly elegant.
-
 Dead Rising by Hideki Okugawa, Marika Suzuki
-➤ A mix of mall muzak and hard rock.
-
 Elite Beat Agents by Cover Artists
-➤ Wild rhythm game with high-stakes music.
-
 Resistance: Fall of Man by David Bergeaud
-➤ Bleak, war-torn orchestration.
-
 - Gears of War
 - Tomb Raider: Legend
 - Valkyrie Profile: Lenneth
@@ -830,16 +660,16 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2010
 - [Nier](https://en.wikipedia.org/wiki/Nier) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Kakeru Ishihama, Keigo Hoashi, and Takafumi Nishimura
-1. Red Dead Redemption ‚Äì Bill Elm & Woody Jackson
-2. Mass Effect 2 ‚Äì Jack Wall, Sam Hulick, David Kates, Jimmy Hinson
-3. Super Mario Galaxy 2 ‚Äì Mahito Yokota, Koji Kondo, Ryo Nagamatsu
-4. Limbo ‚Äì Martin Stig Andersen
-5. Bayonetta ‚Äì Rei Kondoh, Masami Ueda, Hiroshi Yamaguchi
-6. Alan Wake ‚Äì Petri Alanko
-7. God of War III ‚Äì Gerard Marino, Ron Fish, Mike Reagan, Cris Velasco, Jeff Rona
-8. Donkey Kong Country Returns ‚Äì Kenji Yamamoto et al.
-9. Vanquish ‚Äì Masafumi Takada
-10. Final Fantasy XIII ‚Äì Masashi Hamauzu![image](https://github.com/user-attachments/assets/ba4a48cb-97c8-4649-af57-70c57bc5d928)
+- Red Dead Redemption by Bill Elm & Woody Jackson
+- Mass Effect 2 by Jack Wall, Sam Hulick, David Kates, Jimmy Hinson
+- Super Mario Galaxy 2 by Mahito Yokota, Koji Kondo, Ryo Nagamatsu
+- Limbo by Martin Stig Andersen
+- Bayonetta by Rei Kondoh, Masami Ueda, Hiroshi Yamaguchi
+- Alan Wake by Petri Alanko
+- God of War III by Gerard Marino, Ron Fish, Mike Reagan, Cris Velasco, Jeff Rona
+- Donkey Kong Country Returns by Kenji Yamamoto et al.
+- Vanquish by Masafumi Takada
+- Final Fantasy XIII by Masashi Hamauzu![image](https://github.com/user-attachments/assets/ba4a48cb-97c8-4649-af57-70c57bc5d928)
 - [Xenoblade Chronicles](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)) by Manami Kiyota, ACE, Kenji Hiramatsu, [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), and [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
 
 - Red Dead Redemption
@@ -863,16 +693,16 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2011
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
-1. Bastion ‚Äì Darren Korb
-2. The Elder Scrolls V: Skyrim ‚Äì Jeremy Soule
-3. Portal 2 ‚Äì Mike Morasky
-4. Dark Souls ‚Äì Motoi Sakuraba
-5. Deus Ex: Human Revolution ‚Äì Michael McCann
-6. Uncharted 3 ‚Äì Greg Edmonson
-7. L.A. Noire ‚Äì Andrew Hale, Simon Hale
-8. Skyward Sword ‚Äì Wakai, Fujii, Yokota, Kondo
-9. Rayman Origins ‚Äì Christophe H√©ral, Billy Martin
-10. Dead Space 2 ‚Äì Jason Graves
+- Bastion by Darren Korb
+- The Elder Scrolls V: Skyrim by Jeremy Soule
+- Portal 2 by Mike Morasky
+- Dark Souls by Motoi Sakuraba
+- Deus Ex: Human Revolution by Michael McCann
+- Uncharted 3 by Greg Edmonson
+- L.A. Noire by Andrew Hale, Simon Hale
+- Skyward Sword by Wakai, Fujii, Yokota, Kondo
+- Rayman Origins by Christophe H√©ral, Billy Martin
+- Dead Space 2 by Jason Graves
 
 
 - The Elder Scrolls V: Skyrim
@@ -926,19 +756,17 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2013
 - [Drakengard 3](https://en.wikipedia.org/wiki/Drakengard_3) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, Sho Ishihama, and Kuniyuki Takahashi
-1. The Last of Us ‚Äì Gustavo Santaolalla
-2. BioShock Infinite ‚Äì Garry Schyman
-3. Ni no Kuni ‚Äì Joe Hisaishi
-4. AC IV: Black Flag ‚Äì Brian Tyler
-5. Tearaway ‚Äì Kenneth Young, Brian D‚ÄôOliveira
-6. Fire Emblem Awakening ‚Äì Morishita, Kondoh
-7. Rayman Legends ‚Äì H√©ral, Martin
-8. GTA V ‚Äì Various Artists
-9. MGS: Revengeance ‚Äì Jamie Christopherson
-10. Puppeteer ‚Äì Patrick Doyle![image](https://github.com/user-attachments/assets/443cf535-93a8-49ca-8403-e5de8eb3999b)
+- The Last of Us by Gustavo Santaolalla
+- BioShock Infinite by Garry Schyman
+- Ni no Kuni by Joe Hisaishi
+- AC IV: Black Flag by Brian Tyler
+- Tearaway by Kenneth Young, Brian D‚ÄôOliveira
+- Fire Emblem Awakening by Morishita, Kondoh
+- Rayman Legends by H√©ral, Martin
+- GTA V by Various Artists
+- MGS: Revengeance by Jamie Christopherson
+- Puppeteer by Patrick Doyle![image](https://github.com/user-attachments/assets/443cf535-93a8-49ca-8403-e5de8eb3999b)
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
-
-
 - The Last of Us
 - BioShock: Infinite
 - Journey
@@ -956,19 +784,16 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2014
 
-
-1. Transistor ‚Äì Darren Korb
-2. Child of Light ‚Äì C≈ìur de Pirate
-3. Shovel Knight ‚Äì Jake Kaufman
-4. Dragon Age: Inquisition ‚Äì Trevor Morris
-5. Bayonetta 2 ‚Äì Various Artists
-6. Valiant Hearts ‚Äì Peter McConnell
-7. Destiny ‚Äì O‚ÄôDonnell, Salvatori, McCartney
-8. Smash Bros Wii U ‚Äì Various Artists
-9. The Banner Saga ‚Äì Austin Wintory
-10. Alien: Isolation ‚Äì Henson, Smith![image](https://github.com/user-attachments/assets/6b7a6468-3c29-4532-8390-eac44aa21e93)
-
-
+- Transistor by Darren Korb
+- Child of Light by C≈ìur de Pirate
+- Shovel Knight by Jake Kaufman
+- Dragon Age: Inquisition by Trevor Morris
+- Bayonetta 2 by Various Artists
+- Valiant Hearts by Peter McConnell
+- Destiny by O‚ÄôDonnell, Salvatori, McCartney
+- Smash Bros Wii U by Various Artists
+- The Banner Saga by Austin Wintory
+- Alien: Isolation by Henson, Smith![image](https://github.com/user-attachments/assets/6b7a6468-3c29-4532-8390-eac44aa21e93)
 - Middle-earth: Shadow of Mordor
 - Alien: Isolation
 - Papers, Please
@@ -985,20 +810,16 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2015
 
-
-1. Undertale ‚Äì Toby Fox
-2. The Witcher 3 ‚Äì Przyby≈Çowicz, Stroinski
-3. Ori and the Blind Forest ‚Äì Gareth Coker
-4. Bloodborne ‚Äì Saitoh, Kitamura, Suzuki, Amon
-5. MGSV: TPP ‚Äì Forssell, Burnett, James
-6. Hotline Miami 2 ‚Äì Various Artists
-7. Life is Strange ‚Äì Jonathan Morali
-8. Splatoon ‚Äì Minegishi, Fujii, Nagamatsu
-9. Everybody‚Äôs Gone to the Rapture ‚Äì Jessica Curry
-10. Fallout 4 ‚Äì Inon Zur![image](https://github.com/user-attachments/assets/bf79fd28-867d-4cc1-993c-9c45fe4d1eed)
-
-
-
+- Undertale by Toby Fox
+- The Witcher 3 by Przyby≈Çowicz, Stroinski
+- Ori and the Blind Forest by Gareth Coker
+- Bloodborne by Saitoh, Kitamura, Suzuki, Amon
+- MGSV: TPP by Forssell, Burnett, James
+- Hotline Miami 2 by Various Artists
+- Life is Strange by Jonathan Morali
+- Splatoon by Minegishi, Fujii, Nagamatsu
+- Everybody‚Äôs Gone to the Rapture by Jessica Curry
+- Fallout 4 by Inon Zur
 - The Witcher 3: Wild Hunt
 - Crypt of the NecroDancer
 - Ori and the Blind Forest
@@ -1015,20 +836,16 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2016
 
-1. DOOM ‚Äì Mick Gordon
-2. Final Fantasy XV ‚Äì Yoko Shimomura
-3. The Last Guardian ‚Äì Takeshi Furukawa
-4. Firewatch ‚Äì Chris Remo
-5. Hyper Light Drifter ‚Äì Disasterpeace
-6. Inside ‚Äì Martin Stig Andersen
-7. Abz√ª ‚Äì Austin Wintory
-8. Titanfall 2 ‚Äì Stephen Barton
-9. Thumper ‚Äì Brian Gibson
-10. Oxenfree ‚Äì scntfc![image](https://github.com/user-attachments/assets/01c90490-5895-4482-bdbf-72067a2dae1b)
-
-
-
-
+- DOOM by Mick Gordon
+- Final Fantasy XV by Yoko Shimomura
+- The Last Guardian by Takeshi Furukawa
+- Firewatch by Chris Remo
+- Hyper Light Drifter by Disasterpeace
+- Inside by Martin Stig Andersen
+- Abz√ª by Austin Wintory
+- Titanfall 2 by Stephen Barton
+- Thumper by Brian Gibson
+- Oxenfree by scntfc
 - Overwatch
 - Inside
 - The Last Guardian
@@ -1041,23 +858,20 @@ League of Legends (early builds) by Riot Games composers
 - Stardew Valley
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) by [65daysofstatic](https://en.wikipedia.org/wiki/65daysofstatic) and Earcom / Paul Weir
 - [Persona 5](https://en.wikipedia.org/wiki/Persona_5) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
+- [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 
 
 
 ## 2017
-
-2. [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
-3. Zelda: Breath of the Wild ‚Äì Kataoka, Iwata, Wakai
-4. Cuphead ‚Äì Kristofer Maddigan
-5. Hollow Knight ‚Äì Christopher Larkin
-6. Horizon Zero Dawn ‚Äì Joris de Man et al.
-7. Edith Finch ‚Äì Jeff Russo
-8. Night in the Woods ‚Äì Alec Holowka
-9. Pyre ‚Äì Darren Korb
-10. Xenoblade Chronicles 2 ‚Äì ACE+, Kenji Hiramatsu![image](https://github.com/user-attachments/assets/7d33f556-e901-44c8-b501-f50e09626599)
-
-
-
+- [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
+- Zelda: Breath of the Wild by Kataoka, Iwata, Wakai
+- Cuphead by Kristofer Maddigan
+- Hollow Knight by Christopher Larkin
+- Horizon Zero Dawn by Joris de Man et al.
+- Edith Finch by Jeff Russo
+- Night in the Woods by Alec Holowka
+- Pyre by Darren Korb
+- Xenoblade Chronicles 2 by ACE+, Kenji Hiramatsu
 - The Legend of Zelda: Breath of the Wild
 - Hellblade: Senua's Sacrifice
 - Super Mario Odyssey
@@ -1067,34 +881,26 @@ League of Legends (early builds) by Riot Games composers
 - Doom
 - Dragon Quest XI
 - Hitman
-- Hollow Knight
 - Ni no Kuni II: Revenant Kingdom
 - The Artful Escape
 
+
 ## 2018
 
-1. Celeste ‚Äì Lena Raine
-2. God of War ‚Äì Bear McCreary
-3. Red Dead Redemption 2 ‚Äì Woody Jackson
-4. Octopath Traveler ‚Äì Yasunori Nishiki
-5. Gris ‚Äì Berlinist
-6. Tetris Effect ‚Äì Hydelic
-7. Into the Breach ‚Äì Ben Prunty
-8. Monster Hunter: World ‚Äì Tadayoshi Makino et al.
-9. Spider-Man ‚Äì John Paesano
-10. Deltarune Chapter 1 ‚Äì Toby Fox![image](https://github.com/user-attachments/assets/2bbbe7c1-d4cf-4ce1-850e-ecacb570b79f)
+- Celeste by Lena Raine
+- Octopath Traveler by Yasunori Nishiki
+- Gris by Berlinist
+- Into the Breach by Ben Prunty
+- Monster Hunter: World by Tadayoshi Makino et al.
+- Spider-Man by John Paesano
+- Deltarune Chapter 1 by Toby Fox
 - [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Red Dead Redemtion 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) by [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson)
 - [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
-- Celeste
-- Nier: Automata
-- Super Mario Odyssey
-- Kingdom Hearts III
-- Octopath Traveler
-- Ori and the Will of Wisps
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect) by Noboru Mutoh
 
 ## 2019
+
 - [Sayonara Wild Hearts](https://en.wikipedia.org/wiki/Sayonara_Wild_Hearts) by Daniel Olsén and Jonathan Eng
 - [Outer Wilds](https://en.wikipedia.org/wiki/Outer_Wilds) by [Andrew Prahlow](https://en.wikipedia.org/wiki/Andrew_Prahlow)
 - [Control](https://en.wikipedia.org/wiki/Control_(video_game)) by Petri Alanko and [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen)
@@ -1114,6 +920,7 @@ League of Legends (early builds) by Riot Games composers
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) by Ludvig Forssell
 
 ## 2020
+
 - [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu) and Mitsuto Suzuki
 - [The Last of Us Part II](https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II) by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)
 - [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) by P. T. Adamczyk, [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz), and [Paul Leonard-Morgan](https://en.wikipedia.org/wiki/Paul_Leonard-Morgan)
