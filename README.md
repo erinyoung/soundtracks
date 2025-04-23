@@ -754,26 +754,12 @@ Mass Effect by Jack Wall, Sam Hulick
 ➤ Moody, synth-heavy, and unforgettable.
 
 Halo 3 by Martin O'Donnell
-➤ Refined and emotional conclusion to the trilogy.
-
 Persona 3 by Shoji Meguro
-➤ Stylish J-pop/hip-hop/dungeon blend.
-
 The World Ends With You by Takeharu Ishimoto
-➤ Wild and genre-defying soundtrack.
-
 Call of Duty 4: Modern Warfare by Stephen Barton, Harry Gregson-Williams
-➤ Filmic tension meets pulse-pounding action.
-
 Assassin’s Creed by Jesper Kyd
-➤ Middle Eastern influences and stealthy ambiance.
-
 Team Fortress 2 by Mike Morasky
-➤ Retro swing meets spy-jazz.
-
 Crysis by Inon Zur
-➤ Epic orchestral sci-fi tension.
-
 - Portal
 - BioShock
 - flOw
@@ -822,35 +808,15 @@ Crysis by Inon Zur
 ## 2009
 
 Demon’s Souls by Shunsuke Kida
-➤ Harrowing, epic, and tragic—set the Souls tone.
-
 Uncharted 2: Among Thieves by Greg Edmonson
-➤ Big-screen adventure energy.
-
 Bayonetta by Masami Ueda, others
-➤ Jazz, techno, and opera on adrenaline.
-
 Dragon Age: Origins by Inon Zur
-➤ Gritty, emotional fantasy orchestration.
-
 Final Fantasy XIII by Masashi Hamauzu
-➤ Gorgeously composed and more experimental than earlier FFs.
-
 Minecraft (pre-release) by C418
-➤ Chill, minimalist brilliance began here.
-
 Batman: Arkham Asylum by Nick Arundel, Ron Fish
-➤ Dark knight orchestral moodiness.
-
 Assassin’s Creed II by Jesper Kyd
-➤ Renaissance Italy reimagined through music.
-
 Flower by Vincent Diamante
-➤ Gentle and dynamic, flowing with gameplay.
-
 League of Legends (early builds) by Riot Games composers
-➤ Beginnings of what would become an esport musical titan.
-
 - Uncharted 2: Among Thieves
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - Dragon Quest IX
@@ -1074,6 +1040,9 @@ League of Legends (early builds) by Riot Games composers
 - Final Fantasy XV
 - Skylanders: Imaginators
 - Stardew Valley
+- [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) by [65daysofstatic](https://en.wikipedia.org/wiki/65daysofstatic) and Earcom / Paul Weir
+
+
 
 ## 2017
 
@@ -1157,7 +1126,6 @@ League of Legends (early builds) by Riot Games composers
 - Sayonara Wild Hearts
 
 ## 2020
-https://daily.bandcamp.com/best-of-2020/the-best-video-game-music-of-2020
 Hades by Darren Korb
 
 Ori and the Will of the Wisps by Gareth Coker
@@ -1184,42 +1152,33 @@ Assassin's Creed Valhalla by Jesper Kyd, Sarah Schachner, Einar Selvik
 - Spider-Man: Miles Morales
 - Sekiro: Shadows Die Twice
 - Death Stranding
+- [Calico](https://en.wikipedia.org/wiki/Calico_(video_game)) by Star Victoria Power (Slide20XX)
+- [Haven](https://en.wikipedia.org/wiki/Haven_(video_game)) by [Danger](https://en.wikipedia.org/wiki/Danger_(musician))
+- [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
+- [Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps) by [Gareth Cooker](https://en.wikipedia.org/wiki/Gareth_Coker)
+- [Deep Rock Galactic](https://en.wikipedia.org/wiki/Deep_Rock_Galactic) by Sophus Alf Agerbæk
+- [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Yasuaki Iwata, Yumi Takahashi, Shinobu Nagata, Sayako Doi, and Masato Ohashi
+- [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima) by [Ilan Eshkeri](https://en.wikipedia.org/wiki/Ilan_Eshkeri) and [Shigeru Umebayashi](https://en.wikipedia.org/wiki/Shigeru_Umebayashi)
+
 
 ## 2021
 - [Nier Reincarnation](https://en.wikipedia.org/wiki/Nier_Reincarnation) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Shotaro Seo, and Kuniyuki Takahashi
-https://daily.bandcamp.com/best-of-2021/the-best-video-game-music-of-2021
-The Artful Escape by Johnny Galvatron
-
-Metroid Dread by Kenji Yamamoto, Ryo Nagamatsu
-
-Forza Horizon 5 by Eduardo de la Iglesia, Matías Cella
-
-Halo Infinite by Gareth Coker
-
-Resident Evil Village by Shusaku Uchiyama
-
-Ratchet & Clank: Rift Apart by Mark Mothersbaugh
-
-Deathloop by Tom Salta
-
-Guardians of the Galaxy by Richard Jacques
-
-Far Cry 6 by Pedro Bromfman
-
-Hitman 3 by Niels Bye Nielsen
-- Unpacking
-- Inscryption
-- Ratchet & Clank: Rift Apart
-- Returnal
-- No Man's Sky
-- Chicory: A Colorful Tale
-- It Takes Two
-- Hades
-- (Balan Wonderworld)
-- Ori and the Will of Wisps
-- Deep Rock Galactic
-- Animal Crossing: New Horizons
-- Ghost of Tsushima
+- [The Artful Escape](https://en.wikipedia.org/wiki/The_Artful_Escape) by Johnny Galvatron and [Josh Abrahams](https://en.wikipedia.org/wiki/Josh_Abrahams)
+- [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) by Soshi Abe and Sayako Doi
+- [Forza Horizon 5](https://en.wikipedia.org/wiki/Forza_Horizon_5) by Eduardo de la Iglesia, Matías Cella
+- [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), [Joel Corelitz](https://en.wikipedia.org/wiki/Joel_Corelitz), and Curtis Schweitzer
+- [Resident Evil Village](https://en.wikipedia.org/wiki/Resident_Evil_Village) by Shusaku Uchiyama and Nao Sato
+- [Ratchet & Clank: Rift Apart](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Rift_Apart) by [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh) and [Wataru Hokoyama](https://en.wikipedia.org/wiki/Wataru_Hokoyama)
+- [Deathloop](https://en.wikipedia.org/wiki/Deathloop) by [Tom Salta](https://en.wikipedia.org/wiki/Tom_Salta)
+- [Marvel's Guardians of the Galaxy](https://en.wikipedia.org/wiki/Marvel%27s_Guardians_of_the_Galaxy) by [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques)
+- [Far Cry 6](https://en.wikipedia.org/wiki/Far_Cry_6) by [Pedro Bromfman](https://en.wikipedia.org/wiki/Pedro_Bromfman)
+- [Hitman 3](https://en.wikipedia.org/wiki/Hitman_3) by Niels Bye Nielsen
+- [Unpacking](https://en.wikipedia.org/wiki/Unpacking_(video_game)) by [Jeff van Dyck](https://en.wikipedia.org/wiki/Jeff_van_Dyck)
+- [Inscryption](https://en.wikipedia.org/wiki/Inscryption) by Jonah Senzel
+- [Returnal](https://en.wikipedia.org/wiki/Returnal) by [Bobby Krlic](https://en.wikipedia.org/wiki/The_Haxan_Cloak)
+- [Chicory: A Colorful Tale](https://en.wikipedia.org/wiki/Chicory:_A_Colorful_Tale) by [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine)
+- [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) by [Gustaf Grefberg](https://en.wikipedia.org/wiki/Gustaf_Grefberg) and Kristofer Eng
+- ([Balan Wonderworld](https://en.wikipedia.org/wiki/Balan_Wonderworld)) by Ryo Yamazaki and Hironori Anazawa
 - [Sable](https://en.wikipedia.org/wiki/Sable_(video_game)) by [Japanese Breakfast](https://en.wikipedia.org/wiki/Japanese_Breakfast)
 - [Psychonauts 2](https://en.wikipedia.org/wiki/Psychonauts_2) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 
