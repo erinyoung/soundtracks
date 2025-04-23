@@ -1220,42 +1220,26 @@ Hitman 3 by Niels Bye Nielsen
 - Deep Rock Galactic
 - Animal Crossing: New Horizons
 - Ghost of Tsushima
+- [Sable](https://en.wikipedia.org/wiki/Sable_(video_game)) by [Japanese Breakfast](https://en.wikipedia.org/wiki/Japanese_Breakfast)
+- [Psychonauts 2](https://en.wikipedia.org/wiki/Psychonauts_2) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 
 ## 2022
 https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks-of-2022-according-to-composers/
-God of War Ragnarök by Bear McCreary
+- [God of War Ragnarök](https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) by Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, Yoshimi Kudo, and Soma Tanizaki
+- [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), Niels van der Leest, Oleksa Lozowchuk, and [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band))
+- [Stray](https://en.wikipedia.org/wiki/Stray_(video_game)) by 	Yann van der Cruyssen
+- [A Plague Tale: Requiem](https://en.wikipedia.org/wiki/A_Plague_Tale:_Requiem) by [Olivier Derivière](https://en.wikipedia.org/wiki/Olivier_Deriviere)
+- [Sifu](https://en.wikipedia.org/wiki/Sifu_(video_game)) by Howie Lee
+- [Tunic](https://en.wikipedia.org/wiki/Tunic_(video_game)) by Terence Lee (Lifeformed) and Janice Kwan
+- [Dying Light 2 Stay Human](https://en.wikipedia.org/wiki/Dying_Light_2) by [Olivier Derivière](https://en.wikipedia.org/wiki/Olivier_Deriviere)
+- [Harvestella](https://en.wikipedia.org/wiki/Harvestella) by [Go Shiina](https://en.wikipedia.org/wiki/Go_Shiina)
+- [Valkyrie Elysium](https://en.wikipedia.org/wiki/Valkyrie_Elysium) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
+- [The Diofield Chronicle](https://en.wikipedia.org/wiki/The_Diofield_Chronicle) by [Brandon Campbell](https://en.wikipedia.org/wiki/Brandon_Campbell) and [Ramin Djawadi](https://en.wikipedia.org/wiki/Ramin_Djawadi)
+- ([Vampire Survivors](https://en.wikipedia.org/wiki/Vampire_Survivors) and Daniele Zandara, Filippo Vicarelli, William Davies, and Lorenzo Floro)
+- [Kirby and the Forgotten Land](https://en.wikipedia.org/wiki/Kirby_and_the_Forgotten_Land) and Yuuta Ogasawara, [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Yuki Shimooka
+- [Echoes of Mana](https://en.wikipedia.org/wiki/Echoes_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Ryo Yamazaki
 
-Elden Ring by Tsukasa Saitoh
-
-Horizon Forbidden West by Joris de Man, The Flight, Niels van der Leest
-
-Stray by Yasunori Mitsuda
-
-A Plague Tale: Requiem by Olivier Derivière
-
-Sifu by Howie Lee
-
-Gran Turismo 7 by Nobuyuki Aoshima
-
-Tunic by Lifeformed
-
-Dying Light 2 Stay Human by Olivier Derivière
-
-Starfield by Inon Zur
-
-- God of War Ragnarok
-- Elden Ring
-- Tunic
-- Harvestella
-- Valkyrie Elysium
-- The Diofield Chronicle
-- (Vampire Survivors)
-- Kirby and the Forgotten Land
-- Horizon Forbidden West
-- Echoes of Mana
-- Final Fantasy XIV: Endwalker
-- Sable
-- Psychonauts 2
 
 ## 2023
 - [Jusant](https://en.wikipedia.org/wiki/Jusant) by Guillaume Ferran
