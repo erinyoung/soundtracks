@@ -325,17 +325,13 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 ## 1998
 
-The Legend of Zelda: Ocarina of Time by Koji Kondo
-
-Xenogears by Yasunori Mitsuda
-
-Metal Gear Solid by TAPPY, G.Kojima team
-
-Banjo-Kazooie by Grant Kirkhope
-- Grim Fandango
-- The Legend of Zelda: Orcarina of Time
-- Baldur's Gate
-- Sentinel Returns
+- [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Xenogears](https://en.wikipedia.org/wiki/Xenogears) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
+- [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)) by Kazuki Muraoka, Hiroyuki Togo, Takanari Ishiyama, Lee Jeon Myung, and Maki Kirioka
+- ([Banjo-Kazooie](https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game))) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
+- [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
+- [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game)) by [Michael Hoenig](https://en.wikipedia.org/wiki/Michael_Hoenig)
+- [Sentinel Returns](https://en.wikipedia.org/wiki/Sentinel_Returns) by [John Carpenter](https://en.wikipedia.org/wiki/John_Carpenter)
 
 ## 1999
 - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) by Dennis Martin and [Takeo Miratsu](https://en.wikipedia.org/wiki/Takeo_Miratsu)
@@ -352,19 +348,19 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2000
 
 - [Hitman: Codename 47](https://en.wikipedia.org/wiki/Hitman:_Codename_47) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-Chrono Cross by Yasunori Mitsuda
-The Legend of Zelda: Majora’s Mask by Koji Kondo
-Diablo II by Matt Uelmen
-Chrono Cross by Yasunori Mitsuda
-The Legend of Zelda: Majora’s Mask by Koji Kondo
-Jet Set Radio by Hideki Naganuma
-Deus Ex by Alexander Brandon
-Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-Tony Hawk’s Pro Skater 2 by Various Artists
-The Sims by Jerry Martin
-Perfect Dark by Grant Kirkhope
-Phantasy Star Online by Hideaki Kobayashi
-Vagrant Story by Hitoshi Sakimoto
+- Chrono Cross by Yasunori Mitsuda
+- The Legend of Zelda: Majora’s Mask by Koji Kondo
+- Diablo II by Matt Uelmen
+- Chrono Cross by Yasunori Mitsuda
+- The Legend of Zelda: Majora’s Mask by Koji Kondo
+- Jet Set Radio by Hideki Naganuma
+- Deus Ex by Alexander Brandon
+- Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- Tony Hawk’s Pro Skater 2 by Various Artists
+- The Sims by Jerry Martin
+- Perfect Dark by Grant Kirkhope
+- Phantasy Star Online by Hideaki Kobayashi
+- Vagrant Story by Hitoshi Sakimoto
 - Chrono Cross by Yasunori Mitsuda
 - The Legend of Zelda: Majora’s Mask by Koji Kondo
 - Jet Set Radio by Hideki Naganuma
@@ -385,20 +381,20 @@ Vagrant Story by Hitoshi Sakimoto
 
 ## 2001
 
-Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
-Silent Hill 2 by Akira Yamaoka
-Metal Gear Solid 2: Sons of Liberty by Harry Gregson-Williams, Norihiko Hibino
-Super Smash Bros. Melee by Various Composers
-Animal Crossing by Kazumi Totaka
-Luigi's Mansion by Kazumi Totaka
-Grand Theft Auto III by Craig Conner & Stuart Ross
-Advance Wars by Taishi Senda
-Ico by Michiru Oshima & Pentagon
-Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
-Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-Ico (PS2) by Michiru Oshima & Pentagon
-Silent Hill 2 (PS2) by Akira Yamaoka
+- Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
+- Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
+- Silent Hill 2 by Akira Yamaoka
+- Metal Gear Solid 2: Sons of Liberty by Harry Gregson-Williams, Norihiko Hibino
+- Super Smash Bros. Melee by Various Composers
+- Animal Crossing by Kazumi Totaka
+- Luigi's Mansion by Kazumi Totaka
+- Grand Theft Auto III by Craig Conner & Stuart Ross
+- Advance Wars by Taishi Senda
+- Ico by Michiru Oshima & Pentagon
+- Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
+- Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
+- Ico (PS2) by Michiru Oshima & Pentagon
+- Silent Hill 2 (PS2) by Akira Yamaoka
 - Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
 - Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
 - Silent Hill 2 by Akira Yamaoka
@@ -421,19 +417,19 @@ Silent Hill 2 (PS2) by Akira Yamaoka
 
 ## 2002
 
-The Legend of Zelda: The Wind Waker by Koji Kondo, Kenta Nagata, Hajime Wakai, Toru Minegishi
-Metroid Prime by Kenji Yamamoto
-Kingdom Hearts by Yoko Shimomura
-Grand Theft Auto: Vice City by Various Artists
-Morrowind (The Elder Scrolls III) by Jeremy Soule
-Super Mario Sunshine by Koji Kondo
-TimeSplitters 2 by Graeme Norgate
-Ratchet & Clank by David Bergeaud
-Sly Cooper and the Thievius Raccoonus by Ashif Hakik
-Battlefield 1942 by Joel Eriksson
-Metroid Prime (GameCube) by Kenji Yamamoto
-Kingdom Hearts (PS2) by Yoko Shimomura
-Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
+- The Legend of Zelda: The Wind Waker by Koji Kondo, Kenta Nagata, Hajime Wakai, Toru Minegishi
+- Metroid Prime by Kenji Yamamoto
+- Kingdom Hearts by Yoko Shimomura
+- Grand Theft Auto: Vice City by Various Artists
+- Morrowind (The Elder Scrolls III) by Jeremy Soule
+- Super Mario Sunshine by Koji Kondo
+- TimeSplitters 2 by Graeme Norgate
+- Ratchet & Clank by David Bergeaud
+- Sly Cooper and the Thievius Raccoonus by Ashif Hakik
+- Battlefield 1942 by Joel Eriksson
+- Metroid Prime (GameCube) by Kenji Yamamoto
+- Kingdom Hearts (PS2) by Yoko Shimomura
+- Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - Metroid Prime by Kenji Yamamoto
@@ -445,7 +441,6 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 - Ratchet & Clank by David Bergeaud
 - Sly Cooper by Ashif Hakik
 - Battlefield 1942 by Joel Eriksson
-
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - Metroid Prime
@@ -459,6 +454,7 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 - Super Monkey Ball 2
 
 ## 2003
+
 - [Drakengard](https://en.wikipedia.org/wiki/Drakengard_(video_game)) by [Nobuyoshi Sano](https://en.wikipedia.org/wiki/Nobuyoshi_Sano) and Takayuki Aihara
 - [Beyond Good & Evil](https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
 - [Star Wars: Knights of the Old Republic (KOTOR)](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
@@ -478,21 +474,22 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 - [Star Wars Jedi Knight: Jedi Academy](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy) by Clint Bajakian
 
 ## 2004
+
 - [Star Wars Knights of the Old Republic II: The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey)
 - [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
 - [Hitman: Contracts](https://en.wikipedia.org/wiki/Hitman:_Contracts) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
-World of Warcraft by Jason Hayes & team
-Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
-Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
-Halo 2 by Martin O'Donnell
-World of Warcraft by Jason Hayes & team
-Half-Life 2 by Kelly Bailey
-Paper Mario: The Thousand-Year Door by Yuka Tsujiyoko
-Silent Hill 4: The Room by Akira Yamaoka
-Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
-The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
-Burnout 3: Takedown by Various Artists
+- Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
+- World of Warcraft by Jason Hayes & team
+- Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
+- Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
+- Halo 2 by Martin O'Donnell
+- World of Warcraft by Jason Hayes & team
+- Half-Life 2 by Kelly Bailey
+- Paper Mario: The Thousand-Year Door by Yuka Tsujiyoko
+- Silent Hill 4: The Room by Akira Yamaoka
+- Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
+- The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
+- Burnout 3: Takedown by Various Artists
 - Half-Life 2
 - Dragon Quest VIII
 - Halo 2
@@ -511,17 +508,18 @@ Burnout 3: Takedown by Various Artists
 - Jade Empire
 
 ## 2005
+
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
-Shadow of the Colossus by Kow Otani
-God of War by Gerard Marino, Ron Fish
-Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
-Psychonauts by Peter McConnell
-Kingdom Hearts II by Yoko Shimomura
-Call of Duty 2 by Graeme Revell
-Phoenix Wright: Ace Attorney by Masakazu Sugimori
-Guitar Hero by Cover Artists / Harmonix
-We Love Katamari by Yuu Miyake & friends
-Devil May Cry 3 by Tetsuya Shibata
+- Shadow of the Colossus by Kow Otani
+- God of War by Gerard Marino, Ron Fish
+- Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
+- Psychonauts by Peter McConnell
+- Kingdom Hearts II by Yoko Shimomura
+- Call of Duty 2 by Graeme Revell
+- Phoenix Wright: Ace Attorney by Masakazu Sugimori
+- Guitar Hero by Cover Artists / Harmonix
+- We Love Katamari by Yuu Miyake & friends
+- Devil May Cry 3 by Tetsuya Shibata
 - God of War
 - Shadow of the Colussus
 - World of Warcraft
@@ -545,17 +543,18 @@ Devil May Cry 3 by Tetsuya Shibata
 - Spore
 
 ## 2006
+
 - [Hitman: Blood Money](https://en.wikipedia.org/wiki/Hitman:_Blood_Money) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-Okami by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh
-The Elder Scrolls IV: Oblivion by Jeremy Soule
-Gears of War by Kevin Riepl
-Final Fantasy XII by Hitoshi Sakimoto
-Mother 3 by Shogo Sakai
-LocoRoco by Nobuyuki Shimizu, Kemmei Adachi
-Viva Piñata by Grant Kirkhope
-Dead Rising by Hideki Okugawa, Marika Suzuki
-Elite Beat Agents by Cover Artists
-Resistance: Fall of Man by David Bergeaud
+- Okami by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh
+- The Elder Scrolls IV: Oblivion by Jeremy Soule
+- Gears of War by Kevin Riepl
+- Final Fantasy XII by Hitoshi Sakimoto
+- Mother 3 by Shogo Sakai
+- LocoRoco by Nobuyuki Shimizu, Kemmei Adachi
+- Viva Piñata by Grant Kirkhope
+- Dead Rising by Hideki Okugawa, Marika Suzuki
+- Elite Beat Agents by Cover Artists
+- Resistance: Fall of Man by David Bergeaud
 - Gears of War
 - Tomb Raider: Legend
 - Valkyrie Profile: Lenneth
@@ -576,22 +575,16 @@ Resistance: Fall of Man by David Bergeaud
 
 ## 2007
 
-Super Mario Galaxy by Mahito Yokota, Koji Kondo
-➤ Orchestral joy. Gusty Garden Galaxy alone is worth it.
-
-Bioshock by Garry Schyman
-➤ String-heavy, vintage horror elegance.
-
-Mass Effect by Jack Wall, Sam Hulick
-➤ Moody, synth-heavy, and unforgettable.
-
-Halo 3 by Martin O'Donnell
-Persona 3 by Shoji Meguro
-The World Ends With You by Takeharu Ishimoto
-Call of Duty 4: Modern Warfare by Stephen Barton, Harry Gregson-Williams
-Assassin’s Creed by Jesper Kyd
-Team Fortress 2 by Mike Morasky
-Crysis by Inon Zur
+- Super Mario Galaxy by Mahito Yokota, Koji Kondo
+- Bioshock by Garry Schyman
+- Mass Effect by Jack Wall, Sam Hulick
+- Halo 3 by Martin O'Donnell
+- Persona 3 by Shoji Meguro
+- The World Ends With You by Takeharu Ishimoto
+- Call of Duty 4: Modern Warfare by Stephen Barton, Harry Gregson-Williams
+- Assassin’s Creed by Jesper Kyd
+- Team Fortress 2 by Mike Morasky
+- Crysis by Inon Zur
 - Portal
 - BioShock
 - flOw
@@ -639,16 +632,16 @@ Crysis by Inon Zur
 
 ## 2009
 
-Demon’s Souls by Shunsuke Kida
-Uncharted 2: Among Thieves by Greg Edmonson
-Bayonetta by Masami Ueda, others
-Dragon Age: Origins by Inon Zur
-Final Fantasy XIII by Masashi Hamauzu
-Minecraft (pre-release) by C418
-Batman: Arkham Asylum by Nick Arundel, Ron Fish
-Assassin’s Creed II by Jesper Kyd
-Flower by Vincent Diamante
-League of Legends (early builds) by Riot Games composers
+- Demon’s Souls by Shunsuke Kida
+- Uncharted 2: Among Thieves by Greg Edmonson
+- Bayonetta by Masami Ueda, others
+- Dragon Age: Origins by Inon Zur
+- Final Fantasy XIII by Masashi Hamauzu
+- Minecraft (pre-release) by C418
+- Batman: Arkham Asylum by Nick Arundel, Ron Fish
+- Assassin’s Creed II by Jesper Kyd
+- Flower by Vincent Diamante
+- League of Legends (early builds) by Riot Games composers
 - Uncharted 2: Among Thieves
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - Dragon Quest IX
@@ -661,6 +654,7 @@ League of Legends (early builds) by Riot Games composers
 - Halo 3
 
 ## 2010
+
 - [Nier](https://en.wikipedia.org/wiki/Nier) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Kakeru Ishihama, Keigo Hoashi, and Takafumi Nishimura
 - Red Dead Redemption by Bill Elm & Woody Jackson
 - Mass Effect 2 by Jack Wall, Sam Hulick, David Kates, Jimmy Hinson
@@ -673,7 +667,6 @@ League of Legends (early builds) by Riot Games composers
 - Vanquish by Masafumi Takada
 - Final Fantasy XIII by Masashi Hamauzu![image](https://github.com/user-attachments/assets/ba4a48cb-97c8-4649-af57-70c57bc5d928)
 - [Xenoblade Chronicles](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)) by Manami Kiyota, ACE, Kenji Hiramatsu, [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), and [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
-
 - Red Dead Redemption
 - Heavy Rain
 - Alan Wake
@@ -694,6 +687,7 @@ League of Legends (early builds) by Riot Games composers
 - James Bond 007: Blood Stone
 
 ## 2011
+
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
 - Bastion by Darren Korb
 - The Elder Scrolls V: Skyrim by Jeremy Soule
@@ -705,8 +699,6 @@ League of Legends (early builds) by Riot Games composers
 - Skyward Sword by Wakai, Fujii, Yokota, Kondo
 - Rayman Origins by Christophe H√©ral, Billy Martin
 - Dead Space 2 by Jason Graves
-
-
 - The Elder Scrolls V: Skyrim
 - Portal 2
 - Final Fantasy XIII-2
@@ -735,6 +727,7 @@ League of Legends (early builds) by Riot Games composers
 - [Bastion](https://en.wikipedia.org/wiki/Bastion_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 
 ## 2012
+
 - [Journey](https://en.wikipedia.org/wiki/Journey_(2012_video_game)) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
 - [Hotline Miami](https://en.wikipedia.org/wiki/Hotline_Miami) by Various Artists
 - [Fez](https://en.wikipedia.org/wiki/Fez_(video_game)) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace)
@@ -758,6 +751,7 @@ League of Legends (early builds) by Riot Games composers
 - [XCOM: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
 
 ## 2013
+
 - [Drakengard 3](https://en.wikipedia.org/wiki/Drakengard_3) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, Sho Ishihama, and Kuniyuki Takahashi
 - The Last of Us by Gustavo Santaolalla
 - BioShock Infinite by Garry Schyman
@@ -863,8 +857,8 @@ League of Legends (early builds) by Riot Games composers
 - [Persona 5](https://en.wikipedia.org/wiki/Persona_5) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 - [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 
-
 ## 2017
+
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 - [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
 - [Cuphead](https://en.wikipedia.org/wiki/Cuphead) by Kristofer Maddigan
@@ -878,8 +872,6 @@ League of Legends (early builds) by Riot Games composers
 - [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Dragon Quest XI](https://en.wikipedia.org/wiki/Dragon_Quest_XI) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
-
-
 
 ## 2018
 
@@ -1022,6 +1014,7 @@ League of Legends (early builds) by Riot Games composers
 - [Super Mario Bros. Wonder](https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo), Shiho Fujii, Sayako Doi, and Chisaki Shimazu
 
 ## 2024
+
 - [Final Fantasy VII Rebirth](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth) by Mitsuto Suzuki, [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Astro Bot](https://en.wikipedia.org/wiki/Astro_Bot) by [Kenneth C. M. Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer))
 - [Metaphor:_ReFantazio](https://en.wikipedia.org/wiki/Metaphor:_ReFantazio) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
