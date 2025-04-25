@@ -212,7 +212,7 @@ Madden NFL (EA Sports)
 FIFA / EA FC (EA Sports – international devs, U.S. player base)
 
 UFC (EA Sports)
-
+xenoblade
 Skate (EA)
 
 Racing & Simulation
@@ -351,6 +351,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 ## 2000
 
+- [Hitman: Codename 47](https://en.wikipedia.org/wiki/Hitman:_Codename_47) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 Chrono Cross by Yasunori Mitsuda
 The Legend of Zelda: Majora’s Mask by Koji Kondo
 Diablo II by Matt Uelmen
@@ -434,7 +435,7 @@ Metroid Prime (GameCube) by Kenji Yamamoto
 Kingdom Hearts (PS2) by Yoko Shimomura
 Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
-
+- [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - Metroid Prime by Kenji Yamamoto
 - Kingdom Hearts by Yoko Shimomura
 - Grand Theft Auto: Vice City by Various Artists
@@ -479,6 +480,7 @@ Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
 ## 2004
 - [Star Wars Knights of the Old Republic II: The Sith Lords](https://en.wikipedia.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey)
 - [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
+- [Hitman: Contracts](https://en.wikipedia.org/wiki/Hitman:_Contracts) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
 World of Warcraft by Jason Hayes & team
 Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
@@ -543,7 +545,7 @@ Devil May Cry 3 by Tetsuya Shibata
 - Spore
 
 ## 2006
-
+- [Hitman: Blood Money](https://en.wikipedia.org/wiki/Hitman:_Blood_Money) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 Okami by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh
 The Elder Scrolls IV: Oblivion by Jeremy Soule
 Gears of War by Kevin Riepl
@@ -751,6 +753,7 @@ League of Legends (early builds) by Riot Games composers
 - [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule), [Maclaine Diemer](https://en.wikipedia.org/wiki/Maclaine_Diemer), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), and Stan LePard
 - [Darksiders II](https://en.wikipedia.org/wiki/Darksiders_II) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Epic Mickey 2: The Power of Two](https://en.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer)) and Mike Himelstein
+- [Hitman: Absolution](https://en.wikipedia.org/wiki/Hitman:_Absolution) by [Peter Peter](https://en.wikipedia.org/wiki/Peter_Peter_(Danish_musician)), Peter Kyed, and Thomas Bartschi
 - [Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer))
 - [XCOM: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
 
@@ -836,7 +839,6 @@ League of Legends (early builds) by Riot Games composers
 
 ## 2016
 
-- DOOM by Mick Gordon
 - Final Fantasy XV by Yoko Shimomura
 - The Last Guardian by Takeshi Furukawa
 - Firewatch by Chris Remo
@@ -856,37 +858,32 @@ League of Legends (early builds) by Riot Games composers
 - Final Fantasy XV
 - Skylanders: Imaginators
 - Stardew Valley
+- [Hitman](https://en.wikipedia.org/wiki/Hitman_(2016_video_game)) by Niels Bye Nielsen
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) by [65daysofstatic](https://en.wikipedia.org/wiki/65daysofstatic) and Earcom / Paul Weir
 - [Persona 5](https://en.wikipedia.org/wiki/Persona_5) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
-- [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
-
+- [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 
 
 ## 2017
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 - [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
-- Cuphead by Kristofer Maddigan
-- Hollow Knight by Christopher Larkin
-- Horizon Zero Dawn by Joris de Man et al.
-- Edith Finch by Jeff Russo
-- Night in the Woods by Alec Holowka
-- Pyre by Darren Korb
-- Xenoblade Chronicles 2 by ACE+, Kenji Hiramatsu
-- The Legend of Zelda: Breath of the Wild
-- Hellblade: Senua's Sacrifice
-- Super Mario Odyssey
-- Cuphead
-- Collection of Mana
-- Uncharted 4: A Theif's End
-- Doom
-- Dragon Quest XI
-- Hitman
-- Ni no Kuni II: Revenant Kingdom
-- The Artful Escape
+- [Cuphead](https://en.wikipedia.org/wiki/Cuphead) by Kristofer Maddigan
+- [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) by [Christopher Larkin](https://en.wikipedia.org/wiki/Christopher_Larkin_(composer))
+- [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band)), Niels van der Leest, and Jonathan Williams
+- [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) by [Jeff Russo](https://en.wikipedia.org/wiki/Jeff_Russo)
+- [Night in the Woods](https://en.wikipedia.org/wiki/Night_in_the_Woods) by Alec Holowka and Scott Benson
+- [Pyre](https://en.wikipedia.org/wiki/Pyre_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
+- [Xenoblade Chronicles 2](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, and Manami Kiyota
+- [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice) by David García and [Andy LaPlegua](https://en.wikipedia.org/wiki/Andy_LaPlegua)
+- [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
+- [Dragon Quest XI](https://en.wikipedia.org/wiki/Dragon_Quest_XI) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+
 
 
 ## 2018
 
+- [Ni no Kuni II: Revenant Kingdom](https://en.wikipedia.org/wiki/Ni_no_Kuni_II:_Revenant_Kingdom) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi)
 - [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) by [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine)
 - [Octopath Traveler](https://en.wikipedia.org/wiki/Octopath_Traveler) by [Yasunori Nishiki](https://en.wikipedia.org/wiki/Yasunori_Nishiki)
 - [Gris](https://en.wikipedia.org/wiki/Gris) by Berlinist
@@ -898,6 +895,7 @@ League of Legends (early builds) by Riot Games composers
 - [Red Dead Redemtion 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) by [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson)
 - [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect) by Noboru Mutoh
+- [Hitman 2](https://en.wikipedia.org/wiki/Hitman_2_(2018_video_game)) by Niels Bye Nielsen
 
 ## 2019
 
@@ -918,6 +916,7 @@ League of Legends (early builds) by Riot Games composers
 - [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) by [British Sea Power](https://en.wikipedia.org/wiki/Sea_Power)
 - [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) by Yuka Kitamura
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) by Ludvig Forssell
+- [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2) by Chris Christodoulou
 
 ## 2020
 
@@ -956,10 +955,10 @@ League of Legends (early builds) by Riot Games composers
 - ([Balan Wonderworld](https://en.wikipedia.org/wiki/Balan_Wonderworld)) by Ryo Yamazaki and Hironori Anazawa
 - [Sable](https://en.wikipedia.org/wiki/Sable_(video_game)) by [Japanese Breakfast](https://en.wikipedia.org/wiki/Japanese_Breakfast)
 - [Psychonauts 2](https://en.wikipedia.org/wiki/Psychonauts_2) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
+- [Monster Hunter Rise](https://en.wikipedia.org/wiki/Monster_Hunter_Rise) by Satoshi Hori
 
 ## 2022
 
-https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks-of-2022-according-to-composers/
 - [God of War Ragnarök](https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
 - [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) by Tsukasa Saitoh, Shoi Miyazawa, Tai Tomisawa, Yuka Kitamura, Yoshimi Kudo, and Soma Tanizaki
 - [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), Niels van der Leest, Oleksa Lozowchuk, and [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band))
@@ -974,7 +973,17 @@ https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks
 - ([Vampire Survivors](https://en.wikipedia.org/wiki/Vampire_Survivors) and Daniele Zandara, Filippo Vicarelli, William Davies, and Lorenzo Floro)
 - [Kirby and the Forgotten Land](https://en.wikipedia.org/wiki/Kirby_and_the_Forgotten_Land) and Yuuta Ogasawara, [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Yuki Shimooka
 - [Echoes of Mana](https://en.wikipedia.org/wiki/Echoes_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Ryo Yamazaki
-
+- [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Shiho Fujii, Ryo Nagamatsu, Toshiyuki Sudo, Yumi Takahashi, and Sayako Doi
+- [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, Manami Kiyota, Mariam Abounnasr, Yutaka Kunigo
+- [Metal: Hellsinger](https://en.wikipedia.org/wiki/Metal:_Hellsinger) by Two Feathers
+- [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island) by [Michael Land](https://en.wikipedia.org/wiki/Michael_Land), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), and [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian)
+- [Sonic Frontiers](https://en.wikipedia.org/wiki/Sonic_Frontiers) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Kenichi Tokoi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), Rintaro Soma, Kenji Mizuno, Kanon Oguni, and [Hiroshi Kawaguchi](https://en.wikipedia.org/wiki/Hiroshi_Kawaguchi_(composer))
+- [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes)
+- [Bayonetta 3](https://en.wikipedia.org/wiki/Bayonetta_3) by Naofumi Harada
+- [Trek to Yomi](https://en.wikipedia.org/wiki/Trek_to_Yomi) by Cody Matthew Johnson and Yoko Honda
+- [Signalis](https://en.wikipedia.org/wiki/Signalis) by 1000 Eyes and Cicada Sirens
+- [Shadow Warrior 3](https://en.wikipedia.org/wiki/Shadow_Warrior_3) by Maciej Kulesza
+- [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb) by River Boy
 
 ## 2023
 
@@ -993,6 +1002,7 @@ https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks
 - [Tchia](https://en.wikipedia.org/wiki/Tchia) by John Robert Matz
 - [Planet of Lana](https://en.wikipedia.org/wiki/Planet_of_Lana) by [Takeshi Furukawa](https://en.wikipedia.org/wiki/Takeshi_Furukawa)
 - [Star Wars Jedi: Survivor](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
+- [Hitman 3](https://en.wikipedia.org/wiki/Hitman_3) by Niels Bye Nielsen
 - [Disney Illusion Island](https://en.wikipedia.org/wiki/Disney_Illusion_Island) by David Housden
 - [Assassins Creed Mirage](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage) by [Brendan Angelides](https://en.wikipedia.org/wiki/Brendan_Angelides)
 - [Humanity](https://en.wikipedia.org/wiki/Humanity_(video_game)) by Jemapur
@@ -1010,7 +1020,6 @@ https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks
 - [Armored Core VI: Fires of Rubicon](https://en.wikipedia.org/wiki/Armored_Core_VI:_Fires_of_Rubicon) by [Kota Hoshino](https://en.wikipedia.org/wiki/Kota_Hoshino) and Shoi Miyazawa
 - [Cyberpunk 2077: Phantom Liberty](https://en.wikipedia.org/wiki/Cyberpunk_2077:_Phantom_Liberty) by P.T. Adamczyk and Jacek Paciorkowski
 - [Super Mario Bros. Wonder](https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo), Shiho Fujii, Sayako Doi, and Chisaki Shimazu
-
 
 ## 2024
 - [Final Fantasy VII Rebirth](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth) by Mitsuto Suzuki, [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
@@ -1042,7 +1051,7 @@ https://www.videogameschronicle.com/features/these-are-the-best-game-soundtracks
 - [Penny’s Big Breakaway](https://en.wikipedia.org/wiki/Penny%27s_Big_Breakaway) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes) and Sean Bialo
 - Voidwrought by Jouni Valjakka
 - [Hauntii]()
-- [Splatoon 3]
+
 - [Marvel Rivals]()
 - [Arctic Eggs]()
 - [Surmount]()
