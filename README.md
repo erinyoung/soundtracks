@@ -427,6 +427,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Metroid Prime (GameCube) by Kenji Yamamoto
 - Kingdom Hearts (PS2) by Yoko Shimomura
 - Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
+- [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer))
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - Metroid Prime by Kenji Yamamoto
@@ -495,7 +496,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Katamari Damacy
 - Doom 3
 - Dragon Quest VIII
-- The Sims 2
+- [The Sims 2](https://en.wikipedia.org/wiki/The_Sims_2) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer)) and [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh)
 - [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
 - City of Heroes
 - Fable
@@ -641,6 +642,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - League of Legends (early builds) by Riot Games composers
 - Uncharted 2: Among Thieves
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta_(video_game)) by [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino), [Takahiro Izutani](https://en.wikipedia.org/wiki/Takahiro_Izutani), Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki, and Naoto Tanaka
+- [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - Dragon Quest IX
 - [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)- Kingdom Hearts 358/2 Days
@@ -680,6 +682,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
 - [Ni no Kuni: Wrath of the White Witch](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi)
+- [The Sims Medieval](https://en.wikipedia.org/wiki/The_Sims_Medieval) by [John Debney](https://en.wikipedia.org/wiki/John_Debney)
 - Bastion by Darren Korb
 - The Elder Scrolls V: Skyrim by Jeremy Soule
 - Portal 2 by Mike Morasky
@@ -886,6 +889,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) by Chad York and Darren Radtke 
 - [Ape Out](https://en.wikipedia.org/wiki/Ape_Out) by Maxi Boch
 - [Kingdom Hearts III](https://en.wikipedia.org/wiki/Kingdom_Hearts_III) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto), and [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
+- [The Sims 4](https://en.wikipedia.org/wiki/The_Sims_4) by [Ilan Eshkeri](https://en.wikipedia.org/wiki/Ilan_Eshkeri)
 - [Oninaki](https://en.wikipedia.org/wiki/Oninaki) by Shunsuke Tsuchiya and Mariam Abounnasr
 - [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) by [British Sea Power](https://en.wikipedia.org/wiki/Sea_Power)
 - [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) by Yuka Kitamura
