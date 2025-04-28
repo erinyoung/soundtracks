@@ -815,7 +815,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 - Undertale by Toby Fox
 - The Witcher 3 by Przyby≈Çowicz, Stroinski
-- Ori and the Blind Forest by Gareth Coker
+- [Ori and the Blind Forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - Bloodborne by Saitoh, Kitamura, Suzuki, Amon
 - MGSV: TPP by Forssell, Burnett, James
 - Hotline Miami 2 by Various Artists
@@ -865,6 +865,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 ## 2017
 
+- [Ark: Survival Evolved](https://en.wikipedia.org/wiki/Ark:_Survival_Evolved) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 - [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
 - [Cuphead](https://en.wikipedia.org/wiki/Cuphead) by Kristofer Maddigan
@@ -973,6 +974,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Echoes of Mana](https://en.wikipedia.org/wiki/Echoes_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Ryo Yamazaki
 - [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Shiho Fujii, Ryo Nagamatsu, Toshiyuki Sudo, Yumi Takahashi, and Sayako Doi
 - [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, Manami Kiyota, Mariam Abounnasr, Yutaka Kunigo
+- [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), and [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
 - [Metal: Hellsinger](https://en.wikipedia.org/wiki/Metal:_Hellsinger) by Two Feathers
 - [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island) by [Michael Land](https://en.wikipedia.org/wiki/Michael_Land), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), and [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian)
 - [Sonic Frontiers](https://en.wikipedia.org/wiki/Sonic_Frontiers) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Kenichi Tokoi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), Rintaro Soma, Kenji Mizuno, Kanon Oguni, and [Hiroshi Kawaguchi](https://en.wikipedia.org/wiki/Hiroshi_Kawaguchi_(composer))
@@ -1033,7 +1035,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Nordic Ashes: Survivors of Ragnarok by Rubén Melià
 - [Persona 3 Reload]() by Shoji Meguro
 - [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
-- [Prince of Persia: The Lost Crown]() by Mentrix, Gareth Coker
+- [Prince of Persia: The Lost Crown](https://en.wikipedia.org/wiki/Prince_of_Persia%3A_The_Lost_Crown) by [Mentrix](https://en.wikipedia.org/wiki/Mentrix) and [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - [Visions of Mana]() by 
 - [The Legend of Zelda: Echoes of Wisdom]()
 - [8-bit Adventures 2]()
