@@ -403,7 +403,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Luigi's Mansion by Kazumi Totaka
 - Grand Theft Auto III by Craig Conner & Stuart Ross
 - Advance Wars by Taishi Senda
-- Ico by Michiru Oshima & Pentagon
+- [Ico](https://en.wikipedia.org/wiki/Ico) by [Michiru Oshima](https://en.wikipedia.org/wiki/Michiru_%C5%8Cshima) and Pentagon
 - Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
 - Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
 - Ico (PS2) by Michiru Oshima & Pentagon
@@ -523,7 +523,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2005
 
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
-- Shadow of the Colossus by Kow Otani
+- [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
 - God of War by Gerard Marino, Ron Fish
 - Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
 - Psychonauts by Peter McConnell
@@ -816,6 +816,8 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Undertale by Toby Fox
 - The Witcher 3 by Przyby≈Çowicz, Stroinski
 - [Ori and the Blind Forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
+- [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) by [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz) and [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski)
+
 - Bloodborne by Saitoh, Kitamura, Suzuki, Amon
 - MGSV: TPP by Forssell, Burnett, James
 - Hotline Miami 2 by Various Artists
@@ -839,25 +841,20 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 ## 2016
 
-- Final Fantasy XV by Yoko Shimomura
-- The Last Guardian by Takeshi Furukawa
-- Firewatch by Chris Remo
-- Hyper Light Drifter by Disasterpeace
-- Inside by Martin Stig Andersen
-- Abz√ª by Austin Wintory
-- Titanfall 2 by Stephen Barton
-- Thumper by Brian Gibson
-- Oxenfree by scntfc
-- Overwatch
-- Inside
-- The Last Guardian
-- Uncharted 4: A Thief's End
-- The Witcher 3
-- Adventures of Mana
-- Ori and the Blind Forest
-- Final Fantasy XV
-- Skylanders: Imaginators
-- Stardew Valley
+- [Final Fantasy XV](https://en.wikipedia.org/wiki/Final_Fantasy_XV) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [The Last Guardian](https://en.wikipedia.org/wiki/The_Last_Guardian) by [Takeshi Furukawa](https://en.wikipedia.org/wiki/Takeshi_Furukawa)
+- [Firewatch](https://en.wikipedia.org/wiki/Firewatch) by Chris Remo
+- [Hyper Light Drifter](https://en.wikipedia.org/wiki/Hyper_Light_Drifter) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace) and Akash Thakkar
+- [Inside](https://en.wikipedia.org/wiki/Inside_(video_game)) by [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen) and Søs Gunver Ryberg
+- [Abzû](https://en.wikipedia.org/wiki/Abz%C3%BB) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
+- [Titanfall 2](https://en.wikipedia.org/wiki/Titanfall_2) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton)
+- [Thumper](https://en.wikipedia.org/wiki/Thumper_(video_game)) by Brian Gibson
+- [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
+- [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
+- [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
+- [Adventures of Mana](https://en.wikipedia.org/wiki/Adventures_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
+- [Skylanders: Imaginators](https://en.wikipedia.org/wiki/Skylanders:_Imaginators) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
+- [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) by [Eric Barone](https://en.wikipedia.org/wiki/Eric_Barone)
 - [Hitman](https://en.wikipedia.org/wiki/Hitman_(2016_video_game)) by Niels Bye Nielsen
 - [No Man's Sky](https://en.wikipedia.org/wiki/No_Man%27s_Sky) by [65daysofstatic](https://en.wikipedia.org/wiki/65daysofstatic) and Earcom / Paul Weir
 - [Persona 5](https://en.wikipedia.org/wiki/Persona_5) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
