@@ -668,6 +668,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Halo: Reach](https://en.wikipedia.org/wiki/Halo:_Reach) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) by [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Glenn Stafford, and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Kirby's Epic Yarn](https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn) by Tomoya Tomita, Akihiro Juichiya, Soshiro Hokka, Tadashi Ikegami, [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Hirokazu Ando
+- [Ni no Kuni: Dominion of the Dark Djinn](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Dominion_of_the_Dark_Djinn) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi) and Rei Kondoh
 - [Civilization V](https://en.wikipedia.org/wiki/Civilization_V) by Michael Curran and [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr)
 - [Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Mass Effect 2](https://en.wikipedia.org/wiki/Mass_Effect_2) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer)), [Jimmy Hinson](https://en.wikipedia.org/wiki/Big_Giant_Circles), Sam Hulick, and David Kates
@@ -678,6 +679,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2011
 
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
+- [Ni no Kuni: Wrath of the White Witch](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi)
 - Bastion by Darren Korb
 - The Elder Scrolls V: Skyrim by Jeremy Soule
 - Portal 2 by Mike Morasky
@@ -734,43 +736,35 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Diablo III](https://en.wikipedia.org/wiki/Diablo_III) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Edo Guidotti, [Laurence Juber](https://en.wikipedia.org/wiki/Laurence_Juber), Joseph Lawrence, and Glenn Stafford
 - [Guild Wars 2](https://en.wikipedia.org/wiki/Guild_Wars_2) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule), [Maclaine Diemer](https://en.wikipedia.org/wiki/Maclaine_Diemer), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), and Stan LePard
 - [Darksiders II](https://en.wikipedia.org/wiki/Darksiders_II) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [Animal Crossing: New Leaf](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Leaf) by Manaka Kataoka, Atsuko Asahi, and [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Epic Mickey 2: The Power of Two](https://en.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer)) and Mike Himelstein
 - [Hitman: Absolution](https://en.wikipedia.org/wiki/Hitman:_Absolution) by [Peter Peter](https://en.wikipedia.org/wiki/Peter_Peter_(Danish_musician)), Peter Kyed, and Thomas Bartschi
 - [Call of Duty: Black Ops II](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer))
 - [XCOM: Enemy Unknown](https://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
+- [Fire Emblem Awakening](https://en.wikipedia.org/wiki/Fire_Emblem_Awakening) by Hiroki Morishita and Rei Kondoh
 
 ## 2013
 
 - [Drakengard 3](https://en.wikipedia.org/wiki/Drakengard_3) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, Sho Ishihama, and Kuniyuki Takahashi
 - [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken) and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-- The Last of Us by Gustavo Santaolalla
-- BioShock Infinite by Garry Schyman
-- Ni no Kuni by Joe Hisaishi
-- AC IV: Black Flag by Brian Tyler
-- Tearaway by Kenneth Young, Brian D‚ÄôOliveira
-- Fire Emblem Awakening by Morishita, Kondoh
-- Rayman Legends by H√©ral, Martin
-- GTA V by Various Artists
-- MGS: Revengeance by Jamie Christopherson
-- Puppeteer by Patrick Doyle![image](https://github.com/user-attachments/assets/443cf535-93a8-49ca-8403-e5de8eb3999b)
+- [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us) by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)
+- [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) by [Garry Schyman](https://en.wikipedia.org/wiki/Garry_Schyman)
+- [Assassin's Creed IV: Black Flag](https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag) by [Brian Tyler](https://en.wikipedia.org/wiki/Brian_Tyler)
+- [Tearaway](https://en.wikipedia.org/wiki/Tearaway_(video_game)) by [Kenneth C M Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)) and Brian D'Oliveira
+- [Rayman Legends](https://en.wikipedia.org/wiki/Rayman_Legends) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral) and Billy Martin
+- [Grand Theft Auto V](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V) by [Tangerine Dream](https://en.wikipedia.org/wiki/Tangerine_Dream), [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson), [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(musician)), and [Oh No](https://en.wikipedia.org/wiki/Oh_No_(musician))
+- [Metal Gear Rising: Revengeance](https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance) by [Jamie Christopherson](https://en.wikipedia.org/wiki/Jamie_Christopherson)
+- [Puppeteer](https://en.wikipedia.org/wiki/Puppeteer_(video_game)) by [Patrick Doyle](https://en.wikipedia.org/wiki/Patrick_Doyle)
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
-- The Last of Us
-- BioShock: Infinite
-- Journey
-- Circle of Mana
-- Lightning Returns: Final Fantasy XIII
-- Assassin's Creed IV: Black Flag
-- Ni no Kuni: Wrath of the White Witch
-- Super Mario 3d World
-- The Legend of Zelda: A Link Between Worlds
-- Animal Crossing: New Leaf
-- Titanfall
-- The Elder Scrolls Online
-- Fantasia: Music Evolved
-- Guacamelee
+- [Lightning Returns: Final Fantasy XIII](https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), Mitsuto Suzuki, and [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [Super Mario 3d World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [The Legend of Zelda: A Link Between Worlds](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds) by Ryo Nagamatsu
 
 ## 2014
 
+- [Titanfall](https://en.wikipedia.org/wiki/Titanfall_(video_game)) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton)
+- [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online) by Brad Derrick
+- [Fantasia: Music Evolved](https://en.wikipedia.org/wiki/Fantasia:_Music_Evolved) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - Transistor by Darren Korb
 - Child of Light by C≈ìur de Pirate
 - Shovel Knight by Jake Kaufman
@@ -780,7 +774,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Destiny by O‚ÄôDonnell, Salvatori, McCartney
 - Smash Bros Wii U by Various Artists
 - The Banner Saga by Austin Wintory
-- Alien: Isolation by Henson, Smith![image](https://github.com/user-attachments/assets/6b7a6468-3c29-4532-8390-eac44aa21e93)
+- Alien: Isolation by Henson, Smith
 - Middle-earth: Shadow of Mordor
 - Alien: Isolation
 - Papers, Please
