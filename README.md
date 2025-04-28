@@ -357,40 +357,24 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Vampire: The Masquerade – Redemption](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption) by [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei) and Youth Engine
 - [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy) by Masaya Matsuura, Yoshihisa Suzuki, and Shigeyoshi Kawagoe
+- [Samba de Amigo](https://en.wikipedia.org/wiki/Samba_de_Amigo) by Masaru Setsumaru
 
 ## 2000
 
 - [Hitman: Codename 47](https://en.wikipedia.org/wiki/Hitman:_Codename_47) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-- Chrono Cross by Yasunori Mitsuda
-- The Legend of Zelda: Majora’s Mask by Koji Kondo
-- Diablo II by Matt Uelmen
-- Chrono Cross by Yasunori Mitsuda
-- The Legend of Zelda: Majora’s Mask by Koji Kondo
-- Jet Set Radio by Hideki Naganuma
-- Deus Ex by Alexander Brandon
-- Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-- Tony Hawk’s Pro Skater 2 by Various Artists
-- The Sims by Jerry Martin
-- Perfect Dark by Grant Kirkhope
-- Phantasy Star Online by Hideaki Kobayashi
-- Vagrant Story by Hitoshi Sakimoto
-- Chrono Cross by Yasunori Mitsuda
-- The Legend of Zelda: Majora’s Mask by Koji Kondo
-- Jet Set Radio by Hideki Naganuma
-- Deus Ex by Alexander Brandon
-- Final Fantasy IX by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-- Tony Hawk’s Pro Skater 2 by Various Artists
-- The Sims by Jerry Martin
-- Perfect Dark by Grant Kirkhope
-- Phantasy Star Online by Hideaki Kobayashi
-- Vagrant Story by Hitoshi Sakimoto
-- Diable II
-- Final Fantasy IX
-- The Sims
-- Jet Set Radio
-- Dragon Quest VII
-- Escape from Monkey Island
-- Samba de Amigo
+- [The Legend of Zelda: Majora's Mask ](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Diablo II](https://en.wikipedia.org/wiki/Diablo_II) by [Matt Uelmen](https://en.wikipedia.org/wiki/Matt_Uelmen)
+- [Jet Set Radio](https://en.wikipedia.org/wiki/Jet_Set_Radio) by [Hideki Naganuma](https://en.wikipedia.org/wiki/Hideki_Naganuma), [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques), and Tomonori Sawada (Toronto)
+- [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) by [Alexander Brandon](https://en.wikipedia.org/wiki/Alexander_Brandon), [Dan Gardopée](https://en.wikipedia.org/wiki/Dan_Gardop%C3%A9e)
+[Michiel van den Bos](https://en.wikipedia.org/wiki/Michiel_van_den_Bos), and [Reeves Gabrels](https://en.wikipedia.org/wiki/Reeves_Gabrels)
+- [Final Fantasy IX](https://en.wikipedia.org/wiki/Final_Fantasy_IX) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Tony Hawk's Pro Skater 2](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2) by Brian Bright
+- [The Sims](https://en.wikipedia.org/wiki/The_Sims_(video_game)) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer)) and [Marc Russo](https://en.wikipedia.org/wiki/Yellowjackets_(band))
+- [Perfect Dark](https://en.wikipedia.org/wiki/Perfect_Dark) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), and David Clynick
+- [Phantasy Star Online](https://en.wikipedia.org/wiki/Phantasy_Star_Online) by Hideaki Kobayashi and Fumie Kumatani
+- [Vagrant Story](https://en.wikipedia.org/wiki/Vagrant_Story) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
+- [Dragon Quest VII](https://en.wikipedia.org/wiki/Dragon_Quest_VII) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- [Escape from Monkey Island](https://en.wikipedia.org/wiki/Escape_from_Monkey_Island) by [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian), [Michael Land](https://en.wikipedia.org/wiki/Michael_Land), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), Anna Karney, and Michael Lande
 
 ## 2001
 
