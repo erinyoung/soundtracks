@@ -378,42 +378,24 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 ## 2001
 
-- Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-- Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
-- Silent Hill 2 by Akira Yamaoka
-- Metal Gear Solid 2: Sons of Liberty by Harry Gregson-Williams, Norihiko Hibino
-- Super Smash Bros. Melee by Various Composers
-- Animal Crossing by Kazumi Totaka
-- Luigi's Mansion by Kazumi Totaka
-- Grand Theft Auto III by Craig Conner & Stuart Ross
-- Advance Wars by Taishi Senda
+- [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano)
+- [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
+- [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
+- [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
+- [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), Shogo Sakai, Tadashi Ikegami, and Takuto Kitsuta
+- [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Kenta Nagata, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and Shinobu Tanaka
+- [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka) and Shinobu Tanaka
+- [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) by Craig Conner and Stuart Ross
+- [Advance Wars](https://en.wikipedia.org/wiki/Advance_Wars) by Taishi Senda
 - [Ico](https://en.wikipedia.org/wiki/Ico) by [Michiru Oshima](https://en.wikipedia.org/wiki/Michiru_%C5%8Cshima) and Pentagon
-- Halo: Combat Evolved (Xbox) by Martin O'Donnell & Michael Salvatori
-- Final Fantasy X (PS2) by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-- Ico (PS2) by Michiru Oshima & Pentagon
-- Silent Hill 2 (PS2) by Akira Yamaoka
-- Final Fantasy X by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Masashi Hamauzu, Junya Nakano
-- Halo: Combat Evolved by Martin O'Donnell & Michael Salvatori
-- Silent Hill 2 by Akira Yamaoka
-- Metal Gear Solid 2 by Harry Gregson-Williams, Norihiko Hibino
-- Super Smash Bros. Melee by Various Composers
-- Animal Crossing by Kazumi Totaka
-- Luigi's Mansion by Kazumi Totaka
-- Grand Theft Auto III by Craig Conner & Stuart Ross
-- Advance Wars by Taishi Senda
-- Ico by Michiru Oshima & Pentagon
-- Halo: Combat Evolved
-- Tropico
-- Final Fantasy X
-- Myst III: Exile
-- Grand Theft Auto III
-- Phoenix Write: Ace Attorney
-- Silent Hill 2
-- Age of Mythology
-- Pikmin
+- [Tropico](https://en.wikipedia.org/wiki/Tropico_(video_game)) by Daniel Indar
+- [Myst III: Exile](https://en.wikipedia.org/wiki/Myst_III:_Exile) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer)) 
+- [Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney) by Masakazu Sugimori and Naoto Tanaka
+- [Pikmin](https://en.wikipedia.org/wiki/Pikmin_(video_game)) by Hajime Wakai
 
 ## 2002
 
+- [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - The Legend of Zelda: The Wind Waker by Koji Kondo, Kenta Nagata, Hajime Wakai, Toru Minegishi
 - Metroid Prime by Kenji Yamamoto
 - Kingdom Hearts by Yoko Shimomura
@@ -469,6 +451,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Sword of Mana](https://en.wikipedia.org/wiki/Sword_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
 - [Final Fantasy X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X-2) by [Noriko Matsueda](https://en.wikipedia.org/wiki/Noriko_Matsueda) and [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi)
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies) by Anna Karney
+- [Tropico 2: Pirate Cove](https://en.wikipedia.org/wiki/Tropico_2:_Pirate_Cove) by Daniel Indart
 - [Star Wars Jedi Knight: Jedi Academy](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy) by Clint Bajakian
 
 ## 2004
@@ -496,6 +479,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Katamari Damacy
 - Doom 3
 - Dragon Quest VIII
+- [Pikmin 2](https://en.wikipedia.org/wiki/Pikmin_2) by Hajime Wakai and [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [The Sims 2](https://en.wikipedia.org/wiki/The_Sims_2) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer)) and [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh)
 - [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
 - City of Heroes
@@ -641,6 +625,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Flower by Vincent Diamante
 - League of Legends (early builds) by Riot Games composers
 - Uncharted 2: Among Thieves
+- [Tropico 3](https://en.wikipedia.org/wiki/Tropico_3)
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta_(video_game)) by [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino), [Takahiro Izutani](https://en.wikipedia.org/wiki/Takahiro_Izutani), Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki, and Naoto Tanaka
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
@@ -683,6 +668,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Star Wars: The Old Republic](https://en.wikipedia.org/wiki/Star_Wars:_The_Old_Republic) by [Mark Griskey](https://en.wikipedia.org/wiki/Mark_Griskey) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
 - [Ni no Kuni: Wrath of the White Witch](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi)
 - [The Sims Medieval](https://en.wikipedia.org/wiki/The_Sims_Medieval) by [John Debney](https://en.wikipedia.org/wiki/John_Debney)
+- [Tropico 4](https://en.wikipedia.org/wiki/Tropico_4)
 - Bastion by Darren Korb
 - The Elder Scrolls V: Skyrim by Jeremy Soule
 - Portal 2 by Mike Morasky
@@ -761,6 +747,8 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Lightning Returns: Final Fantasy XIII](https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), Mitsuto Suzuki, and [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Super Mario 3d World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Luigi's Mansion: Dark Moon](https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon) by Chad York, Darren Radtke, and Mike Peacock
+- [Pikmin 3](https://en.wikipedia.org/wiki/Pikmin_3) by Asuka Hayazaki, Atsuko Asahi, Hajime Wakai, Soshi Abe, and Babi
 - [The Legend of Zelda: A Link Between Worlds](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds) by Ryo Nagamatsu
 
 ## 2014
@@ -768,6 +756,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Titanfall](https://en.wikipedia.org/wiki/Titanfall_(video_game)) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton)
 - [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online) by Brad Derrick
 - [Fantasia: Music Evolved](https://en.wikipedia.org/wiki/Fantasia:_Music_Evolved) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Tropico 5](https://en.wikipedia.org/wiki/Tropico_5)
 - Transistor by Darren Korb
 - Child of Light by C≈ìur de Pirate
 - Shovel Knight by Jake Kaufman
@@ -887,6 +876,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) by [British Sea Power](https://en.wikipedia.org/wiki/Sea_Power)
 - [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) by Yuka Kitamura
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) by Ludvig Forssell
+- [Tropico 6](https://en.wikipedia.org/wiki/Tropico_6) by [Dynamedion](https://en.wikipedia.org/wiki/Dynamedion)
 - [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2) by Chris Christodoulou
 
 ## 2020
@@ -965,6 +955,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Octopath Traveler II](https://en.wikipedia.org/wiki/Octopath_Traveler_II) by [Yasunori Nishiki](https://en.wikipedia.org/wiki/Yasunori_Nishiki)
 - Astral Ascent by Dale North
 - The Ranch of Rivershine by Matthew Harnage
+- [Pikmin 4](https://en.wikipedia.org/wiki/Pikmin_4) by Kenta Nagata, Asuka Hayazaki, and Soshi Abe
 - [The Legend of Zelda: Tears of the Kingdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) by Manaka Kataoka, Maasa Miyoshi, Masato Ohashi, Tsukasa Usui, and Hajime Wakaiy
 - [Bomb Rush Cyberfunk](https://en.wikipedia.org/wiki/Bomb_Rush_Cyberfunk) by [Hideki Naganuma](https://en.wikipedia.org/wiki/Hideki_Naganuma) and others
 - [Void Stranger](https://en.wikipedia.org/wiki/Void_Stranger) by Eero Lahtinen
