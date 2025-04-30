@@ -788,37 +788,29 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Far Cry 4
 - The Last of Us
 - Dragon Age: Inquisition
+- [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition) by [Trevor Morris](https://en.wikipedia.org/wiki/Trevor_Morris_(musician)), [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur), and Ted Reedy
+- [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
+- [Wolfenstein: The New Order](https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
+- [Mario Kart 8](https://en.wikipedia.org/wiki/Mario_Kart_8) by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata, and Kenta Nagata
+- [Shovel Knight](https://en.wikipedia.org/wiki/Shovel_Knight) by [Jake Kaufman](https://en.wikipedia.org/wiki/Jake_Kaufman) and [Manami Matsumae](https://en.wikipedia.org/wiki/Manami_Matsumae)
 - Transistor
 - Evolve
 - No Man's Sky
 
 ## 2015
 
-- Undertale by Toby Fox
-- The Witcher 3 by Przyby≈Çowicz, Stroinski
+- [Undertale](https://en.wikipedia.org/wiki/Undertale) by Toby Fox
+- [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) by [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz) and [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski)
 - [Ori and the Blind Forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) by [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz) and [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski)
-
-- Bloodborne by Saitoh, Kitamura, Suzuki, Amon
-- MGSV: TPP by Forssell, Burnett, James
-- Hotline Miami 2 by Various Artists
-- Life is Strange by Jonathan Morali
-- Splatoon by Minegishi, Fujii, Nagamatsu
-- Everybody‚Äôs Gone to the Rapture by Jessica Curry
-- Fallout 4 by Inon Zur
-- The Witcher 3: Wild Hunt
-- Crypt of the NecroDancer
-- Ori and the Blind Forest
-- Fallout 4
-- Batman: Arkham Knight
-- Bloodborne
-- Everybody's Gone to the Rapture
-- Dragon Age: Inquisition
-- Transistor
-- Wolfenstein: The New Order
-- Mario Kart 8
-- Shovel Knight
-- Undertale
+- [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) by Ryan Amon, Tsukasa Saitoh, Yuka Kitamura, Nobuyoshi Suzuki, [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), and [Michael Wandmacher](https://en.wikipedia.org/wiki/Michael_Wandmacher)
+- [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain) by Ludvig Forssell, [Justin Burnett](https://en.wikipedia.org/wiki/Justin_Burnett), and Daniel James
+- [Life is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)) by [Jonathan Morali](https://en.wikipedia.org/wiki/Jonathan_Morali)
+- [Splatoon](https://en.wikipedia.org/wiki/Splatoon_(video_game)) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi) and Shiho Fujii
+- [Everybody's Gone to the Rapture](https://en.wikipedia.org/wiki/Everybody%27s_Gone_to_the_Rapture) by [Jessica Curry](https://en.wikipedia.org/wiki/Jessica_Curry)
+- [Fallout 4](https://en.wikipedia.org/wiki/Fallout_4) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Crypt of the NecroDancer](https://en.wikipedia.org/wiki/Crypt_of_the_NecroDancer) by [Danny Baranowsky](https://en.wikipedia.org/wiki/Danny_Baranowsky)
+- [Batman: Arkham Knight](https://en.wikipedia.org/wiki/Batman:_Arkham_Knight) by Nick Arundel and [David Buckley](https://en.wikipedia.org/wiki/David_Buckley)
 
 ## 2016
 
@@ -857,6 +849,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Dragon Quest XI](https://en.wikipedia.org/wiki/Dragon_Quest_XI) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- [Splatoon 2](https://en.wikipedia.org/wiki/Splatoon_2) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Ryo Nagamatsu, and Shiho Fujii
 
 ## 2018
 
@@ -991,7 +984,6 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Marvel's Spider Man 2](https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
 - [The Lamplighters League](https://en.wikipedia.org/wiki/The_Lamplighters_League) by [Jon Everist](https://en.wikipedia.org/wiki/Jon_Everist)
 - [Alan Wake 2](https://en.wikipedia.org/wiki/Alan_Wake_2) by Petri Alanko
-- [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Shiho Fujii, Ryo Nagamatsu, Toshiyuki Sudo, Yumi Takahashi, and Sayako Doi
 - [El Paso, Elsewhere](https://en.wikipedia.org/wiki/El_Paso,_Elsewhere) by Lake Savage
 - [Hi-Fi Rush](https://en.wikipedia.org/wiki/Hi-Fi_Rush) by Shuichi Kobori, Reo Uratani, and Masatoshi Yanagi
 - [Baldur's Gate 3](https://en.wikipedia.org/wiki/Baldur%27s_Gate_3) by [Borislav Slavov](https://en.wikipedia.org/wiki/Borislav_Slavov)
@@ -1021,7 +1013,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
 - [Elden Ring]()
-- [Pacific Drive]()
+- [Pacific Drive](https://en.wikipedia.org/wiki/Pacific_Drive_(video_game)) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II)
 - [Beastieball]()
 - [Kirby and the Forgotten Land]()
 - [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]
