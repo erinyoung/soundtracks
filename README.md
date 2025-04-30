@@ -17,236 +17,118 @@ TBA :
 [ ] Pikmin
 [ ] Oblivion
 [ ] Firaxis
-[ ] Tropico
 [ ] Dragon Quest
 [ ] Square Enix: Final Fantasy
 [ ] Prince of Persia : https://en.wikipedia.org/wiki/Prince_of_Persia
 
 Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-1–10: Industry Titans
 Call of Duty – A dominant first-person shooter series with over 500 million copies sold.
-
 Grand Theft Auto – Known for its open-world gameplay and cultural satire.
-
-Minecraft – The best-selling game of all time, celebrated for its creative freedom.
-
 Super Mario – Nintendo's flagship platformer with widespread recognition.
-
 Pokémon – A multimedia phenomenon encompassing games, TV shows, and merchandise.
-
 Fortnite – A battle royale game that has become a cultural staple.
-
 The Legend of Zelda – An action-adventure series known for its rich storytelling.
-
 FIFA / EA Sports FC – Popular soccer simulation games with a massive player base.
-
 The Sims – A life simulation series allowing players to create and control people.
-
 Madden NFL – The go-to American football simulation game.​
-Wikipedia
 Vox
-
-11–20: Fan Favorites
 Halo – A sci-fi shooter series that's a cornerstone of Xbox gaming.
-
 Assassin’s Creed – Historical action-adventure games known for their immersive worlds.
-
 Resident Evil – A survival horror series with a strong U.S. following.
-
 Final Fantasy – A Japanese RPG series with significant popularity in the U.S.
-
 God of War – An action-adventure series rooted in mythology.
-
 The Elder Scrolls – Open-world RPGs like Skyrim have captivated U.S. audiences.
-
 Red Dead Redemption – Western-themed action-adventure games with critical acclaim.
-
 League of Legends – A competitive MOBA with a substantial U.S. player base.
-
 Apex Legends – A battle royale shooter that has gained rapid popularity.
-
 Overwatch – A team-based shooter known for its diverse characters.​
-
-21–30: Cult Classics & Competitive Staples
 Counter-Strike – A tactical shooter with a dedicated competitive scene.
-
 World of Warcraft – An MMORPG that has shaped online gaming culture.
-
 Destiny – A sci-fi shooter with MMO elements.
-
 Super Smash Bros. – A crossover fighting game series with a strong U.S. fanbase.
-
 NBA 2K – A basketball simulation game popular among sports fans.
-
 Cyberpunk 2077 – An open-world RPG that has garnered attention in the U.S.
-
 Monster Hunter – An action RPG series with a growing U.S. audience.
-
 Hogwarts Legacy – An action RPG set in the Harry Potter universe.
-
 Baldur’s Gate – A classic RPG series recently revitalized with a successful new entry.
-
 Diablo – An action RPG series known for its loot-driven gameplay.​
 Wikipedia
-
-31–40: Rising Stars & Niche Hits
 Animal Crossing – A life simulation game that gained massive popularity.
-
 Persona – A Japanese RPG series with a dedicated U.S. fanbase.
-
 Metroid – A sci-fi action-adventure series with a cult following.
-
 Street Fighter – A classic fighting game series with competitive appeal.
-
 Elden Ring / Dark Souls – Challenging action RPGs with critical acclaim.
-
 Fallout – A post-apocalyptic RPG series with a strong narrative focus.
-
 Dragon Age – A fantasy RPG series known for its storytelling.
-
 Kirby – A platformer series featuring a lovable pink protagonist.
-
 Borderlands – A loot-shooter series with a distinctive art style.
-
 Tetris – A timeless puzzle game with enduring popularity.​
-
-41–50: Genre Leaders & Cult Favorites
 Just Dance – A rhythm game series that's a party favorite.
-
 Sonic the Hedgehog – A fast-paced platformer series with nostalgic appeal.
-
 Dragon Ball – Fighting games based on the popular anime series.
-
 Kingdom Hearts – An action RPG series combining Disney and Final Fantasy elements.
-
 Gears of War – A third-person shooter series with a strong U.S. following.
-
-Pikmin – A real-time strategy series with a unique charm.
-
-Splatoon – A colorful team-based shooter that's gaining traction.
-
 Dota 2 – A competitive MOBA with a dedicated player base.
-
 Star Wars: Battlefront – Shooter games set in the Star Wars universe.
-
 The Witcher – An action RPG series that has found success in the U.S.
 Shooter & Action
 Call of Duty (Activision)
-
 Halo (Xbox Game Studios)
-
 Doom (id Software / Bethesda)
-
 Destiny (Bungie)
-
 Battlefield (EA DICE – U.S. published)
-
 Gears of War (The Coalition / Xbox Game Studios)
-
 Overwatch (Blizzard)
-
 Borderlands (Gearbox)
-
 Wolfenstein (MachineGames / Bethesda)
-
 The Division (Ubisoft – U.S. dev team involvement)
-
-RPG & Adventure
 The Elder Scrolls (Bethesda)
-
 Fallout (Bethesda / Obsidian involvement)
-
 Mass Effect (BioWare / EA)
-
 Dragon Age (BioWare / EA)
-
 The Witcher (CD Projekt Red – not U.S., but very popular in U.S.)
-
 Cyberpunk 2077 (same deal as above)
-
 Baldur’s Gate (Larian – Belgian devs, but huge U.S. impact)
-
 Starfield (Bethesda)
-
 Open World / Sandbox
 Grand Theft Auto (GTA) (Rockstar)
-
 Red Dead Redemption (Rockstar)
-
 Saints Row (Volition)
-
 Watch Dogs (Ubisoft – Montreal, but big in U.S.)
-
-Minecraft (Mojang, but massive U.S. fanbase; owned by Microsoft)
-
-Horror & Thriller
 Resident Evil (Capcom – Japanese dev, but iconic in U.S.)
-
 Dead Space (Motive Studio / EA)
-
 The Last of Us (Naughty Dog)
-
 Silent Hill (Konami – again, Japan dev but big U.S. love)
-
 Alan Wake (Remedy / Epic Games involvement)
-
-Platformer & Family-Friendly
 Sonic the Hedgehog (SEGA – Japan dev, strong U.S. legacy)
-
 Crash Bandicoot (Naughty Dog / Activision)
-
 Spyro the Dragon (Insomniac / Activision)
-
 LEGO Games (TT Games / Warner Bros.)
-
-Fighting & Sports
 Mortal Kombat (NetherRealm)
-
 WWE 2K (2K / Visual Concepts)
-
 NBA 2K (2K Sports)
-
 Madden NFL (EA Sports)
-
 FIFA / EA FC (EA Sports – international devs, U.S. player base)
-
 UFC (EA Sports)
 xenoblade
 Skate (EA)
-
-Racing & Simulation
 Forza (Playground Games / Turn 10 – Xbox Studios)
-
 Gran Turismo (Polyphony – Japanese dev, strong in U.S.)
-
 Need for Speed (EA)
-
-Strategy & Management
 Civilization (Firaxis)
-
 XCOM (Firaxis)
-
 SimCity (Maxis)
-
 The Sims (Maxis / EA)
-
-MMO & Online-Centric
 World of Warcraft (Blizzard)
-
 Elder Scrolls Online (Zenimax Online)
-
 Star Wars: The Old Republic (BioWare)
-
 Fortnite (Epic Games)
 ## OTHER GAMES:
 https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
 https://composercode.com/video-game-composers/
-
 Tetris Attack, Lufia II, Panzer Dragoon Saga, Jet Set Radio (technically 2000 JP)
-
 Kirby’s Super Star by absolute banger of a medley-style soundtrack
-
 Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 
@@ -989,17 +871,14 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
 - [Elden Ring]()
-- [Pacific Drive](https://en.wikipedia.org/wiki/Pacific_Drive_(video_game)) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II)
 - [Beastieball]()
-- [Kirby and the Forgotten Land]()
-- [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]
-- [Eastward Octopia]
+- [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]()
+- [Eastward Octopia]()
 - [Shapez 2](https://en.wikipedia.org/wiki/Shapez_2) by Peppsen
 - Fantasian: Neo Dimension
 - [Penny’s Big Breakaway](https://en.wikipedia.org/wiki/Penny%27s_Big_Breakaway) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes) and Sean Bialo
 - Voidwrought by Jouni Valjakka
 - [Hauntii]()
-
 - [Marvel Rivals]()
 - [Arctic Eggs]()
 - [Surmount]()
