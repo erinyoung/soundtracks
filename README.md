@@ -658,6 +658,8 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Kingdom Hearts Birth by Sleep](https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito), and [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 - [Assassin's Creed: Brotherhood](https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Super Mario Galaxy 2](https://en.wikipedia.org/wiki/Super_Mario_Galaxy_2) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), Ryo Nagamatsu, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Lost in Shadow](https://en.wikipedia.org/wiki/Lost_in_Shadow) by Takasi Watanabe
+- [Epic Mickey](https://en.wikipedia.org/wiki/Epic_Mickey) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer))
 
 ## 2011
 
@@ -666,41 +668,26 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [The Sims Medieval](https://en.wikipedia.org/wiki/The_Sims_Medieval) by [John Debney](https://en.wikipedia.org/wiki/John_Debney)
 - [Tropico 4](https://en.wikipedia.org/wiki/Tropico_4)
 - [Minecraft](https://en.wikipedia.org/wiki/Minecraft) by [C418](https://en.wikipedia.org/wiki/C418), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and Aaron Cherof
-- Bastion by Darren Korb
-- The Elder Scrolls V: Skyrim by Jeremy Soule
-- Portal 2 by Mike Morasky
-- Dark Souls by Motoi Sakuraba
-- Deus Ex: Human Revolution by Michael McCann
-- Uncharted 3 by Greg Edmonson
-- L.A. Noire by Andrew Hale, Simon Hale
-- Skyward Sword by Wakai, Fujii, Yokota, Kondo
-- Rayman Origins by Christophe H√©ral, Billy Martin
-- Dead Space 2 by Jason Graves
-- The Elder Scrolls V: Skyrim
-- Portal 2
-- Final Fantasy XIII-2
-- Minecraft
-- Batman: Arkham City
-- Rayman Origins
-- L.A. Noire
-- Gears of War 3
-- LittleBigPlanet 2
-- Ikenie no Yoru
-- Kirby's Return to Dream Land
-- Lost in Shadow
-- Epic Mickey
-- The Witcher 2
-- Battlefield 3
-- Assassin's Creed: Revelations
-- The Legend of Zelda: Skyward Sword
-- Uncharted 3: Drakes Deception
-- Dark Souls
-- Deus Ex: Human Revolution
-- Dragon Age II
-- Bastion
-- Moon Diver
-- From Dust
-- Sound Shapes
+- [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
+- [Portal 2](https://en.wikipedia.org/wiki/Portal_2) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
+- [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
+- [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
+- [Uncharted 3: Drake's Deception](https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception) by [Greg Edmonson](https://en.wikipedia.org/wiki/Greg_Edmonson)
+- [L.A. Noire](https://en.wikipedia.org/wiki/L.A._Noire) by Andrew Hale and [Simon Hale](https://en.wikipedia.org/wiki/Simon_Hale)
+- [The Legend of Zelda: Skyward Sword](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword) by Hajime Wakai, Shiho Fujii, [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), and Takeshi Hama
+- [Rayman Origins](https://en.wikipedia.org/wiki/Rayman_Origins) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral) and Billy Martin
+- [Dead Space 2](https://en.wikipedia.org/wiki/Dead_Space_2) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
+- [Final Fantasy XIII-2](https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and Mitsuto Suzuki
+- [Batman: Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) by Nick Arundel and Ron Fish
+- [Gears of War 3](https://en.wikipedia.org/wiki/Gears_of_War_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky)
+- [LittleBigPlanet 2](https://en.wikipedia.org/wiki/LittleBigPlanet_2) by 	[Kenneth C M Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), [Paul Thomson](https://en.wikipedia.org/wiki/Paul_Thomson_(composer)), [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques), [Winifred Phillips](https://en.wikipedia.org/wiki/Winifred_Phillips), [Baiyon](https://en.wikipedia.org/wiki/Baiyon), [Keith Tenniswood](https://en.wikipedia.org/wiki/Keith_Tenniswood), and [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton)
+- [Ikenie no Yoru](https://en.wikipedia.org/wiki/Ikenie_no_Yoru) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken) and Ai Yamashita
+- [Kirby's Return to Dream Land](https://en.wikipedia.org/wiki/Kirby%27s_Return_to_Dream_Land) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando) and [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer))
+- [The Witcher 2: Assassins of Kings](https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings) by Adam Skorupa, Krzysztof Wierzynkiewicz, and [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz)
+- [Battlefield 3](https://en.wikipedia.org/wiki/Battlefield_3) by Johan Skugge and Jukka Rintamäki
+- [Assassin's Creed: Revelations](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Revelations) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe) and [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [Dragon Age II](https://en.wikipedia.org/wiki/Dragon_Age_II) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [From Dust](https://en.wikipedia.org/wiki/From_Dust) by [Tom Salta](https://en.wikipedia.org/wiki/Tom_Salta)
 - [Bastion](https://en.wikipedia.org/wiki/Bastion_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 
 ## 2012
@@ -710,6 +697,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Fez](https://en.wikipedia.org/wiki/Fez_(video_game)) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace)
 - [Max Payne 3](https://en.wikipedia.org/wiki/Max_Payne_3) by [Health](https://en.wikipedia.org/wiki/Health_(band))
 - [Mass Effect 3](https://en.wikipedia.org/wiki/Mass_Effect_3) by [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), Sam Hulick, [Christopher Lennertz](https://en.wikipedia.org/wiki/Christopher_Lennertz), [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
+- [Sound Shapes](https://en.wikipedia.org/wiki/Sound_Shapes) by [Shaw-Han Liem](https://en.wikipedia.org/wiki/I_Am_Robot_and_Proud), Jessica Mak, [Jim Guthrie](https://en.wikipedia.org/wiki/Jim_Guthrie_(singer-songwriter)), [Deadmau5](https://en.wikipedia.org/wiki/Deadmau5), and [Beck](https://en.wikipedia.org/wiki/Beck)
 - [Halo 4](https://en.wikipedia.org/wiki/Halo_4) by [Neil Davidge](https://en.wikipedia.org/wiki/Neil_Davidge) and Kazuma Jinnouchi
 - [Assassin's Creed III](https://en.wikipedia.org/wiki/Assassin%27s_Creed_III) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
 - [Far Cry 3](https://en.wikipedia.org/wiki/Far_Cry_3) by [Brian Tyler](https://en.wikipedia.org/wiki/Brian_Tyler)
