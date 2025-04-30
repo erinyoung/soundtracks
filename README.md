@@ -591,6 +591,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Uncharted: Drake's Fortune
 - Warhawk
 - Heroes of Mana
+- [Halo 3](https://en.wikipedia.org/wiki/Halo_3) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [No More Heroes](https://en.wikipedia.org/wiki/No_More_Heroes_(video_game)) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada) and Jun Fukuda
 - [The World Ends with You](https://en.wikipedia.org/wiki/The_World_Ends_with_You) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 
@@ -614,28 +615,23 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 
 ## 2009
 
-- Demon’s Souls by Shunsuke Kida
-- Uncharted 2: Among Thieves by Greg Edmonson
-- Bayonetta by Masami Ueda, others
-- Dragon Age: Origins by Inon Zur
-- Final Fantasy XIII by Masashi Hamauzu
-- Minecraft (pre-release) by C418
-- Batman: Arkham Asylum by Nick Arundel, Ron Fish
-- Assassin’s Creed II by Jesper Kyd
-- Flower by Vincent Diamante
-- League of Legends (early builds) by Riot Games composers
-- Uncharted 2: Among Thieves
+- [Demon’s Souls](https://en.wikipedia.org/wiki/Demon%27s_Souls) by Shunsuke Kida
+- [Uncharted 2: Among Thieves](https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves) by [Greg Edmonson](https://en.wikipedia.org/wiki/Greg_Edmonson)
+- [Dragon Age: Origins](https://en.wikipedia.org/wiki/Dragon_Age:_Origins) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [Batman: Arkham Asylum](https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum) by Nick Arundel and Ron Fish
+- [Assassin’s Creed II](https://en.wikipedia.org/wiki/Assassin%27s_Creed_II) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [Flower](https://en.wikipedia.org/wiki/Flower_(video_game)) by Vincent Diamante
 - [Tropico 3](https://en.wikipedia.org/wiki/Tropico_3)
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta_(video_game)) by [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino), [Takahiro Izutani](https://en.wikipedia.org/wiki/Takahiro_Izutani), Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki, and Naoto Tanaka
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
-- Dragon Quest IX
-- [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)- Kingdom Hearts 358/2 Days
-- Batman: Arkham Asylum
-- Brutal Legend
-- Dragon Age: Origins
-- Borderlands
-- Halo 3
+- [Dragon Quest IX](https://en.wikipedia.org/wiki/Dragon_Quest_IX) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [Kingdom Hearts 358/2 Days](https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
+- [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game)) by [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), and Raison Varner
+
 
 ## 2010
 
@@ -669,6 +665,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Ni no Kuni: Wrath of the White Witch](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi)
 - [The Sims Medieval](https://en.wikipedia.org/wiki/The_Sims_Medieval) by [John Debney](https://en.wikipedia.org/wiki/John_Debney)
 - [Tropico 4](https://en.wikipedia.org/wiki/Tropico_4)
+- [Minecraft](https://en.wikipedia.org/wiki/Minecraft) by [C418](https://en.wikipedia.org/wiki/C418), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and Aaron Cherof
 - Bastion by Darren Korb
 - The Elder Scrolls V: Skyrim by Jeremy Soule
 - Portal 2 by Mike Morasky
