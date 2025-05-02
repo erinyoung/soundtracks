@@ -19,6 +19,16 @@ Also, I want a place to save my list because sometimes I forget games when I red
 - Banjo Kajooie
 - Yooka Laylee
 - Katamari
+- Diablo
+- starcraft
+- other blizzard games
+- Xenoblade
+- Sonic
+- Fire Emblem
+- Firaxis
+- Dragon Quest
+- Dragon Age
+- Other square enix games
 - https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
 - https://composercode.com/video-game-composers/
 
