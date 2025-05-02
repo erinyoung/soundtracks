@@ -396,6 +396,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
 - Psychonauts by Peter McConnell
 - [Kingdom Hearts II](https://en.wikipedia.org/wiki/Kingdom_Hearts_II) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton) by Koichi Kyuma and Yuichi Ozaki
 - Call of Duty 2 by Graeme Revell
 - Phoenix Wright: Ace Attorney by Masakazu Sugimori
 - Guitar Hero by Cover Artists / Harmonix
@@ -437,16 +438,14 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [New Super Mario Bros.](https://en.wikipedia.org/wiki/New_Super_Mario_Bros.) by Asuka Hayazaki, Hajime Wakai, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Bully](https://en.wikipedia.org/wiki/Bully_(video_game)) by [Shawn Lee](https://en.wikipedia.org/wiki/Shawn_Lee_(musician))
 - [The Legend of Zelda: Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi) and Asuka Ota
-- Children of Mana
-- Dawn of Mana
-- Friends of Mana
-- Fantasy Earth: Zero
-- Dirge of Cerberus: Final Fantasy VII
-- Electroplankton
+- [Children of Mana](https://en.wikipedia.org/wiki/Children_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito), [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata), and Takayuki Aihara
+- [Dawn of Mana](https://en.wikipedia.org/wiki/Dawn_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito), [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito), [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken), and [Ryuichi Sakamoto](https://en.wikipedia.org/wiki/Ryuichi_Sakamoto)
+- [Fantasy Earth: Zero](https://en.wikipedia.org/wiki/Fantasy_Earth_Zero) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata), [Manabu Namiki](https://en.wikipedia.org/wiki/Manabu_Namiki), and Kenichi Koyano
+- [Dirge of Cerberus: Final Fantasy VII](https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Persona 3](https://en.wikipedia.org/wiki/Persona_3) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 - [Final Fantaxy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), [Hayato Matsuo](https://en.wikipedia.org/wiki/Hayato_Matsuo), and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
 - [Flow](https://en.wikipedia.org/wiki/Flow_(video_game)) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
-- Star Wars: Empire at War
+- [Star Wars: Empire at War](https://en.wikipedia.org/wiki/Star_Wars:_Empire_at_War) by [Frank Klepacki](https://en.wikipedia.org/wiki/Frank_Klepacki) with themes by [John Williams](https://en.wikipedia.org/wiki/John_Williams)
 
 ## 2007
 
