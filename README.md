@@ -133,21 +133,32 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 
 
+## 1985
 
+- ([Super Mario Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.)) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 
 ## 1986
 
+- ([The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game))) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - ([Dragon Quest](https://en.wikipedia.org/wiki/Dragon_Quest)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- ([Metroid](https://en.wikipedia.org/wiki/Metroid_(video_game))) by [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
 
 ## 1987
 
 - ([Final Fantasy I](https://en.wikipedia.org/wiki/Final_Fantasy_(video_game))) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - ([Dragon Quest II](https://en.wikipedia.org/wiki/Dragon_Quest_II)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- ([Zelda II: The Adventure of Link](https://en.wikipedia.org/wiki/Zelda_II:_The_Adventure_of_Link)) by [Akito Nakatsuka](https://en.wikipedia.org/wiki/Akito_Nakatsuka)
 
 ## 1988
 
 - ([Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - ([Final Fantasy II](https://en.wikipedia.org/wiki/Final_Fantasy_II)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- ([Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- ([Super Mario Bros. 3](https://en.wikipedia.org/wiki/Super_Mario_Bros._3)) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+
+## 1989
+
+- ([Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land)) by [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
 
 ## 1990
 
@@ -155,19 +166,21 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - ([Final Fantasy III](https://en.wikipedia.org/wiki/Final_Fantasy_III)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - ([Castlevania III: Dracula's Curse](https://en.wikipedia.org/wiki/Castlevania_III:_Dracula%27s_Curse)) by Hidenori Maezawa, Jun Funahashi, Yukie Morimoto, and Yoshinori Sasaki
 - ([ActRaiser](https://en.wikipedia.org/wiki/ActRaiser)) by [Yuzo Koshiro](https://en.wikipedia.org/wiki/Yuzo_Koshiro)
+- ([Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)) by  [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - ([Dragon Quest IV](https://en.wikipedia.org/wiki/Dragon_Quest_IV)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 
 ## 1991
 
 - ([Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus) by Ryoji Yoshitomi
 - [The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) by [Masato Nakamura](https://en.wikipedia.org/wiki/Masato_Nakamura)
 - [Street Fighter II](https://en.wikipedia.org/wiki/Street_Fighter_II) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura) and Isao Abe
-- [Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 ## 1992
 
 - [Sonic the Hedgehog 2](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2) by [Masato Nakamura](https://en.wikipedia.org/wiki/Masato_Nakamura)
+- [Super Mario Land 2: 6 Golden Coins](https://en.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Final Fantasy V](https://en.wikipedia.org/wiki/Final_Fantasy_V) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Axelay](https://en.wikipedia.org/wiki/Axelay) by [Taro Kudo](https://en.wikipedia.org/wiki/Taro_Kudo)
 - [Contra III: The Alien Wars](https://en.wikipedia.org/wiki/Contra_III:_The_Alien_Wars) by [Miki Higashino](https://en.wikipedia.org/wiki/Miki_Higashino), Masanori Adachi, and [Tappi Iwase](https://en.wikipedia.org/wiki/Tappi_Iwase)
@@ -179,6 +192,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Secret of Mana](https://en.wikipedia.org/wiki/Secret_of_Mana) by [Hiroki Kikuta](https://en.wikipedia.org/wiki/Hiroki_Kikuta)
 - [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) by [Bobby Prince](https://en.wikipedia.org/wiki/Bobby_Prince)
 - [Mega Man X](https://en.wikipedia.org/wiki/Mega_Man_X) by Setsuo Yamamoto, Makoto Tomozawa, Yuki Iwai, Yuko Takehara, and Toshihiko Horiyama
+- [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Minako Hamano, and Kozue Ishikawa
 - [Final Fantasy Mystic Quest](https://en.wikipedia.org/wiki/Final_Fantasy_Mystic_Quest) by [Ryuji Sasai](https://en.wikipedia.org/wiki/Ryuji_Sasai) and Yasuhiro Kawakami
 
 ## 1994
@@ -214,6 +228,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 - [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Final Fantasy Tactics](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto) and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
+- [Yoshi's Story](https://en.wikipedia.org/wiki/Yoshi%27s_Story) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Castlevania: Symphony of the Night](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane)
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
 - [Tomb Raider II](https://en.wikipedia.org/wiki/Tomb_Raider_II) by [Nathan McCree](https://en.wikipedia.org/wiki/Nathan_McCree)
@@ -260,6 +275,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Persona 2: Eternal Punishment](https://en.wikipedia.org/wiki/Persona_2:_Eternal_Punishment) by Toshiko Tasaki, Kenichi Tsuchiya, Masaki Kurokawa, Toshiki Konishi, and Atsushi Kitajoh
 - [The Sims](https://en.wikipedia.org/wiki/The_Sims_(video_game)) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer)) and [Marc Russo](https://en.wikipedia.org/wiki/Yellowjackets_(band))
 - [Perfect Dark](https://en.wikipedia.org/wiki/Perfect_Dark) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), and David Clynick
+- [Paper Mario](https://en.wikipedia.org/wiki/Paper_Mario_(video_game)) by [Yuka Tsujiyoko](https://en.wikipedia.org/wiki/Paper_Mario_(video_game))
 - [Phantasy Star Online](https://en.wikipedia.org/wiki/Phantasy_Star_Online) by Hideaki Kobayashi and Fumie Kumatani
 - [Tomb Raider: Chronicles](https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles) by [Peter Connelly](https://en.wikipedia.org/wiki/Peter_Connelly)
 - [Vagrant Story](https://en.wikipedia.org/wiki/Vagrant_Story) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
@@ -274,6 +290,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
 - [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), Shogo Sakai, Tadashi Ikegami, and Takuto Kitsuta
 - [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Kenta Nagata, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and Shinobu Tanaka
+- [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons_and_Oracle_of_Ages) by Minako Adachi and Kiyohiro Sada
 - [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka) and Shinobu Tanaka
 - [Grand Theft Auto III](https://en.wikipedia.org/wiki/Grand_Theft_Auto_III) by Craig Conner and Stuart Ross
 - [Advance Wars](https://en.wikipedia.org/wiki/Advance_Wars) by Taishi Senda
@@ -286,8 +303,8 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 ## 2002
 
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
-- [The Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Metroid Prime](https://en.wikipedia.org/wiki/Metroid_Prime) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Kouichi Kyuma
+- [Metroid Fusion](https://en.wikipedia.org/wiki/Metroid_Fusion) by Minako Hamano and Akira Fujiwara
 - [Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Grand Theft Auto: Vice City](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City) by Lex Horton
 - [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
@@ -301,6 +318,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [The Legend of Zelda: A Link to the Past and Four Swords](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past_and_Four_Swords) by Yuko Takehara
 - [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos) by Tracy W. Bush, Derek Duke, and Glenn Stafford
 - [Final Fantasy XI: Online](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Medal of Honor: Allied Assault](https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault) by [Michael Giacchino](https://en.wikipedia.org/wiki/Michael_Giacchino)
@@ -313,6 +331,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Beyond Good & Evil](https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
 - [Star Wars: Knights of the Old Republic (KOTOR)](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Final Fantasy Tactics Advance](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), Kaori Ohkoshi, Ayako Saso, and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Ratchet & Clank: Going Commando](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud) and Niels Bye Nielsen
 - [Baten Kaitos](https://en.wikipedia.org/wiki/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Star Ocean: Till the End of Time](https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Prince of Persia: The Sands of Time](https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time) by [Stuart Chatwood](https://en.wikipedia.org/wiki/Stuart_Chatwood)
@@ -336,13 +355,18 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
 - [Hitman: Contracts](https://en.wikipedia.org/wiki/Hitman:_Contracts) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Kingdom Hearts: Chain of Memories](https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [The Legend of Zelda: Four Swords Adventures](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo) and Asuka Ota
+- [The Legend of Zelda: The Minish Cap](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Minish_Cap) by Mitsuhiko Takano
 - Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) by Jason Hayes & team
+- [Ratchet & Clank: Up Your Arsenal](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Up_Your_Arsenal) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
+- [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Minako Hamano
+- [Metroid Prime 2: Echoes](https://en.wikipedia.org/wiki/Metroid_Prime_2:_Echoes) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964))
 - Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
 - Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
 - [Halo 2](https://en.wikipedia.org/wiki/Halo_2) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - Half-Life 2 by Kelly Bailey
-- Paper Mario: The Thousand-Year Door by Yuka Tsujiyoko
+- [Paper Mario: The Thousand-Year Door](https://en.wikipedia.org/wiki/Paper_Mario:_The_Thousand-Year_Door) by Yoshito Hirano and [Yuka Tsujiyoko](https://en.wikipedia.org/wiki/Yuka_Tsujiyoko)
 - Silent Hill 4: The Room by Akira Yamaoka
 - Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
 - The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
@@ -367,6 +391,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
 - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
+- [Ratchet: Deadlocked](https://en.wikipedia.org/wiki/Ratchet:_Deadlocked) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - God of War by Gerard Marino, Ron Fish
 - Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
 - Psychonauts by Peter McConnell
@@ -409,7 +434,9 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Resistance: Fall of Man](https://en.wikipedia.org/wiki/Resistance:_Fall_of_Man) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Tomb Raider: Legend](https://en.wikipedia.org/wiki/Tomb_Raider:_Legend) by [Troels Brun Folmann](https://en.wikipedia.org/wiki/Troels_Brun_Folmann)
 - [Valkyrie Profile 2: Silmeria](https://en.wikipedia.org/wiki/Valkyrie_Profile_2:_Silmeria) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
-- Bully
+- [New Super Mario Bros.](https://en.wikipedia.org/wiki/New_Super_Mario_Bros.) by Asuka Hayazaki, Hajime Wakai, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Bully](https://en.wikipedia.org/wiki/Bully_(video_game)) by [Shawn Lee](https://en.wikipedia.org/wiki/Shawn_Lee_(musician))
+- [The Legend of Zelda: Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi) and Asuka Ota
 - Children of Mana
 - Dawn of Mana
 - Friends of Mana
@@ -436,16 +463,15 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Eternal Sonata](https://en.wikipedia.org/wiki/Eternal_Sonata) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Final Fantasy Tactics: The War of the Lions](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto) and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
 - [Final Fantasy XII: Revenant Wings](https://en.wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto) and [Kenichiro Fukui](https://en.wikipedia.org/wiki/Kenichiro_Fukui)
-- Super Mario 
-- God of War II
-- Ratchet & Clank Future: Tools of Destruction
-- The Legend of Zelda: Twilight Princess
-- Metroid Prime 3: Corruption
-- Super Paper Mario
-- Heavenly Sword
-- Uncharted: Drake's Fortune
-- Warhawk
-- Heroes of Mana
+- [God of War II](https://en.wikipedia.org/wiki/God_of_War_II) by [Gerard Marino](https://en.wikipedia.org/wiki/Gerard_Marino), Ron Fish, [Mike Reagan](https://en.wikipedia.org/wiki/Mike_Reagan), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
+- [Ratchet & Clank Future: Tools of Destruction](https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future:_Tools_of_Destruction) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
+- [The Legend of Zelda: Phantom Hourglass](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Phantom_Hourglass) by Kenta Nagata and [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi)
+- [Metroid Prime 3: Corruption](https://en.wikipedia.org/wiki/Metroid_Prime_3:_Corruption) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)), Minako Hamano, and Masaru Tajima
+- [Super Paper Mario](https://en.wikipedia.org/wiki/Super_Paper_Mario) by Naoko Mitome, Chika Sekigawa, and Yasuhisa Baba
+- [Heavenly Sword](https://en.wikipedia.org/wiki/Heavenly_Sword) by [Nitin Sawhney](https://en.wikipedia.org/wiki/Nitin_Sawhney)
+- [Uncharted: Drake's Fortune](https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune) by [Greg Edmonson](https://en.wikipedia.org/wiki/Greg_Edmonson)
+- [Warhawk](https://en.wikipedia.org/wiki/Warhawk_(2007_video_game)) by [Christopher Lennertz](https://en.wikipedia.org/wiki/Christopher_Lennertz) and [Timothy Michael Wynn](https://en.wikipedia.org/wiki/Tim_Wynn)
+- [Heroes of Mana](https://en.wikipedia.org/wiki/Heroes_of_Mana) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Crisis Core: Final Fantasy VII](https://en.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 - [Halo 3](https://en.wikipedia.org/wiki/Halo_3) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [No More Heroes](https://en.wikipedia.org/wiki/No_More_Heroes_(video_game)) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada) and Jun Fukuda
@@ -465,6 +491,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)) by [Jami Sieber](https://en.wikipedia.org/wiki/Jami_Sieber), [Shira Kammen](https://en.wikipedia.org/wiki/Shira_Kammen), and [Cheryl Ann Fulton](https://en.wikipedia.org/wiki/Cheryl_Ann_Fulton)
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
 - [Fallout 3](https://en.wikipedia.org/wiki/Fallout_3) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Ratchet & Clank Future: Quest for Booty](https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future:_Quest_for_Booty) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Dead Space](https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
 - [Fable II](https://en.wikipedia.org/wiki/Fable_II) by [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman) and [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Kingdom Hearts: Coded](https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
@@ -483,12 +510,15 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Assassin’s Creed II](https://en.wikipedia.org/wiki/Assassin%27s_Creed_II) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game)) by Vincent Diamante
 - [Tropico 3](https://en.wikipedia.org/wiki/Tropico_3)
+- [Ratchet & Clank Future: A Crack in Time](https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future:_A_Crack_in_Time) by Boris Salchow
+- [New Super Mario Bros. Wii](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._Wii) by Shiho Fujii, Ryo Nagamatsu, and Kenta Nagata
 - [Star Ocean: The Last Hope](https://en.wikipedia.org/wiki/Star_Ocean:_The_Last_Hope) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta_(video_game)) by [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino), [Takahiro Izutani](https://en.wikipedia.org/wiki/Takahiro_Izutani), Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki, and Naoto Tanaka
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
 - [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - [Dragon Quest IX](https://en.wikipedia.org/wiki/Dragon_Quest_IX) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Tomb Raider: Underworld](https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld) by [Colin O'Malley](https://en.wikipedia.org/wiki/Colin_O%27Malley) and [Troels Brun Folmann](https://en.wikipedia.org/wiki/Troels_Brun_Folmann)
+- [The Legend of Zelda: Spirit Tracks](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Manaka Kataoka, Asuka Hayazaki, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Kingdom Hearts 358/2 Days](https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
@@ -523,6 +553,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Assassin's Creed: Brotherhood](https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Super Mario Galaxy 2](https://en.wikipedia.org/wiki/Super_Mario_Galaxy_2) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), Ryo Nagamatsu, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Lost in Shadow](https://en.wikipedia.org/wiki/Lost_in_Shadow) by Takasi Watanabe
+- [Metroid: Other M](https://en.wikipedia.org/wiki/Metroid:_Other_M) by [Kuniaki Haishima](https://en.wikipedia.org/wiki/Kuniaki_Haishima)
 - [Epic Mickey](https://en.wikipedia.org/wiki/Epic_Mickey) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer))
 
 ## 2011
@@ -533,6 +564,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Tropico 4](https://en.wikipedia.org/wiki/Tropico_4)
 - [Crysis 2](https://en.wikipedia.org/wiki/Crysis_2) by [Borislav Slavov](https://en.wikipedia.org/wiki/Borislav_Slavov), Tilman Sillescu, [Hans Zimmer](https://en.wikipedia.org/wiki/Hans_Zimmer), and [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
 - [Minecraft](https://en.wikipedia.org/wiki/Minecraft) by [C418](https://en.wikipedia.org/wiki/C418), [Lena Raine](https://en.wikipedia.org/wiki/Lena_Raine), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and Aaron Cherof
+- [Super Mario 3D Land](https://en.wikipedia.org/wiki/Super_Mario_3D_Land) by Asuka Hayazaki, Takeshi Hama, and [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota)
 - [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Portal 2](https://en.wikipedia.org/wiki/Portal_2) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
 - [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
@@ -561,6 +593,9 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Hotline Miami](https://en.wikipedia.org/wiki/Hotline_Miami) by Various Artists
 - [Fez](https://en.wikipedia.org/wiki/Fez_(video_game)) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace)
 - [Max Payne 3](https://en.wikipedia.org/wiki/Max_Payne_3) by [Health](https://en.wikipedia.org/wiki/Health_(band))
+- [New Super Mario Bros. U](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U) by Shiho Fujii and [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota)
+- [New Super Mario Bros. 2](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._2) by Kenta Nagata
+- [Paper Mario: Sticker Star](https://en.wikipedia.org/wiki/Paper_Mario:_Sticker_Star) by Masanobu Matsunaga, Shoh Murakami, Yasuhisa Baba, Hiroki Morishita, Saki Kurata, Yoshito Sekigawa, Masanori Adachi, Kiyoshi Hazemoto, Tomoko Sano, Kosei Muraki, and Hiroaki Hanaoka
 - [Mass Effect 3](https://en.wikipedia.org/wiki/Mass_Effect_3) by [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), Sam Hulick, [Christopher Lennertz](https://en.wikipedia.org/wiki/Christopher_Lennertz), [Clint Mansell](https://en.wikipedia.org/wiki/Clint_Mansell), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
 - [Sound Shapes](https://en.wikipedia.org/wiki/Sound_Shapes) by [Shaw-Han Liem](https://en.wikipedia.org/wiki/I_Am_Robot_and_Proud), Jessica Mak, [Jim Guthrie](https://en.wikipedia.org/wiki/Jim_Guthrie_(singer-songwriter)), [Deadmau5](https://en.wikipedia.org/wiki/Deadmau5), and [Beck](https://en.wikipedia.org/wiki/Beck)
 - [Halo 4](https://en.wikipedia.org/wiki/Halo_4) by [Neil Davidge](https://en.wikipedia.org/wiki/Neil_Davidge) and Kazuma Jinnouchi
@@ -594,12 +629,14 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Assassin's Creed IV: Black Flag](https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag) by [Brian Tyler](https://en.wikipedia.org/wiki/Brian_Tyler)
 - [Assassin's Creed Freedom Cry](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Freedom_Cry) by [Olivier Deriviere](https://en.wikipedia.org/wiki/Olivier_Deriviere)
 - [Tearaway](https://en.wikipedia.org/wiki/Tearaway_(video_game)) by [Kenneth C M Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)) and Brian D'Oliveira
+- [Ratchet & Clank: Into the Nexus](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Into_the_Nexus) by Michael Bross
 - [Rayman Legends](https://en.wikipedia.org/wiki/Rayman_Legends) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral) and Billy Martin
 - [Grand Theft Auto V](https://en.wikipedia.org/wiki/Grand_Theft_Auto_V) by [Tangerine Dream](https://en.wikipedia.org/wiki/Tangerine_Dream), [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson), [The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(musician)), and [Oh No](https://en.wikipedia.org/wiki/Oh_No_(musician))
 - [Metal Gear Rising: Revengeance](https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance) by [Jamie Christopherson](https://en.wikipedia.org/wiki/Jamie_Christopherson)
 - [Puppeteer](https://en.wikipedia.org/wiki/Puppeteer_(video_game)) by [Patrick Doyle](https://en.wikipedia.org/wiki/Patrick_Doyle)
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Lightning Returns: Final Fantasy XIII](https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), Mitsuto Suzuki, and [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [God of War: Ascension](https://en.wikipedia.org/wiki/God_of_War:_Ascension) by [Tyler Bates](https://en.wikipedia.org/wiki/Tyler_Bates)
 - [Super Mario 3d World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Luigi's Mansion: Dark Moon](https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon) by Chad York, Darren Radtke, and Mike Peacock
 - [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
@@ -643,6 +680,8 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Halo 5: Guardians](https://en.wikipedia.org/wiki/Halo_5:_Guardians) by Kazuma Jinnouchi
 - [Rise of the Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider) by [Bobby Tahouri](https://en.wikipedia.org/wiki/Bobby_Tahouri)
 - [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain) by Ludvig Forssell, [Justin Burnett](https://en.wikipedia.org/wiki/Justin_Burnett), and Daniel James
+- [The Legend of Zelda: Tri Force Heroes](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes) by Ryo Nagamatsu
+- [Yoshi's Woolly World](https://en.wikipedia.org/wiki/Yoshi%27s_Woolly_World) by Tomoya Tomita, Misaki Asada, and [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Assassin's Creed Syndicate](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Syndicate) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
 - [Assassin's Creed Chronicles](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Chronicles) by Aaron Miller and [Mark Rutherford](https://en.wikipedia.org/wiki/Mark_Rutherford_(composer))
 - [Evolve](https://en.wikipedia.org/wiki/Evolve_(video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves), [Lustmord](https://en.wikipedia.org/wiki/Lustmord), [Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser), and [Danny Cocke](https://en.wikipedia.org/wiki/Danny_Cocke)
@@ -666,6 +705,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Star Ocean: Integrity and Faithlessness](https://en.wikipedia.org/wiki/Star_Ocean:_Integrity_and_Faithlessness) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Assassin's Creed Identity](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Identity) by [Jeff Broadbent](https://en.wikipedia.org/wiki/Jeff_Broadbent)
 - [Thumper](https://en.wikipedia.org/wiki/Thumper_(video_game)) by Brian Gibson
+- [Paper Mario: Color Splash](https://en.wikipedia.org/wiki/Paper_Mario:_Color_Splash) by Takeru Kanazaki, Shigemitsu Goto, and Fumihiro Isobe
 - [Valkyrie Anatomia](https://en.wikipedia.org/wiki/Valkyrie_Anatomia) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
@@ -684,6 +724,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 - [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
 - [Cuphead](https://en.wikipedia.org/wiki/Cuphead) by Kristofer Maddigan
+- [Metroid: Samus Returns](https://en.wikipedia.org/wiki/Metroid:_Samus_Returns) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Daisuke Matsuoka
 - [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2) by [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori), Skye Lewin, and C Paul Johnson
 - [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) by [Christopher Larkin](https://en.wikipedia.org/wiki/Christopher_Larkin_(composer))
 - [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band)), Niels van der Leest, and Jonathan Williams
@@ -731,6 +772,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) by [Dan Golding](https://en.wikipedia.org/wiki/Dan_Golding) 
 - [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) by Chad York and Darren Radtke 
 - [Ape Out](https://en.wikipedia.org/wiki/Ape_Out) by Maxi Boch
+- ([Yoshi's Crafted World](https://en.wikipedia.org/wiki/Yoshi%27s_Crafted_World)) by Kazufumi Umeda
 - [Kingdom Hearts III](https://en.wikipedia.org/wiki/Kingdom_Hearts_III) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto), and [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
 - [The Sims 4](https://en.wikipedia.org/wiki/The_Sims_4) by [Ilan Eshkeri](https://en.wikipedia.org/wiki/Ilan_Eshkeri)
 - [Oninaki](https://en.wikipedia.org/wiki/Oninaki) by Shunsuke Tsuchiya and Mariam Abounnasr
@@ -745,6 +787,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu) and Mitsuto Suzuki
 - [The Last of Us Part II](https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II) by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)
 - [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) by P. T. Adamczyk, [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz), and [Paul Leonard-Morgan](https://en.wikipedia.org/wiki/Paul_Leonard-Morgan)
+- [Paper Mario: The Origami King](https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King) by Yoshito Sekigawa, Shoh Murakami, Yoshiaki Kimura, Hiroki Morishita, and Fumihiro Isobe
 - [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 - [Assassin's Creed Valhalla](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sarah Schachner](https://en.wikipedia.org/wiki/Sarah_Schachner), and [Einar Selvik](https://en.wikipedia.org/wiki/Einar_Selvik)
 - [Spider-Man: Miles Morales](https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
@@ -765,6 +808,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) by Soshi Abe and Sayako Doi
 - [Forza Horizon 5](https://en.wikipedia.org/wiki/Forza_Horizon_5) by Eduardo de la Iglesia, Matías Cella
 - [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), [Joel Corelitz](https://en.wikipedia.org/wiki/Joel_Corelitz), and Curtis Schweitzer
+- [Bowser's Fury](https://en.wikipedia.org/wiki/Bowser%27s_Fury) by Daisuke Matsuoka and James Phillipsen
 - [Resident Evil Village](https://en.wikipedia.org/wiki/Resident_Evil_Village) by Shusaku Uchiyama and Nao Sato
 - [Ratchet & Clank: Rift Apart](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Rift_Apart) by [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh) and [Wataru Hokoyama](https://en.wikipedia.org/wiki/Wataru_Hokoyama)
 - [Deathloop](https://en.wikipedia.org/wiki/Deathloop) by [Tom Salta](https://en.wikipedia.org/wiki/Tom_Salta)
@@ -843,6 +887,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Alan Wake 2](https://en.wikipedia.org/wiki/Alan_Wake_2) by Petri Alanko
 - [Assassin's Creed Nexus VR](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Nexus_VR) by [Chris Tilton](https://en.wikipedia.org/wiki/Chris_Tilton)
 - [El Paso, Elsewhere](https://en.wikipedia.org/wiki/El_Paso,_Elsewhere) by Lake Savage
+- [Sea of Stars](https://en.wikipedia.org/wiki/Sea_of_Stars) by Eric W. Brown and [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
 - [Hi-Fi Rush](https://en.wikipedia.org/wiki/Hi-Fi_Rush) by Shuichi Kobori, Reo Uratani, and Masatoshi Yanagi
 - [Baldur's Gate 3](https://en.wikipedia.org/wiki/Baldur%27s_Gate_3) by [Borislav Slavov](https://en.wikipedia.org/wiki/Borislav_Slavov)
 - [Metaphor: ReFantazio](https://en.wikipedia.org/wiki/Metaphor:_ReFantazio) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
@@ -867,7 +912,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
 - [Prince of Persia: The Lost Crown](https://en.wikipedia.org/wiki/Prince_of_Persia%3A_The_Lost_Crown) by [Mentrix](https://en.wikipedia.org/wiki/Mentrix) and [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - [Visions of Mana]() by 
-- [The Legend of Zelda: Echoes of Wisdom]()
+- [The Legend of Zelda: Echoes of Wisdom](The Legend of Zelda: Echoes of Wisdom) by Hajime Wakai
 - [8-bit Adventures 2]()
 - [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
