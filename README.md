@@ -614,33 +614,22 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Tropico 5](https://en.wikipedia.org/wiki/Tropico_5)
 - [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 - [World of Warcraft: Warlords of Draenor](https://en.wikipedia.org/wiki/World_of_Warcraft:_Warlords_of_Draenor) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian), Sam Cardon, Craig Stuart Garfinkle, Edo Guidotti, and Eimear Noone
-- Transistor by Darren Korb
-- Child of Light by C≈ìur de Pirate
-- Shovel Knight by Jake Kaufman
-- Dragon Age: Inquisition by Trevor Morris
-- Bayonetta 2 by Various Artists
-- Valiant Hearts by Peter McConnell
-- Destiny by O‚ÄôDonnell, Salvatori, McCartney
-- Smash Bros Wii U by Various Artists
-- The Banner Saga by Austin Wintory
-- Alien: Isolation by Henson, Smith
-- Middle-earth: Shadow of Mordor
-- Alien: Isolation
-- Papers, Please
-- Destiny
-- Rise of Mana
-- Final Fantasy XIV: A Realm Reborn
-- Far Cry 4
-- The Last of Us
-- Dragon Age: Inquisition
+- [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
+- [Child of Light](https://en.wikipedia.org/wiki/Child_of_Light) by [Cœur de pirate](https://en.wikipedia.org/wiki/C%C5%93ur_de_pirate)
+- [Shovel Knight](https://en.wikipedia.org/wiki/Shovel_Knight) by [Jake Kaufman](https://en.wikipedia.org/wiki/Jake_Kaufman) and [Manami Matsumae](https://en.wikipedia.org/wiki/Manami_Matsumae)
+- [Bayonetta 2](https://en.wikipedia.org/wiki/Bayonetta_2) by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Naofumi Harada, Satoshi Igarashi, Hitomi Kurokawa, Naoto Tanaka, and Takayasu Sodeoka
+- [Destiny](https://en.wikipedia.org/wiki/Destiny_(video_game)) by [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori), C Paul Johnson, [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell), and [Paul McCartney](https://en.wikipedia.org/wiki/Paul_McCartney)
+- [Super Smash Bros. for Nintendo 3DS and Wii U](https://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U) by Keiki Kobayashi, Junichi Nakatsuru, Hiroki Hashimoto, Hiroyuki Kawada, Torine, LindaAI-CUE, and Yoshinori Hirai
+- [The Banner Saga](https://en.wikipedia.org/wiki/The_Banner_Saga) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
+- [Alien: Isolation](https://en.wikipedia.org/wiki/Alien:_Isolation) by [Christian Henson](https://en.wikipedia.org/wiki/Christian_Henson), [Joe Henson](https://en.wikipedia.org/wiki/The_Flight_(band)), and [Alexis Smith](https://en.wikipedia.org/wiki/The_Flight_(band))
+- [Middle-earth: Shadow of Mordor](https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_Mordor) by [Garry Schyman](https://en.wikipedia.org/wiki/Garry_Schyman) and Nathan Grigg
+- [Rise of Mana](https://en.wikipedia.org/wiki/Rise_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
+- [Far Cry 4](https://en.wikipedia.org/wiki/Far_Cry_4) by [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition) by [Trevor Morris](https://en.wikipedia.org/wiki/Trevor_Morris_(musician)), [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur), and Ted Reedy
 - [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 - [Wolfenstein: The New Order](https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 - [Mario Kart 8](https://en.wikipedia.org/wiki/Mario_Kart_8) by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata, and Kenta Nagata
 - [Shovel Knight](https://en.wikipedia.org/wiki/Shovel_Knight) by [Jake Kaufman](https://en.wikipedia.org/wiki/Jake_Kaufman) and [Manami Matsumae](https://en.wikipedia.org/wiki/Manami_Matsumae)
-- Transistor
-- Evolve
-- No Man's Sky
 
 ## 2015
 
@@ -650,6 +639,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) by [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz) and [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski)
 - [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) by Ryan Amon, Tsukasa Saitoh, Yuka Kitamura, Nobuyoshi Suzuki, [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), and [Michael Wandmacher](https://en.wikipedia.org/wiki/Michael_Wandmacher)
 - [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain) by Ludvig Forssell, [Justin Burnett](https://en.wikipedia.org/wiki/Justin_Burnett), and Daniel James
+- [Evolve](https://en.wikipedia.org/wiki/Evolve_(video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves), [Lustmord](https://en.wikipedia.org/wiki/Lustmord), [Charlie Clouser](https://en.wikipedia.org/wiki/Charlie_Clouser), and [Danny Cocke](https://en.wikipedia.org/wiki/Danny_Cocke)
 - [Life is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)) by [Jonathan Morali](https://en.wikipedia.org/wiki/Jonathan_Morali)
 - [Splatoon](https://en.wikipedia.org/wiki/Splatoon_(video_game)) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi) and Shiho Fujii
 - [Everybody's Gone to the Rapture](https://en.wikipedia.org/wiki/Everybody%27s_Gone_to_the_Rapture) by [Jessica Curry](https://en.wikipedia.org/wiki/Jessica_Curry)
@@ -685,6 +675,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [NieR: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, and [Kuniyuki Takahashi](https://en.wikipedia.org/wiki/Kuniyuki_Takahashi)
 - [Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai
 - [Cuphead](https://en.wikipedia.org/wiki/Cuphead) by Kristofer Maddigan
+- [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2) by [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori), Skye Lewin, and C Paul Johnson
 - [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) by [Christopher Larkin](https://en.wikipedia.org/wiki/Christopher_Larkin_(composer))
 - [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band)), Niels van der Leest, and Jonathan Williams
 - [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) by [Jeff Russo](https://en.wikipedia.org/wiki/Jeff_Russo)
@@ -818,6 +809,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Pikmin 4](https://en.wikipedia.org/wiki/Pikmin_4) by Kenta Nagata, Asuka Hayazaki, and Soshi Abe
 - [The Legend of Zelda: Tears of the Kingdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) by Manaka Kataoka, Maasa Miyoshi, Masato Ohashi, Tsukasa Usui, and Hajime Wakaiy
 - [Bomb Rush Cyberfunk](https://en.wikipedia.org/wiki/Bomb_Rush_Cyberfunk) by [Hideki Naganuma](https://en.wikipedia.org/wiki/Hideki_Naganuma) and others
+- [Bayonetta Origins: Cereza and the Lost Demon](https://en.wikipedia.org/wiki/Bayonetta_Origins:_Cereza_and_the_Lost_Demon) by Aoba Nakanishi, Hitomi Kurokawa, Masahiro Miyauchi, and Rina Yugi
 - [Void Stranger](https://en.wikipedia.org/wiki/Void_Stranger) by Eero Lahtinen
 - [Sonic Superstars](https://en.wikipedia.org/wiki/Sonic_Superstars) by [Jun Senoue](https://en.wikipedia.org/wiki/Jun_Senoue)
 - [Under The Waves](https://en.wikipedia.org/wiki/Under_the_Waves) by Nicolas Bredin
