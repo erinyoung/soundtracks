@@ -5,133 +5,22 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 Also, I want a place to save my list because sometimes I forget games when I redo my youtube playlist (youtube only allows 5000 songs per playlist)
 
-TBA :
-[ ] Blizzard: Diablo, starcraft, world of warcraft
-[ ] Nintendo: Zelda, Donkey Kong, Mario, Animal Crossing, Yoshi
-[ ] Pokemon
-[ ] Xenoblade
-[ ] Assassin's Creed
-[ ] Kirby
-[ ] Sonic
-[ ] Fire Emblem
-[ ] Pikmin
-[ ] Oblivion
-[ ] Firaxis
-[ ] Dragon Quest
-[ ] Square Enix: Final Fantasy
-[ ] Prince of Persia : https://en.wikipedia.org/wiki/Prince_of_Persia
+## TBA 
 
-Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
-
-Call of Duty – A dominant first-person shooter series with over 500 million copies sold.
-Grand Theft Auto – Known for its open-world gameplay and cultural satire.
-Super Mario – Nintendo's flagship platformer with widespread recognition.
-Pokémon – A multimedia phenomenon encompassing games, TV shows, and merchandise.
-Fortnite – A battle royale game that has become a cultural staple.
-The Legend of Zelda – An action-adventure series known for its rich storytelling.
-FIFA / EA Sports FC – Popular soccer simulation games with a massive player base.
-The Sims – A life simulation series allowing players to create and control people.
-Madden NFL – The go-to American football simulation game.​
-Vox
-Halo – A sci-fi shooter series that's a cornerstone of Xbox gaming.
-Assassin’s Creed – Historical action-adventure games known for their immersive worlds.
-Resident Evil – A survival horror series with a strong U.S. following.
-Final Fantasy – A Japanese RPG series with significant popularity in the U.S.
-God of War – An action-adventure series rooted in mythology.
-The Elder Scrolls – Open-world RPGs like Skyrim have captivated U.S. audiences.
-Red Dead Redemption – Western-themed action-adventure games with critical acclaim.
-League of Legends – A competitive MOBA with a substantial U.S. player base.
-Apex Legends – A battle royale shooter that has gained rapid popularity.
-Overwatch – A team-based shooter known for its diverse characters.​
-Counter-Strike – A tactical shooter with a dedicated competitive scene.
-World of Warcraft – An MMORPG that has shaped online gaming culture.
-Destiny – A sci-fi shooter with MMO elements.
-Super Smash Bros. – A crossover fighting game series with a strong U.S. fanbase.
-NBA 2K – A basketball simulation game popular among sports fans.
-Cyberpunk 2077 – An open-world RPG that has garnered attention in the U.S.
-Monster Hunter – An action RPG series with a growing U.S. audience.
-Hogwarts Legacy – An action RPG set in the Harry Potter universe.
-Baldur’s Gate – A classic RPG series recently revitalized with a successful new entry.
-Diablo – An action RPG series known for its loot-driven gameplay.​
-Wikipedia
-Animal Crossing – A life simulation game that gained massive popularity.
-Persona – A Japanese RPG series with a dedicated U.S. fanbase.
-Metroid – A sci-fi action-adventure series with a cult following.
-Street Fighter – A classic fighting game series with competitive appeal.
-Elden Ring / Dark Souls – Challenging action RPGs with critical acclaim.
-Fallout – A post-apocalyptic RPG series with a strong narrative focus.
-Dragon Age – A fantasy RPG series known for its storytelling.
-Kirby – A platformer series featuring a lovable pink protagonist.
-Borderlands – A loot-shooter series with a distinctive art style.
-Tetris – A timeless puzzle game with enduring popularity.​
-Just Dance – A rhythm game series that's a party favorite.
-Sonic the Hedgehog – A fast-paced platformer series with nostalgic appeal.
-Dragon Ball – Fighting games based on the popular anime series.
-Kingdom Hearts – An action RPG series combining Disney and Final Fantasy elements.
-Gears of War – A third-person shooter series with a strong U.S. following.
-Dota 2 – A competitive MOBA with a dedicated player base.
-Star Wars: Battlefront – Shooter games set in the Star Wars universe.
-The Witcher – An action RPG series that has found success in the U.S.
-Shooter & Action
-Call of Duty (Activision)
-Halo (Xbox Game Studios)
-Doom (id Software / Bethesda)
-Destiny (Bungie)
-Battlefield (EA DICE – U.S. published)
-Gears of War (The Coalition / Xbox Game Studios)
-Overwatch (Blizzard)
-Borderlands (Gearbox)
-Wolfenstein (MachineGames / Bethesda)
-The Division (Ubisoft – U.S. dev team involvement)
-The Elder Scrolls (Bethesda)
-Fallout (Bethesda / Obsidian involvement)
-Mass Effect (BioWare / EA)
-Dragon Age (BioWare / EA)
-The Witcher (CD Projekt Red – not U.S., but very popular in U.S.)
-Cyberpunk 2077 (same deal as above)
-Baldur’s Gate (Larian – Belgian devs, but huge U.S. impact)
-Starfield (Bethesda)
-Open World / Sandbox
-Grand Theft Auto (GTA) (Rockstar)
-Red Dead Redemption (Rockstar)
-Saints Row (Volition)
-Watch Dogs (Ubisoft – Montreal, but big in U.S.)
-Resident Evil (Capcom – Japanese dev, but iconic in U.S.)
-Dead Space (Motive Studio / EA)
-The Last of Us (Naughty Dog)
-Silent Hill (Konami – again, Japan dev but big U.S. love)
-Alan Wake (Remedy / Epic Games involvement)
-Sonic the Hedgehog (SEGA – Japan dev, strong U.S. legacy)
-Crash Bandicoot (Naughty Dog / Activision)
-Spyro the Dragon (Insomniac / Activision)
-LEGO Games (TT Games / Warner Bros.)
-Mortal Kombat (NetherRealm)
-WWE 2K (2K / Visual Concepts)
-NBA 2K (2K Sports)
-Madden NFL (EA Sports)
-FIFA / EA FC (EA Sports – international devs, U.S. player base)
-UFC (EA Sports)
-xenoblade
-Skate (EA)
-Forza (Playground Games / Turn 10 – Xbox Studios)
-Gran Turismo (Polyphony – Japanese dev, strong in U.S.)
-Need for Speed (EA)
-Civilization (Firaxis)
-XCOM (Firaxis)
-SimCity (Maxis)
-The Sims (Maxis / EA)
-World of Warcraft (Blizzard)
-Elder Scrolls Online (Zenimax Online)
-Star Wars: The Old Republic (BioWare)
-Fortnite (Epic Games)
-## OTHER GAMES:
-https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
-https://composercode.com/video-game-composers/
-Tetris Attack, Lufia II, Panzer Dragoon Saga, Jet Set Radio (technically 2000 JP)
-Kirby’s Super Star by absolute banger of a medley-style soundtrack
-Star Fox 64, Wave Race 64, Ridge Racer Type 4
-
-
+- Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
+- Star Fox
+- Pokemon
+- Kirby
+- Tetris Attack
+- Lufia II
+- Panzer Dragoon Saga
+- Jet Set Radio 
+- Donkey Kong
+- Banjo Kajooie
+- Yooka Laylee
+- Katamari
+- https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
+- https://composercode.com/video-game-composers/
 
 ## 1985
 
@@ -228,6 +117,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 - [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Final Fantasy Tactics](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto) and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
+- [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo) and Hajime Wakai
 - [Yoshi's Story](https://en.wikipedia.org/wiki/Yoshi%27s_Story) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Castlevania: Symphony of the Night](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane)
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
@@ -286,6 +176,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 - [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano)
 - [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
+- [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) by Masami Ueda, Masato Kohda, and Misao Senbongi
 - [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
 - [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
 - [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), Shogo Sakai, Tadashi Ikegami, and Takuto Kitsuta
@@ -316,6 +207,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer))
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [Phoenix Wright: Ace Attorney – Justice for All](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Justice_for_All) by Naoto Tanaka
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [The Legend of Zelda: A Link to the Past and Four Swords](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past_and_Four_Swords) by Yuko Takehara
@@ -339,6 +231,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Mario & Luigi: Superstar Saga](https://en.wikipedia.org/wiki/Mario_%26_Luigi:_Superstar_Saga) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [F-Zero GX](https://en.wikipedia.org/wiki/F-Zero_GX) by [Hidenori Shoji](https://en.wikipedia.org/wiki/Hidenori_Shoji) and [Daiki Kasho](https://en.wikipedia.org/wiki/Daiki_Kasho)
 - [Viewtiful Joe](https://en.wikipedia.org/wiki/Viewtiful_Joe_(video_game)) by Masakazu Sugimori and Masami Ueda
+- [Devil May Cry 2](https://en.wikipedia.org/wiki/Devil_May_Cry_2) by Masato Kohda, [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata), and Satoshi Ise
 - [WarioWare, Inc.: Mega Party Games!](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Party_Games!) by Masanobu Matsunaga and Kenichi Nishimaki
 - [WarioWare, Inc.: Mega Microgames!](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Microgames!) by Ryoji Yoshitomi and Kyoko Miyamoto
 - [Final Fantasy Crystal Chronicles](https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles_(video_game)) by [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka) and Hidenori Iwasaki
@@ -362,6 +255,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Ratchet & Clank: Up Your Arsenal](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Up_Your_Arsenal) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Minako Hamano
 - [Metroid Prime 2: Echoes](https://en.wikipedia.org/wiki/Metroid_Prime_2:_Echoes) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964))
+- [Phoenix Wright: Ace Attorney – Trials and Tribulations](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Trials_and_Tribulations) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
 - Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
 - Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
 - [Halo 2](https://en.wikipedia.org/wiki/Halo_2) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
@@ -392,20 +286,14 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
 - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
 - [Ratchet: Deadlocked](https://en.wikipedia.org/wiki/Ratchet:_Deadlocked) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
-- God of War by Gerard Marino, Ron Fish
-- Resident Evil 4 by Misao Senbongi, Shusaku Uchiyama
-- Psychonauts by Peter McConnell
+- [Resident Evil 4](https://en.wikipedia.org/wiki/Resident_Evil_4) by Misao Senbongi and Shusaku Uchiyama
+- [Psychonauts](https://en.wikipedia.org/wiki/Psychonauts) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 - [Kingdom Hearts II](https://en.wikipedia.org/wiki/Kingdom_Hearts_II) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton) by Koichi Kyuma and Yuichi Ozaki
-- Call of Duty 2 by Graeme Revell
-- Phoenix Wright: Ace Attorney by Masakazu Sugimori
-- Guitar Hero by Cover Artists / Harmonix
-- We Love Katamari by Yuu Miyake & friends
-- Devil May Cry 3 by Tetsuya Shibata
-- God of War
-- Shadow of the Colussus
-- Call of Duty 2
-- We Love Katamari
+- [Call of Duty 2](https://en.wikipedia.org/wiki/Call_of_Duty_2) by [Graeme Revell](https://en.wikipedia.org/wiki/Graeme_Revell)
+- ([We Love Katamari](https://en.wikipedia.org/wiki/We_Love_Katamari)) by [Yuu Miyake](https://en.wikipedia.org/wiki/Yuu_Miyake), Yuri Misumi, Hiroshi Okubo, Masashi Sugiyama, Katsuro Tajima, Akitaka Toyama, and Yoshihito Yano
+- [Devil May Cry 3: Dante's Awakening](https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening) by [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata)
+- [Shadow of the Colussus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
 - Radiata Stories	
 - Indigo Prophecy
 - Perfect Dark Zero
@@ -414,7 +302,6 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - Nintendogs
 - Romancing SaGa
 - Jade Empire
-- Drakengard 2
 - Grandia III
 - X-Men Legends II: Rise of Apocalpyse
 - Dungeon Siege II
@@ -467,6 +354,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [The Legend of Zelda: Phantom Hourglass](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Phantom_Hourglass) by Kenta Nagata and [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi)
 - [Metroid Prime 3: Corruption](https://en.wikipedia.org/wiki/Metroid_Prime_3:_Corruption) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)), Minako Hamano, and Masaru Tajima
 - [Super Paper Mario](https://en.wikipedia.org/wiki/Super_Paper_Mario) by Naoko Mitome, Chika Sekigawa, and Yasuhisa Baba
+- [Apollo Justice: Ace Attorney](https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney) by Toshihiko Horiyama and Hideki Okugawa
 - [Heavenly Sword](https://en.wikipedia.org/wiki/Heavenly_Sword) by [Nitin Sawhney](https://en.wikipedia.org/wiki/Nitin_Sawhney)
 - [Uncharted: Drake's Fortune](https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune) by [Greg Edmonson](https://en.wikipedia.org/wiki/Greg_Edmonson)
 - [Warhawk](https://en.wikipedia.org/wiki/Warhawk_(2007_video_game)) by [Christopher Lennertz](https://en.wikipedia.org/wiki/Christopher_Lennertz) and [Timothy Michael Wynn](https://en.wikipedia.org/wiki/Tim_Wynn)
@@ -484,6 +372,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams), Nobuko Toda, Shuichi Kobori, and Kazuma Jinnouchi
 - [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) by [Michael Hunter](https://en.wikipedia.org/wiki/Michael_Hunter_(composer))
 - [World of Warcraft: Wrath of the Lich King](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, and Glenn Stafford
+- [Devil May Cry 4](https://en.wikipedia.org/wiki/Devil_May_Cry_4) by [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata), Kento Hasegawa, and [Akihiko Narita](https://en.wikipedia.org/wiki/Akihiko_Narita)
 - [Valkyrie Profile: Covenant of the Plume](https://en.wikipedia.org/wiki/Valkyrie_Profile:_Covenant_of_the_Plume) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo) by  by Kyle Gabler
 - [Assassin's Creed: Altaïr's Chronicles](https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Alta%C3%AFr%27s_Chronicles) by Mathieu Vachon
@@ -622,6 +511,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 
 - [Drakengard 3](https://en.wikipedia.org/wiki/Drakengard_3) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Keigo Hoashi, Sho Ishihama, and Kuniyuki Takahashi
 - [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken) and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [DmC: Devil May Cry](https://en.wikipedia.org/wiki/DmC:_Devil_May_Cry) by [Noisia](https://en.wikipedia.org/wiki/Noisia) and [Combichrist](https://en.wikipedia.org/wiki/Combichrist)
 - [Crysis 3](https://en.wikipedia.org/wiki/Crysis_3) by [Borislav Slavov](https://en.wikipedia.org/wiki/Borislav_Slavov) and Peter Antovszki
 - [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us) by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)
 - [BioShock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) by [Garry Schyman](https://en.wikipedia.org/wiki/Garry_Schyman)
@@ -635,6 +525,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Puppeteer](https://en.wikipedia.org/wiki/Puppeteer_(video_game)) by [Patrick Doyle](https://en.wikipedia.org/wiki/Patrick_Doyle)
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Lightning Returns: Final Fantasy XIII](https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), Mitsuto Suzuki, and [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
+- [Phoenix Wright: Ace Attorney – Dual Destinies](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Dual_Destinies) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
 - [God of War: Ascension](https://en.wikipedia.org/wiki/God_of_War:_Ascension) by [Tyler Bates](https://en.wikipedia.org/wiki/Tyler_Bates)
 - [Super Mario 3d World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Luigi's Mansion: Dark Moon](https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon) by Chad York, Darren Radtke, and Mike Peacock
@@ -708,6 +599,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [Valkyrie Anatomia](https://en.wikipedia.org/wiki/Valkyrie_Anatomia) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
+- [Phoenix Wright: Ace Attorney – Spirit of Justice](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Spirit_of_Justice) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare), Toshihiko Horiyama, and Masami Onodera
 - [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Adventures of Mana](https://en.wikipedia.org/wiki/Adventures_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
 - [Skylanders: Imaginators](https://en.wikipedia.org/wiki/Skylanders:_Imaginators) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
@@ -766,6 +658,7 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 - [A Plague Tale: Innocence](https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence) by [Olivier Deriviere](https://en.wikipedia.org/wiki/Olivier_Deriviere)
 - [Bloodstained: Ritual of the Night](https://en.wikipedia.org/wiki/Bloodstained:_Ritual_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane), Keisuke Ito, and Ryusuke Fujioka
 - [Katana ZERO](https://en.wikipedia.org/wiki/Katana_Zero) by Thijs Lodewijk and Bill Kiley
+- [Devil May Cry 5](https://en.wikipedia.org/wiki/Devil_May_Cry_5) by Kota Suzuki, Hiromitsu Maeba, and Yoshiya Terayama
 - [Baba Is You](https://en.wikipedia.org/wiki/Baba_Is_You) by Arvi Teikari
 - [13 Sentinels: Aegis Rim](https://en.wikipedia.org/wiki/13_Sentinels:_Aegis_Rim) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
 - [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) by [Dan Golding](https://en.wikipedia.org/wiki/Dan_Golding) 
