@@ -147,9 +147,6 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 ## 1988
 
 - ([Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
-
-## 1989
-
 - ([Final Fantasy II](https://en.wikipedia.org/wiki/Final_Fantasy_II)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 
 ## 1990
@@ -230,7 +227,6 @@ Star Fox 64, Wave Race 64, Ridge Racer Type 4
 ## 1999
 
 - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) by Dennis Martin and [Takeo Miratsu](https://en.wikipedia.org/wiki/Takeo_Miratsu)
-Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Silent Hill](https://en.wikipedia.org/wiki/Silent_Hill_(video_game)) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
 - [Donkey Kong 64](https://en.wikipedia.org/wiki/Donkey_Kong_64) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
@@ -278,42 +274,26 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2002
 
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
-- The Legend of Zelda: The Wind Waker by Koji Kondo, Kenta Nagata, Hajime Wakai, Toru Minegishi
-- Metroid Prime by Kenji Yamamoto
-- Kingdom Hearts by Yoko Shimomura
-- Grand Theft Auto: Vice City by Various Artists
-- Morrowind (The Elder Scrolls III) by Jeremy Soule
-- Super Mario Sunshine by Koji Kondo
-- TimeSplitters 2 by Graeme Norgate
-- Ratchet & Clank by David Bergeaud
-- Sly Cooper and the Thievius Raccoonus by Ashif Hakik
-- Battlefield 1942 by Joel Eriksson
-- Metroid Prime (GameCube) by Kenji Yamamoto
-- Kingdom Hearts (PS2) by Yoko Shimomura
-- Morrowind (The Elder Scrolls III) (PC/Xbox) by Jeremy Soule
+- [The Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
+- [Metroid Prime](https://en.wikipedia.org/wiki/Metroid_Prime) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Kouichi Kyuma
+- [Kingdom Hearts](https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
+- [Grand Theft Auto: Vice City](https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City) by Lex Horton
+- [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
+- [Super Mario Sunshine](https://en.wikipedia.org/wiki/Super_Mario_Sunshine) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo) and Shinobu Tanaka
+- [TimeSplitters 2](https://en.wikipedia.org/wiki/TimeSplitters_2) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate)
+- [Ratchet & Clank](https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
+- [Sly Cooper and the Thievius Raccoonus](https://en.wikipedia.org/wiki/Sly_Cooper_and_the_Thievius_Raccoonus) by Ashif Hakik
+- [Battlefield 1942](https://en.wikipedia.org/wiki/Battlefield_1942) by Joel Eriksson
 - [The Sims Online](https://en.wikipedia.org/wiki/The_Sims_Online) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer))
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-- Metroid Prime by Kenji Yamamoto
-- Kingdom Hearts by Yoko Shimomura
-- Grand Theft Auto: Vice City by Various Artists
-- Morrowind by Jeremy Soule
-- Super Mario Sunshine by Koji Kondo
-- TimeSplitters 2 by Graeme Norgate
-- Ratchet & Clank by David Bergeaud
-- Sly Cooper by Ashif Hakik
-- Battlefield 1942 by Joel Eriksson
 - [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
-- Metroid Prime
-- The Elder Scrolls III: Morrowind
-- Warcraft III: Reign of Chaos
-- Final Fantasy XI: Online
-- Kingdom Hearts
-- Medal of Honor: Allied Assault
-- Grand Theft Auto: Vice City
-- Nverwinter Nights
-- Super Monkey Ball 2
+- [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos) by Tracy W. Bush, Derek Duke, and Glenn Stafford
+- [Final Fantasy XI: Online](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- [Medal of Honor: Allied Assault](https://en.wikipedia.org/wiki/Medal_of_Honor:_Allied_Assault) by [Michael Giacchino](https://en.wikipedia.org/wiki/Michael_Giacchino)
+- [Neverwinter Nights](https://en.wikipedia.org/wiki/Neverwinter_Nights_(2002_video_game)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule) and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2) by [Hidenori Shoji](https://en.wikipedia.org/wiki/Hidenori_Shoji), Haruyoshi Tomita, and Ryuji Iuchi
 
 ## 2003
 
@@ -342,7 +322,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Fable](https://en.wikipedia.org/wiki/Fable_(2004_video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer)) and [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman)
 - [Hitman: Contracts](https://en.wikipedia.org/wiki/Hitman:_Contracts) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
-- World of Warcraft by Jason Hayes & team
+- [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) by Jason Hayes & team
 - Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
 - Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
 - Halo 2 by Martin O'Donnell
@@ -409,6 +389,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2006
 
 - [Hitman: Blood Money](https://en.wikipedia.org/wiki/Hitman:_Blood_Money) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
+- [The Elder Scrolls IV: Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - Okami by Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh
 - The Elder Scrolls IV: Oblivion by Jeremy Soule
 - Gears of War by Kevin Riepl
@@ -432,7 +413,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Fantasy Earth: Zero
 - Dirge of Cerberus: Final Fantasy VII
 - Electroplankton
-- Final Fantaxy XII
+- [Final Fantaxy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), [Hayato Matsuo](https://en.wikipedia.org/wiki/Hayato_Matsuo), and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
 - Kingdome Hearts II
 - Valkyried Profile 2: Silmeria
 - Star Wars: Empire at War
@@ -440,6 +421,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 ## 2007
 
 - Super Mario Galaxy by Mahito Yokota, Koji Kondo
+- [World of Warcraft: The Burning Crusade](https://en.wikipedia.org/wiki/World_of_Warcraft:_The_Burning_Crusade) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), [Matt Uelmen](https://en.wikipedia.org/wiki/Matt_Uelmen), and Derek Duke
 - Bioshock by Garry Schyman
 - Mass Effect by Jack Wall, Sam Hulick
 - Halo 3 by Martin O'Donnell
@@ -473,6 +455,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Uncharted: Drake's Fortune
 - Warhawk
 - Heroes of Mana
+- [Crisis Core: Final Fantasy VII](https://en.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 - [Halo 3](https://en.wikipedia.org/wiki/Halo_3) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [No More Heroes](https://en.wikipedia.org/wiki/No_More_Heroes_(video_game)) by [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada) and Jun Fukuda
 - [The World Ends with You](https://en.wikipedia.org/wiki/The_World_Ends_with_You) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
@@ -484,6 +467,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)) by [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton), [Kenneth Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), and Mat Clark
 - [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams), Nobuko Toda, Shuichi Kobori, and Kazuma Jinnouchi
 - [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) by [Michael Hunter](https://en.wikipedia.org/wiki/Michael_Hunter_(composer))
+- [World of Warcraft: Wrath of the Lich King](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, and Glenn Stafford
 - [World of Goo](https://en.wikipedia.org/wiki/World_of_Goo) by  by Kyle Gabler
 - [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)) by [Jami Sieber](https://en.wikipedia.org/wiki/Jami_Sieber), [Shira Kammen](https://en.wikipedia.org/wiki/Shira_Kammen), and [Cheryl Ann Fulton](https://en.wikipedia.org/wiki/Cheryl_Ann_Fulton)
 - [Left 4 Dead](https://en.wikipedia.org/wiki/Left_4_Dead) by [Mike Morasky](https://en.wikipedia.org/wiki/Mike_Morasky)
@@ -493,6 +477,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Kingdom Hearts: Coded](https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), and Mariko Nanba
 - [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
+- [Final Fantasy IV: The After Years](https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years) by [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano)
 - [The Last Remnant](https://en.wikipedia.org/wiki/The_Last_Remnant) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Yasuhiro Yamanaka
 
 ## 2009
@@ -528,11 +513,13 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Donkey Kong Country Returns](https://en.wikipedia.org/wiki/Donkey_Kong_Country_Returns) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)), Minako Hamano, Masaru Tajima, Shinji Ushiroda, and Daisuke Matsuoka
 - [Vanquish](https://en.wikipedia.org/wiki/Vanquish_(video_game)) by Erina Niwa, [Masafumi Takada](https://en.wikipedia.org/wiki/Masafumi_Takada), and Masakazu Sugimori
 - [Xenoblade Chronicles](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)) by Manami Kiyota, ACE, Kenji Hiramatsu, [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), and [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
+- [World of Warcraft: Cataclysm](https://en.wikipedia.org/wiki/World_of_Warcraft:_Cataclysm) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [David Arkenstone](https://en.wikipedia.org/wiki/David_Arkenstone), Derek Duke, and Glenn Stafford
 - [Heavy Rain](https://en.wikipedia.org/wiki/Heavy_Rain) by [Normand Corbeil](https://en.wikipedia.org/wiki/Normand_Corbeil)
 - [Fable III](https://en.wikipedia.org/wiki/Fable_III) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Halo: Reach](https://en.wikipedia.org/wiki/Halo:_Reach) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) by [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Glenn Stafford, and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Kirby's Epic Yarn](https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn) by Tomoya Tomita, Akihiro Juichiya, Soshiro Hokka, Tadashi Ikegami, [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Hirokazu Ando
+- [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken) and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Ni no Kuni: Dominion of the Dark Djinn](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Dominion_of_the_Dark_Djinn) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi) and Rei Kondoh
 - [Civilization V](https://en.wikipedia.org/wiki/Civilization_V) by Michael Curran and [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr)
 - [Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
@@ -586,6 +573,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [The Walking Dead](https://en.wikipedia.org/wiki/The_Walking_Dead_(video_game)) by [Jared Emerson-Johnson](https://en.wikipedia.org/wiki/Jared_Emerson-Johnson)
 - [Gravity Rush](https://en.wikipedia.org/wiki/Gravity_Rush) by [Kohei Tanaka](https://en.wikipedia.org/wiki/Kohei_Tanaka_(composer))
 - [Dishonored](https://en.wikipedia.org/wiki/Dishonored) by [Daniel Licht](https://en.wikipedia.org/wiki/Daniel_Licht)
+- [World of Warcraft: Mists of Pandaria](https://en.wikipedia.org/wiki/World_of_Warcraft:_Mists_of_Pandaria) by [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), and [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Dragon Quest X](https://en.wikipedia.org/wiki/Dragon_Quest_X) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Bravely Default](https://en.wikipedia.org/wiki/Bravely_Default) by [Revo](https://en.wikipedia.org/wiki/Sound_Horizon)
 - [Boderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
@@ -624,6 +612,8 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online) by Brad Derrick
 - [Fantasia: Music Evolved](https://en.wikipedia.org/wiki/Fantasia:_Music_Evolved) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Tropico 5](https://en.wikipedia.org/wiki/Tropico_5)
+- [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
+- [World of Warcraft: Warlords of Draenor](https://en.wikipedia.org/wiki/World_of_Warcraft:_Warlords_of_Draenor) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian), Sam Cardon, Craig Stuart Garfinkle, Edo Guidotti, and Eimear Noone
 - Transistor by Darren Korb
 - Child of Light by C≈ìur de Pirate
 - Shovel Knight by Jake Kaufman
@@ -640,7 +630,6 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - Destiny
 - Rise of Mana
 - Final Fantasy XIV: A Realm Reborn
-- Hearthstone
 - Far Cry 4
 - The Last of Us
 - Dragon Age: Inquisition
@@ -676,6 +665,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Hyper Light Drifter](https://en.wikipedia.org/wiki/Hyper_Light_Drifter) by [Disasterpeace](https://en.wikipedia.org/wiki/Disasterpeace) and Akash Thakkar
 - [Inside](https://en.wikipedia.org/wiki/Inside_(video_game)) by [Martin Stig Andersen](https://en.wikipedia.org/wiki/Martin_Stig_Andersen) and Søs Gunver Ryberg
 - [Abzû](https://en.wikipedia.org/wiki/Abz%C3%BB) by [Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory)
+- [World of Warcraft: Legion](https://en.wikipedia.org/wiki/World_of_Warcraft:_Legion) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), and [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian)
 - [Titanfall 2](https://en.wikipedia.org/wiki/Titanfall_2) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton)
 - [Thumper](https://en.wikipedia.org/wiki/Thumper_(video_game)) by Brian Gibson
 - [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
@@ -720,6 +710,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Red Dead Redemtion 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) by [Woody Jackson](https://en.wikipedia.org/wiki/Woody_Jackson)
 - [God of War](https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)) by [Bear McCreary](https://en.wikipedia.org/wiki/Bear_McCreary)
+- [World of Warcraft: Battle for Azeroth](https://en.wikipedia.org/wiki/World_of_Warcraft:_Battle_for_Azeroth)
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect) by Noboru Mutoh
 - [Hitman 2](https://en.wikipedia.org/wiki/Hitman_2_(2018_video_game)) by Niels Bye Nielsen
 
@@ -755,6 +746,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Assassin's Creed Valhalla](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sarah Schachner](https://en.wikipedia.org/wiki/Sarah_Schachner), and [Einar Selvik](https://en.wikipedia.org/wiki/Einar_Selvik)
 - [Spider-Man: Miles Morales](https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales) by [John Paesano](https://en.wikipedia.org/wiki/John_Paesano)
 - [Calico](https://en.wikipedia.org/wiki/Calico_(video_game)) by Star Victoria Power (Slide20XX)
+- [World of Warcraft: Shadowlands](https://en.wikipedia.org/wiki/World_of_Warcraft:_Shadowlands)
 - [Haven](https://en.wikipedia.org/wiki/Haven_(video_game)) by [Danger](https://en.wikipedia.org/wiki/Danger_(musician))
 - [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 - [Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps) by [Gareth Cooker](https://en.wikipedia.org/wiki/Gareth_Coker)
@@ -805,6 +797,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, Manami Kiyota, Mariam Abounnasr, Yutaka Kunigo
 - [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), and [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
 - [Metal: Hellsinger](https://en.wikipedia.org/wiki/Metal:_Hellsinger) by Two Feathers
+- [World of Warcraft: Dragonflight](https://en.wikipedia.org/wiki/World_of_Warcraft:_Dragonflight) by Glenn Stafford, Jake Lefkowitz, [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), and [David Arkenstone](https://en.wikipedia.org/wiki/David_Arkenstone)
 - [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island) by [Michael Land](https://en.wikipedia.org/wiki/Michael_Land), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), and [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian)
 - [Sonic Frontiers](https://en.wikipedia.org/wiki/Sonic_Frontiers) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Kenichi Tokoi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), Rintaro Soma, Kenji Mizuno, Kanon Oguni, and [Hiroshi Kawaguchi](https://en.wikipedia.org/wiki/Hiroshi_Kawaguchi_(composer))
 - [Teenage Mutant Ninja Turtles: Shredder's Revenge](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Shredder%27s_Revenge) by [Tee Lopes](https://en.wikipedia.org/wiki/Tee_Lopes)
@@ -861,6 +854,7 @@ Final Fantasy VIII by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu
 - [Star Wars: Outlaws](https://en.wikipedia.org/wiki/Star_Wars_Outlaws) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II), [Jon Everist](https://en.wikipedia.org/wiki/Jon_Everist), and Kazuma Jinnouchi
 - [Helldivers 2](https://en.wikipedia.org/wiki/Helldivers_2) by [Wilbert Roget II](https://en.wikipedia.org/wiki/Wilbert_Roget_II)
 - [Quidditch Champions](https://en.wikipedia.org/wiki/Harry_Potter:_Quidditch_Champions)
+- [World of Warcraft: The War Within](https://en.wikipedia.org/wiki/World_of_Warcraft:_The_War_Within)
 - Nordic Ashes: Survivors of Ragnarok by Rubén Melià
 - [Persona 3 Reload]() by Shoji Meguro
 - [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
