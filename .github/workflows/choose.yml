@@ -22,8 +22,8 @@ jobs:
       # Runs a single command using the runners shell
       - name:  choose_ost
         run: |
-          ost=$(grep "- " README.md | \
-            grep -v "- (" | \
-            shuffle | \
+          ost=$(grep "\- " README.md | \
+            grep -v "\- (" | \
+            sort --random-sort | \
             head -n 1)
           echo "The ost is $ost"
