@@ -215,7 +215,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Legend of Zelda: The Wind Waker](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker) by Kenta Nagata, Hajime Wakai, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Hitman 2: Silent Assassin](https://en.wikipedia.org/wiki/Hitman_2:_Silent_Assassin) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [Phoenix Wright: Ace Attorney – Justice for All](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Justice_for_All) by Naoto Tanaka
-- [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and Kevin McMullan
 - [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Kumi Tanioka](https://en.wikipedia.org/wiki/Kumi_Tanioka), and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [The Legend of Zelda: A Link to the Past and Four Swords](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past_and_Four_Swords) by Yuko Takehara
 - [Warcraft III: Reign of Chaos](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos) by Tracy W. Bush, Derek Duke, and Glenn Stafford
@@ -378,7 +377,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Fable II](https://en.wikipedia.org/wiki/Fable_II) by [Danny Elfman](https://en.wikipedia.org/wiki/Danny_Elfman) and [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Kingdom Hearts: Coded](https://en.wikipedia.org/wiki/Kingdom_Hearts_Coded) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Sonic Unleashed](https://en.wikipedia.org/wiki/Sonic_Unleashed) by [Tomoya Ohtani](https://en.wikipedia.org/wiki/Tomoya_Ohtani), Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi), and Mariko Nanba
-- [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Final Fantasy IV: The After Years](https://en.wikipedia.org/wiki/Final_Fantasy_IV:_The_After_Years) by [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano)
 - [The Last Remnant](https://en.wikipedia.org/wiki/The_Last_Remnant) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Yasuhiro Yamanaka
 
@@ -401,7 +399,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Dragon Quest IX](https://en.wikipedia.org/wiki/Dragon_Quest_IX) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Tomb Raider: Underworld](https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld) by [Colin O'Malley](https://en.wikipedia.org/wiki/Colin_O%27Malley) and [Troels Brun Folmann](https://en.wikipedia.org/wiki/Troels_Brun_Folmann)
 - [The Legend of Zelda: Spirit Tracks](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Manaka Kataoka, Asuka Hayazaki, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
-- [Final Fantasy XIII](https://en.wikipedia.org/wiki/Final_Fantasy_XIII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Kingdom Hearts 358/2 Days](https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
 - [Borderlands](https://en.wikipedia.org/wiki/Borderlands_(video_game)) by [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), and Raison Varner
@@ -426,14 +423,11 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Halo: Reach](https://en.wikipedia.org/wiki/Halo:_Reach) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [StarCraft II: Wings of Liberty](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) by [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Glenn Stafford, and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Kirby's Epic Yarn](https://en.wikipedia.org/wiki/Kirby%27s_Epic_Yarn) by Tomoya Tomita, Akihiro Juichiya, Soshiro Hokka, Tadashi Ikegami, [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Hirokazu Ando
-- [Final Fantasy XIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV) by [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken) and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Ni no Kuni: Dominion of the Dark Djinn](https://en.wikipedia.org/wiki/Ni_no_Kuni:_Dominion_of_the_Dark_Djinn) by [Joe Hisaishi](https://en.wikipedia.org/wiki/Joe_Hisaishi) and Rei Kondoh
 - [Civilization V](https://en.wikipedia.org/wiki/Civilization_V) by Michael Curran and [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr)
 - [Fallout: New Vegas](https://en.wikipedia.org/wiki/Fallout:_New_Vegas) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
-- [Mass Effect 2](https://en.wikipedia.org/wiki/Mass_Effect_2) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer)), [Jimmy Hinson](https://en.wikipedia.org/wiki/Big_Giant_Circles), Sam Hulick, and David Kates
 - [Kingdom Hearts Birth by Sleep](https://en.wikipedia.org/wiki/Kingdom_Hearts_Birth_by_Sleep) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito), and [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 - [Assassin's Creed: Brotherhood](https://en.wikipedia.org/wiki/Assassin%27s_Creed:_Brotherhood) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
-- [Super Mario Galaxy 2](https://en.wikipedia.org/wiki/Super_Mario_Galaxy_2) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), Ryo Nagamatsu, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Lost in Shadow](https://en.wikipedia.org/wiki/Lost_in_Shadow) by Takasi Watanabe
 - [Metroid: Other M](https://en.wikipedia.org/wiki/Metroid:_Other_M) by [Kuniaki Haishima](https://en.wikipedia.org/wiki/Kuniaki_Haishima)
 - [Epic Mickey](https://en.wikipedia.org/wiki/Epic_Mickey) by [James Dooley](https://en.wikipedia.org/wiki/James_Dooley_(composer))
@@ -549,10 +543,8 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Rise of Mana](https://en.wikipedia.org/wiki/Rise_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
 - [Far Cry 4](https://en.wikipedia.org/wiki/Far_Cry_4) by [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition) by [Trevor Morris](https://en.wikipedia.org/wiki/Trevor_Morris_(musician)), [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur), and Ted Reedy
-- [Transistor](https://en.wikipedia.org/wiki/Transistor_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 - [Wolfenstein: The New Order](https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 - [Mario Kart 8](https://en.wikipedia.org/wiki/Mario_Kart_8) by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata, and Kenta Nagata
-- [Shovel Knight](https://en.wikipedia.org/wiki/Shovel_Knight) by [Jake Kaufman](https://en.wikipedia.org/wiki/Jake_Kaufman) and [Manami Matsumae](https://en.wikipedia.org/wiki/Manami_Matsumae)
 
 ## 2015
 
@@ -620,7 +612,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Xenoblade Chronicles 2](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, and Manami Kiyota
 - [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice) by David García and [Andy LaPlegua](https://en.wikipedia.org/wiki/Andy_LaPlegua)
 - [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) by Naoto Kubo, Shiho Fujii, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
-- [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Dragon Quest XI](https://en.wikipedia.org/wiki/Dragon_Quest_XI) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Splatoon 2](https://en.wikipedia.org/wiki/Splatoon_2) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Ryo Nagamatsu, and Shiho Fujii
 
@@ -761,7 +752,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Tchia](https://en.wikipedia.org/wiki/Tchia) by John Robert Matz
 - [Planet of Lana](https://en.wikipedia.org/wiki/Planet_of_Lana) by [Takeshi Furukawa](https://en.wikipedia.org/wiki/Takeshi_Furukawa)
 - [Star Wars Jedi: Survivor](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Survivor) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton) and [Gordy Haab](https://en.wikipedia.org/wiki/Gordy_Haab)
-- [Hitman 3](https://en.wikipedia.org/wiki/Hitman_3) by Niels Bye Nielsen
 - [Disney Illusion Island](https://en.wikipedia.org/wiki/Disney_Illusion_Island) by David Housden
 - [Assassins Creed Mirage](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage) by [Brendan Angelides](https://en.wikipedia.org/wiki/Brendan_Angelides)
 - [Humanity](https://en.wikipedia.org/wiki/Humanity_(video_game)) by Jemapur
