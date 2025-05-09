@@ -1,9 +1,6 @@
-# I know github is not really for blogging
-but... I don't want to create a blog...
+# List of video game soundtracks by year
 
 Below is a incomplete list of video game soundtracks that I think are great to listen to while I work. Mostly they lack vocals and can provide 3+ hours of background noise. `()` is indicative that I need to be in a certain mood to enjoy the OST.
-
-Also, I want a place to save my list because sometimes I forget games when I redo my youtube playlist (youtube only allows 5000 songs per playlist)
 
 ## TBA 
 
@@ -260,36 +257,27 @@ Also, I want a place to save my list because sometimes I forget games when I red
 - [Kingdom Hearts: Chain of Memories](https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [The Legend of Zelda: Four Swords Adventures](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo) and Asuka Ota
 - [The Legend of Zelda: The Minish Cap](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Minish_Cap) by Mitsuhiko Takano
-- Metal Gear Solid 3: Snake Eater (PS2) by Harry Gregson-Williams, Norihiko Hibino
+- [Metal Gear Solid 3: Snake Eater](https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater) by Ha[rry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) by Jason Hayes & team
 - [Ratchet & Clank: Up Your Arsenal](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Up_Your_Arsenal) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Minako Hamano
 - [Metroid Prime 2: Echoes](https://en.wikipedia.org/wiki/Metroid_Prime_2:_Echoes) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964))
 - [Phoenix Wright: Ace Attorney – Trials and Tribulations](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Trials_and_Tribulations) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
-- Katamari Damacy by Yuu Miyake, Masayuki Tanaka, others
-- Metal Gear Solid 3: Snake Eater by Harry Gregson-Williams, Norihiko Hibino
+- [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy) by [Yuu Miyake](https://en.wikipedia.org/wiki/Yuu_Miyake), Asuka Sakai, Akitaka Tohyama, Hideki Tobeta, Yoshihito Yano, and Yuri Misumi
 - [Halo 2](https://en.wikipedia.org/wiki/Halo_2) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
-- Half-Life 2 by Kelly Bailey
+- [Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2) by [Kelly Bailey](https://en.wikipedia.org/wiki/Kelly_Bailey_(composer))
 - [Paper Mario: The Thousand-Year Door](https://en.wikipedia.org/wiki/Paper_Mario:_The_Thousand-Year_Door) by Yoshito Hirano and [Yuka Tsujiyoko](https://en.wikipedia.org/wiki/Yuka_Tsujiyoko)
-- Silent Hill 4: The Room by Akira Yamaoka
-- Final Fantasy XI: Chains of Promathia by[Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), Kumi Tanioka
-- The Urbz: Sims in the City by The Black Eyed Peas (Simlish!) + EA composers
-- Burnout 3: Takedown by Various Artists
-- Half-Life 2
-- Dragon Quest VIII
-- Ninja Gaiden
-- Katamari Damacy
-- Doom 3
-- Dragon Quest VIII
+- [Silent Hill 4: The Room](https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room) by Akira Yamaoka
+- [Burnout 3: Takedown](https://en.wikipedia.org/wiki/Burnout_3:_Takedown) by Stephen Root
+- [Dragon Quest VIII](https://en.wikipedia.org/wiki/Dragon_Quest_VIII) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
+- [Ninja Gaiden](https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)) by Ryo Koike, Wakana Hara, and Makoto Hosoi
+- [Doom 3](https://en.wikipedia.org/wiki/Doom_3) by Ed Lima
 - [Pikmin 2](https://en.wikipedia.org/wiki/Pikmin_2) by Hajime Wakai and [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [The Sims 2](https://en.wikipedia.org/wiki/The_Sims_2) by [Jerry Martin](https://en.wikipedia.org/wiki/Jerry_Martin_(composer)) and [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh)
 - [EverQuest II](https://en.wikipedia.org/wiki/EverQuest_II)
-- City of Heroes
-- Fable
-- The Bard's Tale
-- Sin Megami Tensei: Noturne
-- X-Men Legends
-- Jade Empire
+- [The Bard's Tale](https://en.wikipedia.org/wiki/The_Bard%27s_Tale_(2004_video_game)) by [Tommy Tallarico](https://en.wikipedia.org/wiki/Tommy_Tallarico), [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian), [Jared Emerson-Johnson](https://en.wikipedia.org/wiki/Jared_Emerson-Johnson), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), and [Michael Land](https://en.wikipedia.org/wiki/Michael_Land)
+- [Shin Megami Tensei III: Nocturne](https://en.wikipedia.org/wiki/Shin_Megami_Tensei_III:_Nocturne) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro), Toshiko Tasaki, and Kenichi Tsuchiya
+- [X-Men Legends](https://en.wikipedia.org/wiki/X-Men_Legends) by [Rik Schaffer](https://en.wikipedia.org/wiki/Rik_Schaffer)
 
 ## 2005
 
