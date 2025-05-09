@@ -395,7 +395,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Star Ocean: The Last Hope](https://en.wikipedia.org/wiki/Star_Ocean:_The_Last_Hope) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Bayonetta](https://en.wikipedia.org/wiki/Bayonetta_(video_game)) by [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino), [Takahiro Izutani](https://en.wikipedia.org/wiki/Takahiro_Izutani), Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki, and Naoto Tanaka
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
-- [Flower](https://en.wikipedia.org/wiki/Flower_(video_game))
 - [Dragon Quest IX](https://en.wikipedia.org/wiki/Dragon_Quest_IX) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Tomb Raider: Underworld](https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld) by [Colin O'Malley](https://en.wikipedia.org/wiki/Colin_O%27Malley) and [Troels Brun Folmann](https://en.wikipedia.org/wiki/Troels_Brun_Folmann)
 - [The Legend of Zelda: Spirit Tracks](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Manaka Kataoka, Asuka Hayazaki, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
@@ -773,6 +772,8 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 ## 2024
 
+(Still going through all of these)
+
 - [Final Fantasy VII Rebirth](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Rebirth) by Mitsuto Suzuki, [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Astro Bot](https://en.wikipedia.org/wiki/Astro_Bot) by [Kenneth C. M. Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer))
 - [Metaphor:_ReFantazio](https://en.wikipedia.org/wiki/Metaphor:_ReFantazio) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
@@ -807,7 +808,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Flock]()
 - [Tekken 8]()
 - [Indiana Jones and the Great Circle]()
-- [Arco](https://en.wikipedia.org/wiki/Arco_(video_game)) by José Ramón "Bibiki" García
 - [Crow Country]()
 - [Egg Squeeze]()
 - [Wilmot Works It Out]()
