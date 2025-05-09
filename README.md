@@ -304,20 +304,16 @@ Also, I want a place to save my list because sometimes I forget games when I red
 - ([We Love Katamari](https://en.wikipedia.org/wiki/We_Love_Katamari)) by [Yuu Miyake](https://en.wikipedia.org/wiki/Yuu_Miyake), Yuri Misumi, Hiroshi Okubo, Masashi Sugiyama, Katsuro Tajima, Akitaka Toyama, and Yoshihito Yano
 - [Devil May Cry 3: Dante's Awakening](https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening) by [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata)
 - [Shadow of the Colussus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
-- Radiata Stories	
-- Indigo Prophecy
-- Perfect Dark Zero
-- Musashi: Samurai Legend
-- Lumines
-- Nintendogs
-- Romancing SaGa
-- Jade Empire
-- Grandia III
-- X-Men Legends II: Rise of Apocalpyse
-- Dungeon Siege II
-- Star Wars Knights of the Old Republic II: The Sith Lords
-- Civilization IV
-- Spore
+- [Radiata Stories](https://en.wikipedia.org/wiki/Radiata_Stories) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
+- [Indigo Prophecy](https://en.wikipedia.org/wiki/Fahrenheit_(2005_video_game)) by [Angelo Badalamenti](https://en.wikipedia.org/wiki/Angelo_Badalamenti), [Normand Corbeil](https://en.wikipedia.org/wiki/Normand_Corbeil), and Farid Russlan
+- [Perfect Dark Zero](https://en.wikipedia.org/wiki/Perfect_Dark_Zero) by David Clynick
+- [Musashi: Samurai Legend](https://en.wikipedia.org/wiki/Musashi:_Samurai_Legend) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano), Yuki Iwai, and Takayuki Iwai
+- [Nintendogs](https://en.wikipedia.org/wiki/Nintendogs) by Hajime Wakai
+- [Jade Empire](https://en.wikipedia.org/wiki/Jade_Empire) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer))
+- [Grandia III](https://en.wikipedia.org/wiki/Grandia_III) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
+- [X-Men Legends II: Rise of Apocalpyse](https://en.wikipedia.org/wiki/X-Men_Legends_II:_Rise_of_Apocalypse) by Gregor Narholz
+- [Dungeon Siege II](https://en.wikipedia.org/wiki/Dungeon_Siege_II) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
+- [Civilization IV](https://en.wikipedia.org/wiki/Civilization_IV) by [Jeffery L. Briggs](https://en.wikipedia.org/wiki/Jeff_Briggs) and [Christopher Tin](https://en.wikipedia.org/wiki/Christopher_Tin)
 
 ## 2006
 
@@ -376,10 +372,10 @@ Also, I want a place to save my list because sometimes I forget games when I red
 
 ## 2008
 - [Persona 4](https://en.wikipedia.org/wiki/Persona_4) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
-- [Dead Space](https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
 - [Mirror’s Edge](https://en.wikipedia.org/wiki/Mirror%27s_Edge) by [Solar Fields](https://en.wikipedia.org/wiki/Solar_Fields)
 - [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)) by [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton), [Kenneth Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), and Mat Clark
 - [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams), Nobuko Toda, Shuichi Kobori, and Kazuma Jinnouchi
+- [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) by [Michael Hunter](https://en.wikipedia.org/wiki/Michael_Hunter_(composer))
 - [World of Warcraft: Wrath of the Lich King](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, and Glenn Stafford
 - [Devil May Cry 4](https://en.wikipedia.org/wiki/Devil_May_Cry_4) by [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata), Kento Hasegawa, and [Akihiko Narita](https://en.wikipedia.org/wiki/Akihiko_Narita)
@@ -833,7 +829,7 @@ Also, I want a place to save my list because sometimes I forget games when I red
 - [Flock]()
 - [Tekken 8]()
 - [Indiana Jones and the Great Circle]()
-- [Arco]()
+- [Arco](https://en.wikipedia.org/wiki/Arco_(video_game)) by José Ramón "Bibiki" García
 - [Crow Country]()
 - [Egg Squeeze]()
 - [Wilmot Works It Out]()
