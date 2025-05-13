@@ -1,4 +1,4 @@
-# List of video game soundtracks by year
+#e List of video game soundtracks by year
 
 Below is a incomplete list of video game soundtracks that I think are great to listen to while I work. Mostly they lack vocals and can provide 3+ hours of background noise. `()` is indicative that I need to be in a certain mood to enjoy the OST.
 
@@ -716,7 +716,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [The Diofield Chronicle](https://en.wikipedia.org/wiki/The_Diofield_Chronicle) by [Brandon Campbell](https://en.wikipedia.org/wiki/Brandon_Campbell) and [Ramin Djawadi](https://en.wikipedia.org/wiki/Ramin_Djawadi)
 - ([Vampire Survivors](https://en.wikipedia.org/wiki/Vampire_Survivors) and Daniele Zandara, Filippo Vicarelli, William Davies, and Lorenzo Floro)
 - [Kirby and the Forgotten Land](https://en.wikipedia.org/wiki/Kirby_and_the_Forgotten_Land) and Yuuta Ogasawara, [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), [Jun Ishikawa](https://en.wikipedia.org/wiki/Jun_Ishikawa_(composer)), and Yuki Shimooka
-- [Echoes of Mana](https://en.wikipedia.org/wiki/Echoes_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Ryo Yamazaki
+- ([Echoes of Mana](https://en.wikipedia.org/wiki/Echoes_of_Mana)) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito) and Ryo Yamazaki
 - [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Shiho Fujii, Ryo Nagamatsu, Toshiyuki Sudo, Yumi Takahashi, and Sayako Doi
 - [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda), ACE, Kenji Hiramatsu, Manami Kiyota, Mariam Abounnasr, Yutaka Kunigo
 - [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), and [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
