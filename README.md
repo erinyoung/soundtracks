@@ -673,6 +673,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Haven](https://en.wikipedia.org/wiki/Haven_(video_game)) by [Danger](https://en.wikipedia.org/wiki/Danger_(musician))
 - [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) by [Darren Korb](https://en.wikipedia.org/wiki/Darren_Korb)
 - [Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps) by [Gareth Cooker](https://en.wikipedia.org/wiki/Gareth_Coker)
+- [Coffee Talk](https://en.wikipedia.org/wiki/Coffee_Talk_(video_game))
 - [Deep Rock Galactic](https://en.wikipedia.org/wiki/Deep_Rock_Galactic) by Sophus Alf Agerbæk
 - [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Yasuaki Iwata, Yumi Takahashi, Shinobu Nagata, Sayako Doi, and Masato Ohashi
 - [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima) by [Ilan Eshkeri](https://en.wikipedia.org/wiki/Ilan_Eshkeri) and [Shigeru Umebayashi](https://en.wikipedia.org/wiki/Shigeru_Umebayashi)
