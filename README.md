@@ -1,33 +1,124 @@
-#e List of video game soundtracks by year
+# List of video game soundtracks by year
 
 Below is a incomplete list of video game soundtracks that I think are great to listen to while I work. Mostly they lack vocals and can provide 3+ hours of background noise. `()` is indicative that I need to be in a certain mood to enjoy the OST.
 
 ## TBA 
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
-- Star Fox
-- Pokemon
-- Kirby
-- Tetris Attack
-- Lufia II
-- Panzer Dragoon Saga
-- Jet Set Radio 
-- Donkey Kong
-- Banjo Kajooie
-- Yooka Laylee
-- Katamari
-- Diablo
-- starcraft
-- other blizzard games
-- Xenoblade
-- Sonic
-- Fire Emblem
-- Firaxis
-- Dragon Quest
-- Dragon Age
-- Other square enix games
-- https://en.wikipedia.org/wiki/List_of_video_game_soundtracks_considered_the_best
-- https://composercode.com/video-game-composers/
+Ace Attorney
+Age of Empires
+Assassin's Creed
+Baldur's gate
+Banjo Kazooie
+Batman Arkam
+Bayonetta
+Black and White
+Bravely
+Chrono
+Civilization
+Dark Souls
+Diablo
+Donkey Kong
+Donkey Kong Country
+Dragon Age
+Dragon Quest
+Drakenguard
+Earthworm Jim
+Elder Scrolls
+Ever Quest
+Firaxis
+Fire Emblem
+God of War
+Guacamellee
+Harvest Moon
+Jet Set Radio 
+Katamari
+Kid icarus
+King's Quest
+Kirby
+League of Legenes
+Lego
+Lego Ninjago
+Lucky's Tale
+Lufia II
+Master of Orion
+Monkey Island
+Monster Hunter
+Mortal Combat
+Myst
+Neverwinter Nights
+NieR
+Ninja Gaiden
+Panzer Dragoon Saga
+Pikmin
+Pokemon
+Rayman
+Rune factory
+Runescape
+Sly cooper
+Sonic
+Sonic the Hedgehog
+Soul Caliber
+Spider Man
+Splatoon
+Star Fox
+starcraft
+Story of Seasons
+Super Monkey Ball
+Super Smash Brothers
+Tetris Attack
+Tropico
+Valkyria Chronicles
+Vampire: Masqurade
+X-com
+Xeno
+Xenoblade
+Xenoblade saga
+Xenogear
+Yooka Laylee
+Yoshi
+
+- Video game composers to include all their works in
+Koji Kondo
+Nobuo Uematsu
+Masato Nakamura
+Yoko SHimomura
+Kazumi Totaka
+Junichi Masuda
+Austin Wintory
+Michiru Yamane
+Koichi Sugiyama
+Yasunori Mitsuda
+Mahito Yokota
+Jake Kaufman (virt)
+Hirokazu “Hip” Tanaka
+Toby Fox
+Jason Graves
+Grant Kirkhope
+Inon Zur
+Garry Schyman
+Hiroki Kikuta
+Shoji Meguro
+Winifred Phillips
+Jack Wall
+Gordy Haab
+Cris Velasco
+Kinuyo Yamashita
+Christopher Larkin
+Neal Acree
+Peter McConnell
+Akira Yamaoka
+Yasunori Nishiki
+Matt Kenyon
+Kenta Nagata
+Motoi Sakuraba
+Noriyuki Iwadare
+Yuzo Koshiro
+Jun Senoue
+Tee Lopes
+David Wise
+Hitoshi Sakimoto
+Gareth Coker
 
 ## 1985
 
@@ -47,6 +138,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 ## 1988
 
+- ([Mega Man 2](https://en.wikipedia.org/wiki/Mega_Man_2)) by Takashi Tateishi
 - ([Dragon Quest III](https://en.wikipedia.org/wiki/Dragon_Quest_III)) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - ([Final Fantasy II](https://en.wikipedia.org/wiki/Final_Fantasy_II)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - ([Super Mario Bros. 2](https://en.wikipedia.org/wiki/Super_Mario_Bros._2)) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
@@ -55,6 +147,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 1989
 
 - ([Super Mario Land](https://en.wikipedia.org/wiki/Super_Mario_Land)) by [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
+- ([Tetris](https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game))) by [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
 
 ## 1990
 
@@ -72,6 +165,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) by [Masato Nakamura](https://en.wikipedia.org/wiki/Masato_Nakamura)
 - [Street Fighter II](https://en.wikipedia.org/wiki/Street_Fighter_II) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura) and Isao Abe
+- [Streets of Rage 2](https://en.wikipedia.org/wiki/Streets_of_Rage_2) by [Yuzo Koshiro](https://en.wikipedia.org/wiki/Yuzo_Koshiro) and [Motohiro Kawashima](https://en.wikipedia.org/wiki/Motohiro_Kawashima)
 
 ## 1992
 
@@ -116,6 +210,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) by [Trent Reznor](https://en.wikipedia.org/wiki/Trent_Reznor) and [Nine Inch Nails](https://en.wikipedia.org/wiki/Nine_Inch_Nails)
 - [Pokémon Red, Blue, and Yellow](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow) by Junichi Masuda
 - [Revelations: Persona](https://en.wikipedia.org/wiki/Revelations:_Persona) by Hidehito Aoki, Misaki Okibe, Kenichi Tsuchiya, and [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
+- [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper) by Masaya Matsuura and Yoshihisa Suzuki
 - [Nights into Dreams](https://en.wikipedia.org/wiki/Nights_into_Dreams) by Naofumi Hataya, Tomoko Sasaki, and Fumie Kumatani
 - [Tomb Raider](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)) by [Nathan McCree](https://en.wikipedia.org/wiki/Nathan_McCree)
 - [Star Ocean](https://en.wikipedia.org/wiki/Star_Ocean_(video_game)) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
