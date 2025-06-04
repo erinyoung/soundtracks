@@ -5,7 +5,8 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## TBA 
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
-Ace Attorney
+
+
 Age of Empires
 Assassin's Creed
 Baldur's gate
@@ -79,6 +80,8 @@ Yooka Laylee
 Yoshi
 
 - Video game composers to include all their works in
+
+
 Koji Kondo
 Nobuo Uematsu
 Masato Nakamura
@@ -492,6 +495,7 @@ Gareth Coker
 - [The Sims 3](https://en.wikipedia.org/wiki/The_Sims_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky) and [Pieter Schlosser](https://en.wikipedia.org/wiki/Pieter_Schlosser)
 - [Dragon Quest IX](https://en.wikipedia.org/wiki/Dragon_Quest_IX) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Tomb Raider: Underworld](https://en.wikipedia.org/wiki/Tomb_Raider:_Underworld) by [Colin O'Malley](https://en.wikipedia.org/wiki/Colin_O%27Malley) and [Troels Brun Folmann](https://en.wikipedia.org/wiki/Troels_Brun_Folmann)
+- [Ace Attorney Investigations: Miles Edgeworth](https://en.wikipedia.org/wiki/Ace_Attorney_Investigations:_Miles_Edgeworth) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare) and Yasuko Yamada
 - [The Legend of Zelda: Spirit Tracks](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Spirit_Tracks) by [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), Manaka Kataoka, Asuka Hayazaki, and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Kingdom Hearts 358/2 Days](https://en.wikipedia.org/wiki/Kingdom_Hearts_358/2_Days) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Brutal Legend](https://en.wikipedia.org/wiki/Br%C3%BCtal_Legend) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
@@ -545,6 +549,7 @@ Gareth Coker
 - [Rayman Origins](https://en.wikipedia.org/wiki/Rayman_Origins) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral) and Billy Martin
 - [Dead Space 2](https://en.wikipedia.org/wiki/Dead_Space_2) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
 - [Final Fantasy XIII-2](https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and Mitsuto Suzuki
+- [Ace Attorney Investigations 2: Prosecutor's Gambit](https://en.wikipedia.org/wiki/Ace_Attorney_Investigations_2:_Prosecutor%27s_Gambit) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
 - [Batman: Arkham City](https://en.wikipedia.org/wiki/Batman:_Arkham_City) by Nick Arundel and Ron Fish
 - [Gears of War 3](https://en.wikipedia.org/wiki/Gears_of_War_3) by [Steve Jablonsky](https://en.wikipedia.org/wiki/Steve_Jablonsky)
 - [LittleBigPlanet 2](https://en.wikipedia.org/wiki/LittleBigPlanet_2) by 	[Kenneth C M Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), [Paul Thomson](https://en.wikipedia.org/wiki/Paul_Thomson_(composer)), [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques), [Winifred Phillips](https://en.wikipedia.org/wiki/Winifred_Phillips), [Baiyon](https://en.wikipedia.org/wiki/Baiyon), [Keith Tenniswood](https://en.wikipedia.org/wiki/Keith_Tenniswood), and [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton)
@@ -577,6 +582,7 @@ Gareth Coker
 - [World of Warcraft: Mists of Pandaria](https://en.wikipedia.org/wiki/World_of_Warcraft:_Mists_of_Pandaria) by [Neal Acree](https://en.wikipedia.org/wiki/Neal_Acree), [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), and [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Dragon Quest X](https://en.wikipedia.org/wiki/Dragon_Quest_X) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Bravely Default](https://en.wikipedia.org/wiki/Bravely_Default) by [Revo](https://en.wikipedia.org/wiki/Sound_Horizon)
+- [Professor Layton vs. Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney) by [Tomohito Nishiura](https://en.wikipedia.org/wiki/Tomohito_Nishiura) and Yasumasa Kitagawa
 - [Boderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd), [Sascha Dikiciyan](https://en.wikipedia.org/wiki/Sascha_Dikiciyan), and [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco)
 - [Diablo III](https://en.wikipedia.org/wiki/Diablo_III) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, Edo Guidotti, [Laurence Juber](https://en.wikipedia.org/wiki/Laurence_Juber), Joseph Lawrence, and Glenn Stafford
 - [Kingdom Hearts 3D: Dream Drop Distance](https://en.wikipedia.org/wiki/Kingdom_Hearts_3D:_Dream_Drop_Distance) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura), [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto), and [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
@@ -648,6 +654,7 @@ Gareth Coker
 - [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) by [Marcin Przybyłowicz](https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz) and [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski)
 - [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) by Ryan Amon, Tsukasa Saitoh, Yuka Kitamura, Nobuyoshi Suzuki, [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), and [Michael Wandmacher](https://en.wikipedia.org/wiki/Michael_Wandmacher)
 - [Halo 5: Guardians](https://en.wikipedia.org/wiki/Halo_5:_Guardians) by Kazuma Jinnouchi
+- [The Great Ace Attorney: Adventures](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney:_Adventures) by Yasumasa Kitagawa and Hiromitsu Maeba
 - [Rise of the Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider) by [Bobby Tahouri](https://en.wikipedia.org/wiki/Bobby_Tahouri)
 - [Metal Gear Solid V: The Phantom Pain](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain) by Ludvig Forssell, [Justin Burnett](https://en.wikipedia.org/wiki/Justin_Burnett), and Daniel James
 - [The Legend of Zelda: Tri Force Heroes](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tri_Force_Heroes) by Ryo Nagamatsu
@@ -699,6 +706,7 @@ Gareth Coker
 - [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2) by [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori), Skye Lewin, and C Paul Johnson
 - [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) by [Christopher Larkin](https://en.wikipedia.org/wiki/Christopher_Larkin_(composer))
 - [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) by [Joris de Man](https://en.wikipedia.org/wiki/Joris_de_Man), [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band)), Niels van der Leest, and Jonathan Williams
+- [The Great Ace Attorney 2: Resolve](https://en.wikipedia.org/wiki/The_Great_Ace_Attorney_2:_Resolve) by Yasumasa Kitagawa, Yoshiya Terayama, and Hiromitsu Maeba
 - [What Remains of Edith Finch](https://en.wikipedia.org/wiki/What_Remains_of_Edith_Finch) by [Jeff Russo](https://en.wikipedia.org/wiki/Jeff_Russo)
 - [Assassin's Creed Origins](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins) by [Sarah Schachner](https://en.wikipedia.org/wiki/Sarah_Schachner)
 - [Night in the Woods](https://en.wikipedia.org/wiki/Night_in_the_Woods) by Alec Holowka and Scott Benson
