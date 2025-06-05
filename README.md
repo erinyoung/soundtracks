@@ -17,7 +17,6 @@ Black and White
 Bravely
 Chrono
 Civilization
-Dark Souls
 Diablo
 Donkey Kong
 Donkey Kong Country
@@ -643,6 +642,7 @@ Gareth Coker
 - [Rise of Mana](https://en.wikipedia.org/wiki/Rise_of_Mana) by [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito)
 - [Far Cry 4](https://en.wikipedia.org/wiki/Far_Cry_4) by [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Dragon Age: Inquisition](https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition) by [Trevor Morris](https://en.wikipedia.org/wiki/Trevor_Morris_(musician)), [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur), and Ted Reedy
+- [Dark Souls II](https://en.wikipedia.org/wiki/Dark_Souls_II) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba) and Yuka Kitamura
 - [Wolfenstein: The New Order](https://en.wikipedia.org/wiki/Wolfenstein:_The_New_Order) by [Mick Gordon](https://en.wikipedia.org/wiki/Mick_Gordon_(composer))
 - [Mario Kart 8](https://en.wikipedia.org/wiki/Mario_Kart_8) by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata, and Kenta Nagata
 
@@ -686,6 +686,7 @@ Gareth Coker
 - [Valkyrie Anatomia](https://en.wikipedia.org/wiki/Valkyrie_Anatomia) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
+- [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III) by Yuka Kitamura and [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Phoenix Wright: Ace Attorney – Spirit of Justice](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Spirit_of_Justice) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare), Toshihiko Horiyama, and Masami Onodera
 - [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Adventures of Mana](https://en.wikipedia.org/wiki/Adventures_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
