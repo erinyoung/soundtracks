@@ -7,7 +7,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
 
-Age of Empires
 Assassin's Creed
 Baldur's gate
 Banjo Kazooie
@@ -226,6 +225,7 @@ Gareth Coker
 - [Castlevania: Symphony of the Night](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane)
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
 - [Tomb Raider II](https://en.wikipedia.org/wiki/Tomb_Raider_II) by [Nathan McCree](https://en.wikipedia.org/wiki/Nathan_McCree)
+- ([Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and David Rippy
 - [Tomba!](https://en.wikipedia.org/wiki/Tomba!) by [Harumi Fujita](https://en.wikipedia.org/wiki/Harumi_Fujita)
 
 ## 1998
@@ -253,6 +253,7 @@ Gareth Coker
 - [Vampire: The Masquerade – Redemption](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption) by [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei) and Youth Engine
 - [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy) by Masaya Matsuura, Yoshihisa Suzuki, and Shigeyoshi Kawagoe
 - [Tomb Raider: The Last Revelation](https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation) by [Peter Connelly](https://en.wikipedia.org/wiki/Peter_Connelly)
+- ([Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy)
 - [Samba de Amigo](https://en.wikipedia.org/wiki/Samba_de_Amigo) by Masaru Setsumaru
 - [Valkyrie Profile: Lenneth](https://en.wikipedia.org/wiki/Valkyrie_Profile_(video_game)) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 
@@ -393,6 +394,7 @@ Gareth Coker
 - [Perfect Dark Zero](https://en.wikipedia.org/wiki/Perfect_Dark_Zero) by David Clynick
 - [Musashi: Samurai Legend](https://en.wikipedia.org/wiki/Musashi:_Samurai_Legend) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano), Yuki Iwai, and Takayuki Iwai
 - [Nintendogs](https://en.wikipedia.org/wiki/Nintendogs) by Hajime Wakai
+- ([Age of Empires III](https://en.wikipedia.org/wiki/Age_of_Empires_III)) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy)
 - [Jade Empire](https://en.wikipedia.org/wiki/Jade_Empire) by [Jack Wall](https://en.wikipedia.org/wiki/Jack_Wall_(composer))
 - [Grandia III](https://en.wikipedia.org/wiki/Grandia_III) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
 - [X-Men Legends II: Rise of Apocalpyse](https://en.wikipedia.org/wiki/X-Men_Legends_II:_Rise_of_Apocalypse) by Gregor Narholz
@@ -418,6 +420,7 @@ Gareth Coker
 - [Children of Mana](https://en.wikipedia.org/wiki/Children_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito), [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata), and Takayuki Aihara
 - [Dawn of Mana](https://en.wikipedia.org/wiki/Dawn_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito), [Tsuyoshi Sekito](https://en.wikipedia.org/wiki/Tsuyoshi_Sekito), [Masayoshi Soken](https://en.wikipedia.org/wiki/Masayoshi_Soken), and [Ryuichi Sakamoto](https://en.wikipedia.org/wiki/Ryuichi_Sakamoto)
 - [Fantasy Earth: Zero](https://en.wikipedia.org/wiki/Fantasy_Earth_Zero) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata), [Manabu Namiki](https://en.wikipedia.org/wiki/Manabu_Namiki), and Kenichi Koyano
+- ([Age of Empires: The Age of Kings](https://en.wikipedia.org/wiki/Age_of_Empires:_The_Age_of_Kings)) by Chris Rezanson
 - [Dirge of Cerberus: Final Fantasy VII](https://en.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII) by [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Persona 3](https://en.wikipedia.org/wiki/Persona_3) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 - [Final Fantaxy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), [Hayato Matsuo](https://en.wikipedia.org/wiki/Hayato_Matsuo), and [Masaharu Iwata](https://en.wikipedia.org/wiki/Masaharu_Iwata)
@@ -787,6 +790,7 @@ Gareth Coker
 - [Nier Reincarnation](https://en.wikipedia.org/wiki/Nier_Reincarnation) by [Keiichi Okabe](https://en.wikipedia.org/wiki/Keiichi_Okabe), Shotaro Seo, and Kuniyuki Takahashi
 - [The Artful Escape](https://en.wikipedia.org/wiki/The_Artful_Escape) by Johnny Galvatron and [Josh Abrahams](https://en.wikipedia.org/wiki/Josh_Abrahams)
 - [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) by Soshi Abe and Sayako Doi
+- ([Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)) by Tilman Sillescu, Alexander Röder, Henning Nugel, Armin Haas, [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski), Christian Wirtz, Nicolai Patricio, and Dominik Morgenroth
 - [Forza Horizon 5](https://en.wikipedia.org/wiki/Forza_Horizon_5) by Eduardo de la Iglesia, Matías Cella
 - [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), [Joel Corelitz](https://en.wikipedia.org/wiki/Joel_Corelitz), and Curtis Schweitzer
 - [Bowser's Fury](https://en.wikipedia.org/wiki/Bowser%27s_Fury) by Daisuke Matsuoka and James Phillipsen
