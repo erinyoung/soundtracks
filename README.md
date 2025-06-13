@@ -6,118 +6,116 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-Baldur's gate
-Banjo Kazooie
-Batman Arkam
-Bayonetta
-Black and White
-Bravely
-Chrono
-Civilization
-Diablo
-Donkey Kong
-Donkey Kong Country
-Dragon Age
-Dragon Quest
-Drakenguard
-Earthworm Jim
-Elder Scrolls
-Ever Quest
-Firaxis
-Fire Emblem
-God of War
-Guacamellee
-Harvest Moon
-Jet Set Radio 
-Katamari
-Kid icarus
-King's Quest
-Kirby
-League of Legenes
-Lego
-Lego Ninjago
-Lucky's Tale
-Lufia II
-Master of Orion
-Monkey Island
-Monster Hunter
-Mortal Combat
-Myst
-Neverwinter Nights
-NieR
-Ninja Gaiden
-Panzer Dragoon Saga
-Pikmin
-Pokemon
-Rayman
-Rune factory
-Runescape
-Sly cooper
-Sonic
-Sonic the Hedgehog
-Soul Caliber
-Spider Man
-Splatoon
-Star Fox
-starcraft
-Story of Seasons
-Super Monkey Ball
-Super Smash Brothers
-Tetris Attack
-Tropico
-Valkyria Chronicles
-Vampire: Masqurade
-X-com
-Xeno
-Xenoblade
-Xenoblade saga
-Xenogear
-Yooka Laylee
-Yoshi
+66. Batman Arkam
+65. Bayonetta
+64. Black and White
+63. Bravely
+62. Chrono
+61. Civilization
+60. Diablo
+59. Donkey Kong
+58. Donkey Kong Country
+57. Dragon Age
+56. Dragon Quest
+55. Drakenguard
+54. Earthworm Jim
+53. Elder Scrolls
+52. Ever Quest
+51. Firaxis
+50. Fire Emblem
+49. God of War
+48. Guacamellee
+47. Harvest Moon
+46. Jet Set Radio 
+45. Katamari
+44. Kid icarus
+43. King's Quest
+42. Kirby
+41. League of Legenes
+40. Lego
+39. Lego Ninjago
+38. Lucky's Tale
+37. Lufia II
+36. Master of Orion
+35. Monkey Island
+34. Monster Hunter
+33. Mortal Combat
+32. Myst
+31. Neverwinter Nights
+30. NieR
+29. Ninja Gaiden
+28. Panzer Dragoon Saga
+27. Pikmin
+26. Pokemon
+25. Rayman
+24. Rune factory
+23. Runescape
+22. Sly cooper
+21. Sonic
+20. Sonic the Hedgehog
+19. Soul Caliber
+18. Spider Man
+17. Splatoon
+16. Star Fox
+15. starcraft
+14. Story of Seasons
+13. Super Monkey Ball
+12. Super Smash Brothers
+11. Tetris Attack
+10. Tropico
+9. Valkyria Chronicles
+8. Vampire: Masqurade
+7. X-com
+6. Xeno
+5. Xenoblade
+4. Xenoblade saga
+3. Xenogear
+2. Yooka Laylee
+1. Yoshi
 
 - Video game composers to include all their works in
 
 
-Koji Kondo
-Nobuo Uematsu
-Masato Nakamura
-Yoko SHimomura
-Kazumi Totaka
-Junichi Masuda
-Austin Wintory
-Michiru Yamane
-Koichi Sugiyama
-Yasunori Mitsuda
-Mahito Yokota
-Jake Kaufman (virt)
-Hirokazu “Hip” Tanaka
-Toby Fox
-Jason Graves
-Grant Kirkhope
-Inon Zur
-Garry Schyman
-Hiroki Kikuta
-Shoji Meguro
-Winifred Phillips
-Jack Wall
-Gordy Haab
-Cris Velasco
-Kinuyo Yamashita
-Christopher Larkin
-Neal Acree
-Peter McConnell
-Akira Yamaoka
-Yasunori Nishiki
-Matt Kenyon
-Kenta Nagata
-Motoi Sakuraba
-Noriyuki Iwadare
-Yuzo Koshiro
-Jun Senoue
-Tee Lopes
-David Wise
-Hitoshi Sakimoto
-Gareth Coker
+40. Koji Kondo
+39. Nobuo Uematsu
+38. Masato Nakamura
+37. Yoko SHimomura
+36. Kazumi Totaka
+35. Junichi Masuda
+34. Austin Wintory
+33. Michiru Yamane
+32. Koichi Sugiyama
+31. Yasunori Mitsuda
+30. Mahito Yokota
+29. Jake Kaufman (virt)
+28. Hirokazu “Hip” Tanaka
+27. Toby Fox
+26. Jason Graves
+25. Grant Kirkhope
+24. Inon Zur
+23. Garry Schyman
+22. Hiroki Kikuta
+21. Shoji Meguro
+20. Winifred Phillips
+19. Jack Wall
+18. Gordy Haab
+17. Cris Velasco
+16. Kinuyo Yamashita
+15. Christopher Larkin
+14. Neal Acree
+13. Peter McConnell
+12. Akira Yamaoka
+11. Yasunori Nishiki
+10. Matt Kenyon
+9. Kenta Nagata
+8. Motoi Sakuraba
+7. Noriyuki Iwadare
+6. Yuzo Koshiro
+5. Jun Senoue
+4. Tee Lopes
+3. David Wise
+2. Hitoshi Sakimoto
+1. Gareth Coker
 
 ## 1985
 
@@ -274,6 +272,7 @@ Gareth Coker
 - [Phantasy Star Online](https://en.wikipedia.org/wiki/Phantasy_Star_Online) by Hideaki Kobayashi and Fumie Kumatani
 - [Tomb Raider: Chronicles](https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles) by [Peter Connelly](https://en.wikipedia.org/wiki/Peter_Connelly)
 - [Vagrant Story](https://en.wikipedia.org/wiki/Vagrant_Story) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto)
+- ([Banjo-Tooie](https://en.wikipedia.org/wiki/Banjo-Tooie)) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
 - [Dragon Quest VII](https://en.wikipedia.org/wiki/Dragon_Quest_VII) by [Koichi Sugiyama](https://en.wikipedia.org/wiki/Koichi_Sugiyama)
 - [Escape from Monkey Island](https://en.wikipedia.org/wiki/Escape_from_Monkey_Island) by [Clint Bajakian](https://en.wikipedia.org/wiki/Clint_Bajakian), [Michael Land](https://en.wikipedia.org/wiki/Michael_Land), [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell), Anna Karney, and Michael Lande
 
@@ -329,6 +328,7 @@ Gareth Coker
 - [Beyond Good & Evil](https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral)
 - [Star Wars: Knights of the Old Republic (KOTOR)](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic_(video_game)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [Final Fantasy Tactics Advance](https://en.wikipedia.org/wiki/Final_Fantasy_Tactics_Advance) by [Hitoshi Sakimoto](https://en.wikipedia.org/wiki/Hitoshi_Sakimoto), Kaori Ohkoshi, Ayako Saso, and [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- ([Banjo-Kazooie: Grunty's Revenge](https://en.wikipedia.org/wiki/Banjo-Kazooie:_Grunty%27s_Revenge)) by Jamie Hughes
 - [Ratchet & Clank: Going Commando](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud) and Niels Bye Nielsen
 - [Baten Kaitos](https://en.wikipedia.org/wiki/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Star Ocean: Till the End of Time](https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
@@ -389,6 +389,7 @@ Gareth Coker
 - [Kingdom Hearts II](https://en.wikipedia.org/wiki/Kingdom_Hearts_II) by [Yoko Shimomura](https://en.wikipedia.org/wiki/Yoko_Shimomura)
 - [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton) by Koichi Kyuma and Yuichi Ozaki
 - [Call of Duty 2](https://en.wikipedia.org/wiki/Call_of_Duty_2) by [Graeme Revell](https://en.wikipedia.org/wiki/Graeme_Revell)
+- ([Banjo-Pilot](https://en.wikipedia.org/wiki/Banjo-Pilot)) by [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland) and Jamie Hughes
 - ([We Love Katamari](https://en.wikipedia.org/wiki/We_Love_Katamari)) by [Yuu Miyake](https://en.wikipedia.org/wiki/Yuu_Miyake), Yuri Misumi, Hiroshi Okubo, Masashi Sugiyama, Katsuro Tajima, Akitaka Toyama, and Yoshihito Yano
 - [Devil May Cry 3: Dante's Awakening](https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening) by [Tetsuya Shibata](https://en.wikipedia.org/wiki/Tetsuya_Shibata)
 - [Shadow of the Colussus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
@@ -461,10 +462,12 @@ Gareth Coker
 - [The World Ends with You](https://en.wikipedia.org/wiki/The_World_Ends_with_You) by [Takeharu Ishimoto](https://en.wikipedia.org/wiki/Takeharu_Ishimoto)
 
 ## 2008
+
 - [Persona 4](https://en.wikipedia.org/wiki/Persona_4) by [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 - [Mirror’s Edge](https://en.wikipedia.org/wiki/Mirror%27s_Edge) by [Solar Fields](https://en.wikipedia.org/wiki/Solar_Fields)
 - [LittleBigPlanet](https://en.wikipedia.org/wiki/LittleBigPlanet_(2008_video_game)) by [Daniel Pemberton](https://en.wikipedia.org/wiki/Daniel_Pemberton), [Kenneth Young](https://en.wikipedia.org/wiki/Kenneth_Young_(Scottish_composer)), and Mat Clark
 - [Metal Gear Solid 4: Guns of the Patriots](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams), Nobuko Toda, Shuichi Kobori, and Kazuma Jinnouchi
+- ([Banjo-Kazooie: Nuts & Bolts](https://en.wikipedia.org/wiki/Banjo-Kazooie:_Nuts_%26_Bolts)) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland), and David Clynick
 - [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Cliff Martinez](https://en.wikipedia.org/wiki/Cliff_Martinez)
 - [Grand Theft Auto IV](https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV) by [Michael Hunter](https://en.wikipedia.org/wiki/Michael_Hunter_(composer))
 - [World of Warcraft: Wrath of the Lich King](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King) by [Russell Brower](https://en.wikipedia.org/wiki/Russell_Brower), Derek Duke, and Glenn Stafford
@@ -902,7 +905,7 @@ Gareth Coker
 - [Tekken 8]() by Yusuke Yamauchi, Akitaka Tohyama, Shogo Nomura, Yoshihito Yano, Go Shiina, Shinji Hosoe
 - [Prince of Persia: The Lost Crown](https://en.wikipedia.org/wiki/Prince_of_Persia%3A_The_Lost_Crown) by [Mentrix](https://en.wikipedia.org/wiki/Mentrix) and [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker)
 - [Visions of Mana]() by 
-- [The Legend of Zelda: Echoes of Wisdom](The Legend of Zelda: Echoes of Wisdom) by Hajime Wakai
+- [[The Legend of Zelda: Echoes of Wisdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom)] by Masato Ohashi, Manaka Kataoka, Chisaki Hosaka, Reika Nakai, Yuri Goto, Ryotaro Yagi, and Azusa Kato
 - [8-bit Adventures 2]()
 - [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
