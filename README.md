@@ -6,8 +6,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-
-Assassin's Creed
 Baldur's gate
 Banjo Kazooie
 Batman Arkam
@@ -252,6 +250,7 @@ Gareth Coker
 - [Persona 2: Innocent Sin](https://en.wikipedia.org/wiki/Persona_2:_Innocent_Sin) by Toshiko Tasaki, Kenichi Tsuchiya, Masaki Kurokawa, Toshiki Konishi, Ryota Kozuka, and Atsushi Kitajoh
 - [Vampire: The Masquerade – Redemption](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption) by [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei) and Youth Engine
 - [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy) by Masaya Matsuura, Yoshihisa Suzuki, and Shigeyoshi Kawagoe
+- ([Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)) by [Michael Hoenig](https://en.wikipedia.org/wiki/Michael_Hoenig)
 - [Tomb Raider: The Last Revelation](https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation) by [Peter Connelly](https://en.wikipedia.org/wiki/Peter_Connelly)
 - ([Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy)
 - [Samba de Amigo](https://en.wikipedia.org/wiki/Samba_de_Amigo) by Masaru Setsumaru
@@ -262,6 +261,7 @@ Gareth Coker
 - [Hitman: Codename 47](https://en.wikipedia.org/wiki/Hitman:_Codename_47) by [Jesper Kyd](https://en.wikipedia.org/wiki/Jesper_Kyd)
 - [The Legend of Zelda: Majora's Mask ](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Diablo II](https://en.wikipedia.org/wiki/Diablo_II) by [Matt Uelmen](https://en.wikipedia.org/wiki/Matt_Uelmen)
+- ([Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)) by [Michael Hoenig](https://en.wikipedia.org/wiki/Michael_Hoenig)
 - [Jet Set Radio](https://en.wikipedia.org/wiki/Jet_Set_Radio) by [Hideki Naganuma](https://en.wikipedia.org/wiki/Hideki_Naganuma), [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques), and Tomonori Sawada (Toronto)
 - [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)) by [Alexander Brandon](https://en.wikipedia.org/wiki/Alexander_Brandon), [Dan Gardopée](https://en.wikipedia.org/wiki/Dan_Gardop%C3%A9e)
 [Michiel van den Bos](https://en.wikipedia.org/wiki/Michiel_van_den_Bos), and [Reeves Gabrels](https://en.wikipedia.org/wiki/Reeves_Gabrels)
@@ -284,6 +284,8 @@ Gareth Coker
 - [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) by Masami Ueda, Masato Kohda, and Misao Senbongi
 - [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
 - [Metal Gear Solid 2: Sons of Liberty](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) by [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
+- ([Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)) by [Michael Hoenig](https://en.wikipedia.org/wiki/Michael_Hoenig) and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
+- ([Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule) and [Will Loconto](https://en.wikipedia.org/wiki/Will_Loconto)
 - [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), Shogo Sakai, Tadashi Ikegami, and Takuto Kitsuta
 - [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Kenta Nagata, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and Shinobu Tanaka
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons_and_Oracle_of_Ages) by Minako Adachi and Kiyohiro Sada
@@ -355,6 +357,7 @@ Gareth Coker
 - [The Legend of Zelda: Four Swords Adventures](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Four_Swords_Adventures) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo) and Asuka Ota
 - [The Legend of Zelda: The Minish Cap](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Minish_Cap) by Mitsuhiko Takano
 - [Metal Gear Solid 3: Snake Eater](https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater) by Ha[rry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams) and [Norihiko Hibino](https://en.wikipedia.org/wiki/Norihiko_Hibino)
+- ([Baldur's Gate: Dark Alliance II](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance_II)) by Craig Stuart Garfinkle and [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule)
 - [World of Warcraft](https://en.wikipedia.org/wiki/World_of_Warcraft) by Jason Hayes & team
 - [Ratchet & Clank: Up Your Arsenal](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Up_Your_Arsenal) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) by [Kenji Yamamoto](https://en.wikipedia.org/wiki/Kenji_Yamamoto_(composer,_born_1964)) and Minako Hamano
@@ -791,6 +794,7 @@ Gareth Coker
 - [The Artful Escape](https://en.wikipedia.org/wiki/The_Artful_Escape) by Johnny Galvatron and [Josh Abrahams](https://en.wikipedia.org/wiki/Josh_Abrahams)
 - [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) by Soshi Abe and Sayako Doi
 - ([Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)) by Tilman Sillescu, Alexander Röder, Henning Nugel, Armin Haas, [Mikolai Stroinski](https://en.wikipedia.org/wiki/Mikolai_Stroinski), Christian Wirtz, Nicolai Patricio, and Dominik Morgenroth
+- ([Dungeons & Dragons: Dark Alliance](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Dark_Alliance)) by Vibe Avenue
 - [Forza Horizon 5](https://en.wikipedia.org/wiki/Forza_Horizon_5) by Eduardo de la Iglesia, Matías Cella
 - [Halo Infinite](https://en.wikipedia.org/wiki/Halo_Infinite) by [Gareth Coker](https://en.wikipedia.org/wiki/Gareth_Coker), [Joel Corelitz](https://en.wikipedia.org/wiki/Joel_Corelitz), and Curtis Schweitzer
 - [Bowser's Fury](https://en.wikipedia.org/wiki/Bowser%27s_Fury) by Daisuke Matsuoka and James Phillipsen
