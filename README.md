@@ -6,8 +6,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-65. Bayonetta
-64. Black and White
 63. Bravely
 62. Chrono
 61. Civilization
@@ -242,7 +240,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Donkey Kong 64](https://en.wikipedia.org/wiki/Donkey_Kong_64) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
 - [EverQuest](https://en.wikipedia.org/wiki/EverQuest) by Jay Barbeau
-- [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [Persona 2: Innocent Sin](https://en.wikipedia.org/wiki/Persona_2:_Innocent_Sin) by Toshiko Tasaki, Kenichi Tsuchiya, Masaki Kurokawa, Toshiki Konishi, Ryota Kozuka, and Atsushi Kitajoh
 - [Vampire: The Masquerade – Redemption](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption) by [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei) and Youth Engine
@@ -285,6 +282,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - ([Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)) by [Michael Hoenig](https://en.wikipedia.org/wiki/Michael_Hoenig) and [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - ([Baldur's Gate: Dark Alliance](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Dark_Alliance)) by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule) and [Will Loconto](https://en.wikipedia.org/wiki/Will_Loconto)
 - [Super Smash Bros. Melee](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) by [Hirokazu Ando](https://en.wikipedia.org/wiki/Hirokazu_Ando), Shogo Sakai, Tadashi Ikegami, and Takuto Kitsuta
+- ([Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))) by [Russell Shaw](https://en.wikipedia.org/wiki/Russell_Shaw_(composer))
 - [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka), Kenta Nagata, [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and Shinobu Tanaka
 - [The Legend of Zelda: Oracle of Seasons and Oracle of Ages](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Oracle_of_Seasons_and_Oracle_of_Ages) by Minako Adachi and Kiyohiro Sada
 - [Luigi's Mansion](https://en.wikipedia.org/wiki/Luigi%27s_Mansion) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka) and Shinobu Tanaka
@@ -382,6 +380,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - [Drakengard 2](https://en.wikipedia.org/wiki/Drakengard_2) by Ryoki Matsumoto and Aoi Yoshiki
 - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus) by [Kow Otani](https://en.wikipedia.org/wiki/Kow_Otani)
+- ([Black & White 2](https://en.wikipedia.org/wiki/Black_%26_White_2)) by Craig Beattie
 - [Ratchet: Deadlocked](https://en.wikipedia.org/wiki/Ratchet:_Deadlocked) by [David Bergeaud](https://en.wikipedia.org/wiki/David_Bergeaud)
 - [Resident Evil 4](https://en.wikipedia.org/wiki/Resident_Evil_4) by Misao Senbongi and Shusaku Uchiyama
 - [Psychonauts](https://en.wikipedia.org/wiki/Psychonauts) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
@@ -552,7 +551,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Deus Ex: Human Revolution](https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution) by [Michael McCann](https://en.wikipedia.org/wiki/Michael_McCann_(composer))
 - [Uncharted 3: Drake's Deception](https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception) by [Greg Edmonson](https://en.wikipedia.org/wiki/Greg_Edmonson)
 - [L.A. Noire](https://en.wikipedia.org/wiki/L.A._Noire) by Andrew Hale and [Simon Hale](https://en.wikipedia.org/wiki/Simon_Hale)
-- [The Legend of Zelda: Skyward Sword](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword) by Hajime Wakai, Shiho Fujii, [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), and Takeshi Hama
+- ([The Legend of Zelda: Skyward Sword](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword)) by Hajime Wakai, Shiho Fujii, [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), and Takeshi Hama
 - [Rayman Origins](https://en.wikipedia.org/wiki/Rayman_Origins) by [Christophe Héral](https://en.wikipedia.org/wiki/Christophe_H%C3%A9ral) and Billy Martin
 - [Dead Space 2](https://en.wikipedia.org/wiki/Dead_Space_2) by [Jason Graves](https://en.wikipedia.org/wiki/Jason_Graves)
 - [Final Fantasy XIII-2](https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and Mitsuto Suzuki
