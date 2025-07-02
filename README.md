@@ -6,7 +6,6 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-66. Batman Arkam
 65. Bayonetta
 64. Black and White
 63. Bravely
@@ -622,6 +621,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Guacamelee!](https://en.wikipedia.org/wiki/Guacamelee!) by [Rom Di Prisco](https://en.wikipedia.org/wiki/Rom_Di_Prisco) and [Peter Chapman](https://en.wikipedia.org/wiki/Coins_(composer))
 - [Lightning Returns: Final Fantasy XIII](https://en.wikipedia.org/wiki/Lightning_Returns:_Final_Fantasy_XIII) by [Naoshi Mizuta](https://en.wikipedia.org/wiki/Naoshi_Mizuta), Mitsuto Suzuki, and [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)
 - [Phoenix Wright: Ace Attorney – Dual Destinies](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Dual_Destinies) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare)
+- [Batman: Arkham Origins](https://en.wikipedia.org/wiki/Batman:_Arkham_Origins) by [Christopher Drake](https://en.wikipedia.org/wiki/Christopher_Drake) and [Don Diablo](https://en.wikipedia.org/wiki/Don_Diablo)
 - [God of War: Ascension](https://en.wikipedia.org/wiki/God_of_War:_Ascension) by [Tyler Bates](https://en.wikipedia.org/wiki/Tyler_Bates)
 - [Super Mario 3d World](https://en.wikipedia.org/wiki/Super_Mario_3D_World) by [Mahito Yokota](https://en.wikipedia.org/wiki/Mahito_Yokota), [Toru Minegishi](https://en.wikipedia.org/wiki/Toru_Minegishi), and [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Luigi's Mansion: Dark Moon](https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon) by Chad York, Darren Radtke, and Mike Peacock
@@ -697,6 +697,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
 - [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III) by Yuka Kitamura and [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Phoenix Wright: Ace Attorney – Spirit of Justice](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Spirit_of_Justice) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare), Toshihiko Horiyama, and Masami Onodera
+- [Batman: Arkham VR](https://en.wikipedia.org/wiki/Batman:_Arkham_VR) by Nick Arundel and [David Buckley](https://en.wikipedia.org/wiki/David_Buckley)
 - [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) by [Henry Jackman](https://en.wikipedia.org/wiki/Henry_Jackman)
 - [Adventures of Mana](https://en.wikipedia.org/wiki/Adventures_of_Mana) by [Kenji Ito](https://en.wikipedia.org/wiki/Kenji_Ito)
 - [Skylanders: Imaginators](https://en.wikipedia.org/wiki/Skylanders:_Imaginators) by [Lorne Balfe](https://en.wikipedia.org/wiki/Lorne_Balfe)
@@ -909,6 +910,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [8-bit Adventures 2]()
 - [Animal Well](https://en.wikipedia.org/wiki/Animal_Well) by Billy Basso
 - [1000xResist]()
+- [Suicide Squad: Kill the Justice League](https://en.wikipedia.org/wiki/Suicide_Squad:_Kill_the_Justice_League) by Nick Arundel and Rupert Cross
 - [Elden Ring]()
 - [Beastieball]()
 - [Wangan Midnight Maximum Tune 6RR & 6RR Plus Original Sound Track]()
@@ -927,6 +929,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Crow Country]()
 - [Egg Squeeze]()
 - [Wilmot Works It Out]()
+- [Batman: Arkham Shadow](https://en.wikipedia.org/wiki/Batman:_Arkham_Shadow) by Kazuma Jinnouchi, Nobuko Toda, Chris Burgess, and Seth Wright
   
 ## 2025
 
