@@ -21,6 +21,23 @@ jobs:
 
       # Runs a single command using the runners shell
       - name:  choose_ost
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           ost=$(grep "\- " README.md | grep -v "\- (" | sort --random-sort | head -n 1 )
           echo "The ost is $ost"
+
+          game=$(echo $ost | sed 's/- \[//g' | sed 's/\](.*//g')
+
+          response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$GEMINI_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"contents\": [{
+                \"parts\": [{
+                  \"text\": \"$question\"
+                }]
+              }]
+            }")
+
+          echo "$response" | jq -r '.candidates[0].content.parts[0].text'
+          
