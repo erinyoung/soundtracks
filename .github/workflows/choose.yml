@@ -31,7 +31,9 @@ jobs:
 
           echo "The game is $game"
 
-          question="Tell me about the soundtrack for $game and tell me the pros and cons of listening to it at work."
+          question="Tell me about the soundtrack for ${game}."
+
+          echo "The question is \"$question\""
           
           response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
