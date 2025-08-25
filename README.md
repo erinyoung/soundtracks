@@ -6,11 +6,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - Full list of franchises to look through : https://en.wikipedia.org/wiki/List_of_video_game_franchises
 
-63. Bravely
-62. Chrono
-61. Civilization
-60. Diablo
-59. Donkey Kong
+1. Donkey Kong
 58. Donkey Kong Country
 57. Dragon Age
 56. Dragon Quest
@@ -73,7 +69,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - Video game composers to include all their works in
 
 
-40. Koji Kondo
+1. Koji Kondo
 39. Nobuo Uematsu
 38. Masato Nakamura
 37. Yoko SHimomura
@@ -155,6 +151,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 1991
 
 - ([Final Fantasy IV](https://en.wikipedia.org/wiki/Final_Fantasy_IV)) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
+- ([Sid Meier's Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) by Jeffery L. Briggs)
 - [Metroid II: Return of Samus](https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus) by Ryoji Yoshitomi
 - [The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)) by [Masato Nakamura](https://en.wikipedia.org/wiki/Masato_Nakamura)
@@ -182,6 +179,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 1994
 
 - [Donkey Kong Country](https://en.wikipedia.org/wiki/Donkey_Kong_Country) by [David Wise](https://en.wikipedia.org/wiki/David_Wise_(composer)), [Eveline Novakovic](https://en.wikipedia.org/wiki/Eveline_Fischer), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
+- ([Sid Meier's Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization) by Jeff Briggs, Ken Lagace, Roland J. Rizzo, and Allister Brimble)
 - [Final Fantasy VI](https://en.wikipedia.org/wiki/Final_Fantasy_VI) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu)
 - [EarthBound (Mother 2)](https://en.wikipedia.org/wiki/EarthBound) by [Keiichi Suzuki](https://en.wikipedia.org/wiki/Keiichi_Suzuki) and [Hirokazu Tanaka](https://en.wikipedia.org/wiki/Hirokazu_Tanaka)
 - [Sonic & Knuckles](https://en.wikipedia.org/wiki/Sonic_%26_Knuckles) by [Howard Drossin](https://en.wikipedia.org/wiki/Howard_Drossin), Sachio Ogawa, Tatsuyuki Maeda, and [Jun Senoue](https://en.wikipedia.org/wiki/Jun_Senoue)
@@ -202,6 +200,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64) by [Koji Kondo](https://en.wikipedia.org/wiki/Koji_Kondo)
 - [Quake](https://en.wikipedia.org/wiki/Quake_(video_game)) by [Trent Reznor](https://en.wikipedia.org/wiki/Trent_Reznor) and [Nine Inch Nails](https://en.wikipedia.org/wiki/Nine_Inch_Nails)
+- ([Civilization II](https://en.wikipedia.org/wiki/Civilization_II) by [Jeff Briggs](https://en.wikipedia.org/wiki/Jeff_Briggs), Roland J. Rizzo, and [Kevin Manthei](https://en.wikipedia.org/wiki/Kevin_Manthei))
 - [Pokémon Red, Blue, and Yellow](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow) by Junichi Masuda
 - [Revelations: Persona](https://en.wikipedia.org/wiki/Revelations:_Persona) by Hidehito Aoki, Misaki Okibe, Kenichi Tsuchiya, and [Shoji Meguro](https://en.wikipedia.org/wiki/Shoji_Meguro)
 - [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper) by Masaya Matsuura and Yoshihisa Suzuki
@@ -217,6 +216,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Yoshi's Story](https://en.wikipedia.org/wiki/Yoshi%27s_Story) by [Kazumi Totaka](https://en.wikipedia.org/wiki/Kazumi_Totaka)
 - [Castlevania: Symphony of the Night](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) by [Michiru Yamane](https://en.wikipedia.org/wiki/Michiru_Yamane)
 - [GoldenEye 007](https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)) by [Graeme Norgate](https://en.wikipedia.org/wiki/Graeme_Norgate), [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope), and [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
+- ([Diablo](https://en.wikipedia.org/wiki/Diablo_(video_game))) by [Matt Uelmen](https://en.wikipedia.org/wiki/Matt_Uelmen)
 - [Tomb Raider II](https://en.wikipedia.org/wiki/Tomb_Raider_II) by [Nathan McCree](https://en.wikipedia.org/wiki/Nathan_McCree)
 - ([Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game))) by [Stephen Rippy](https://en.wikipedia.org/wiki/Stephen_Rippy) and David Rippy
 - [Tomba!](https://en.wikipedia.org/wiki/Tomba!) by [Harumi Fujita](https://en.wikipedia.org/wiki/Harumi_Fujita)
@@ -236,6 +236,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 1999
 
 - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) by Dennis Martin and [Takeo Miratsu](https://en.wikipedia.org/wiki/Takeo_Miratsu)
+- ([Sid Meier's Alpha Centauri](https://en.wikipedia.org/wiki/Sid_Meier%27s_Alpha_Centauri) by [Jeff Briggs](https://en.wikipedia.org/wiki/Jeff_Briggs) and David Evans)
 - [Silent Hill](https://en.wikipedia.org/wiki/Silent_Hill_(video_game)) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
 - [Donkey Kong 64](https://en.wikipedia.org/wiki/Donkey_Kong_64) by [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope)
 - [Chrono Cross](https://en.wikipedia.org/wiki/Chrono_Cross) by [Yasunori Mitsuda](https://en.wikipedia.org/wiki/Yasunori_Mitsuda)
@@ -275,6 +276,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 2001
 
 - [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X) by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu), [Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu), and [Junya Nakano](https://en.wikipedia.org/wiki/Junya_Nakano)
+- ([Civilization III](https://en.wikipedia.org/wiki/Civilization_III) by [Roger Briggs](https://en.wikipedia.org/wiki/Roger_Briggs) and Mark Cromer)
 - [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved) by [Martin O'Donnell](https://en.wikipedia.org/wiki/Martin_O%27Donnell) and [Michael Salvatori](https://en.wikipedia.org/wiki/Michael_Salvatori)
 - [Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) by Masami Ueda, Masato Kohda, and Misao Senbongi
 - [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2) by [Akira Yamaoka](https://en.wikipedia.org/wiki/Akira_Yamaoka)
@@ -632,6 +634,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 
 - [Titanfall](https://en.wikipedia.org/wiki/Titanfall_(video_game)) by [Stephen Barton](https://en.wikipedia.org/wiki/Stephen_Barton)
 - [The Elder Scrolls Online](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online) by Brad Derrick
+- ([Civilization: Beyond Earth](https://en.wikipedia.org/wiki/Civilization:_Beyond_Earth) by Griffin Cohen, [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr), Michael Curran, and [Grant Kirkhope](https://en.wikipedia.org/wiki/Grant_Kirkhope))
 - [Fantasia: Music Evolved](https://en.wikipedia.org/wiki/Fantasia:_Music_Evolved) by [Inon Zur](https://en.wikipedia.org/wiki/Inon_Zur)
 - [Tropico 5](https://en.wikipedia.org/wiki/Tropico_5)
 - [Hearthstone](https://en.wikipedia.org/wiki/Hearthstone) by [Peter McConnell](https://en.wikipedia.org/wiki/Peter_McConnell)
@@ -694,6 +697,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Valkyrie Anatomia](https://en.wikipedia.org/wiki/Valkyrie_Anatomia) by [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Oxenfree](https://en.wikipedia.org/wiki/Oxenfree) by [Andrew Rohrmann](https://en.wikipedia.org/wiki/Scntfc)
 - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game)) by Derek Duke
+- [Civilization VI](https://en.wikipedia.org/wiki/Civilization_VI) by [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr)
 - [Dark Souls III](https://en.wikipedia.org/wiki/Dark_Souls_III) by Yuka Kitamura and [Motoi Sakuraba](https://en.wikipedia.org/wiki/Motoi_Sakuraba)
 - [Phoenix Wright: Ace Attorney – Spirit of Justice](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Spirit_of_Justice) by [Noriyuki Iwadare](https://en.wikipedia.org/wiki/Noriyuki_Iwadare), Toshihiko Horiyama, and Masami Onodera
 - [Batman: Arkham VR](https://en.wikipedia.org/wiki/Batman:_Arkham_VR) by Nick Arundel and [David Buckley](https://en.wikipedia.org/wiki/David_Buckley)
@@ -933,6 +937,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 ## 2025
 
 - [Assassin's Creed Shadows](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows) by [The Flight](https://en.wikipedia.org/wiki/The_Flight_(band)) and [TEKE::TEKE](https://en.wikipedia.org/wiki/TEKE::TEKE)
+- [Civilization VII](https://en.wikipedia.org/wiki/Civilization_VII) by [Geoff Knorr](https://en.wikipedia.org/wiki/Geoff_Knorr), Roland Rizzo, and [Christopher Tin](https://en.wikipedia.org/wiki/Christopher_Tin)
 
 ## 2026
 ## 2027
