@@ -344,7 +344,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Tomb Raider: The Angel of Darkness](https://en.wikipedia.org/wiki/Tomb_Raider:_The_Angel_of_Darkness) by [Peter Connelly](https://en.wikipedia.org/wiki/Peter_Connelly) and Martin Iveson
 - [Final Fantasy X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X-2) by [Noriko Matsueda](https://en.wikipedia.org/wiki/Noriko_Matsueda) and [Takahito Eguchi](https://en.wikipedia.org/wiki/Takahito_Eguchi)
 - [Star Wars Galaxies](https://en.wikipedia.org/wiki/Star_Wars_Galaxies) by Anna Karney
-- [Tropico 2: Pirate Cove](https://en.wikipedia.org/wiki/Tropico_2:_Pirate_Cove) by Daniel Indart
+- ([Tropico 2: Pirate Cove](https://en.wikipedia.org/wiki/Tropico_2:_Pirate_Cove)) by Daniel Indart
 - [Star Wars Jedi Knight: Jedi Academy](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy) by Clint Bajakian
 
 ## 2004
