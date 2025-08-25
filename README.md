@@ -809,7 +809,7 @@ Below is a incomplete list of video game soundtracks that I think are great to l
 - [Ratchet & Clank: Rift Apart](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Rift_Apart) by [Mark Mothersbaugh](https://en.wikipedia.org/wiki/Mark_Mothersbaugh) and [Wataru Hokoyama](https://en.wikipedia.org/wiki/Wataru_Hokoyama)
 - [Deathloop](https://en.wikipedia.org/wiki/Deathloop) by [Tom Salta](https://en.wikipedia.org/wiki/Tom_Salta)
 - [Marvel's Guardians of the Galaxy](https://en.wikipedia.org/wiki/Marvel%27s_Guardians_of_the_Galaxy) by [Richard Jacques](https://en.wikipedia.org/wiki/Richard_Jacques)
-- [Far Cry 6](https://en.wikipedia.org/wiki/Far_Cry_6) by [Pedro Bromfman](https://en.wikipedia.org/wiki/Pedro_Bromfman)
+- ([Far Cry 6](https://en.wikipedia.org/wiki/Far_Cry_6)) by [Pedro Bromfman](https://en.wikipedia.org/wiki/Pedro_Bromfman)
 - [Hitman 3](https://en.wikipedia.org/wiki/Hitman_3) by Niels Bye Nielsen
 - [Unpacking](https://en.wikipedia.org/wiki/Unpacking_(video_game)) by [Jeff van Dyck](https://en.wikipedia.org/wiki/Jeff_van_Dyck)
 - [Inscryption](https://en.wikipedia.org/wiki/Inscryption) by Jonah Senzel
